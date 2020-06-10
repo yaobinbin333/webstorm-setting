@@ -76,16 +76,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" timestamp="1591776924119">
-        <mark key="[" line="26" column="37" />
-        <mark key="]" line="28" column="38" />
-        <mark key="." line="28" column="37" />
-        <mark key="^" line="28" column="38" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" timestamp="1591782608602">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialLib.ts" timestamp="1591772941859">
         <mark key="[" line="24" column="2" />
         <mark key="]" line="24" column="2" />
         <mark key="." line="24" column="2" />
+      </file>
+      <file name="/fragment.js" timestamp="1591782571148">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/controller/materialLibController.ts" timestamp="1591771807742">
         <mark key="'" line="1" column="47" />
@@ -120,7 +122,7 @@
         <mark key="." line="139" column="25" />
         <mark key="^" line="139" column="25" />
       </file>
-      <file name="/JavaScript Console" timestamp="1591775728601">
+      <file name="/JavaScript Console" timestamp="1591782505939">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/node_modules/sequelize/types/lib/transaction.d.ts" timestamp="1591773831308" />
@@ -244,7 +246,7 @@
         <text encoding="base64">CQkJCQlhZGRPcGVyYXRvcigKCQkJCQkJKHg6IHN0cmluZykgPT4gc3RhdGVtZW50LnJlcGxhY2UobGVmdCwgeCksCgkJCQkJCSh4OiBzdHJpbmcsIHk6IHN0cmluZykgPT4gc3RhdGVtZW50LnJlcGxhY2UobGVmdCwgeCkucmVwbGFjZShyaWdodCwgeSksCgkJCQkJKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgc2VxdWxpemUgZnJvbSAnc2VxdWVsaXplJzsK</text>
+        <text encoding="base64">ICAgIC8vIEB0cy1pZ25vcmUKICAgIGNvbnNvbGUubG9nKHRoaXMuY3R4LmFwcC5zZXF1ZWxpemUpCg==</text>
       </register>
       <register name="-" type="4">
         <text>sequlize.Transaction({sequlize.Sequelize}).transaction</text>
@@ -267,34 +269,34 @@
         <text encoding="base64">ICAgICAgICBzdGF0dXM6IGNvbnN0YW50cy5NYXRlcmlhbFN0YXR1cy5saXZlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgc2VxdWxpemUgZnJvbSAnc2VxdWVsaXplJzsK</text>
+        <text encoding="base64">ICAgIC8vIEB0cy1pZ25vcmUKICAgIGNvbnNvbGUubG9nKHRoaXMuY3R4LmFwcC5zZXF1ZWxpemUpCg==</text>
       </register>
       <register name="q" type="4">
         <text encoding="base64">PEZvcm1JdGVtCgkJCQkJCWxhYmVsPSLpq5jluqYiCgkJCQkJCW5hbWU9ImhlaWdodCIKCQkJCQkJbGFiZWxDb2w9ezZ9CgkJCQkJCXdyYXBwZXJDb2w9ezE4fQoJCQkJCQlsYWJlbFRleHRBbGlnbj0ibGVmdCIKCQkJCQkJaW5pdFZhbHVlPXtkZWZhdWx0VmFsdWVzLmhlaWdodH0KCQkJCQk+CgkJCQkJCTxJbnB1dCAvPgoJCQkJCTwvRm9ybUl0ZW0+</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIEB0cy1pZ25vcmUKICAgIGNvbnNvbGUubG9nKDk5LCBzZXF1bGl6ZS5TZXF1ZWxpemUudHJhbnNhY3Rpb24pCg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgc2VxdWxpemUgZnJvbSAnc2VxdWVsaXplJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIEB0cy1pZ25vcmUKICAgIGNvbnNvbGUubG9nKDk5LCBzZXF1bGl6ZS5TZXF1ZWxpemUudHJhbnNhY3Rpb24pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIEB0cy1pZ25vcmUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDMzMywgc2VxdWxpemUuU2VxdWVsaXplLnRyYW5zYWN0aW9uKTsK</text>
+        <text encoding="base64">ICAgIC8vIEB0cy1pZ25vcmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNlcXVsaXplLnRyYW5zYWN0aW9uCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDMzMywgc2VxdWxpemUuU2VxdWVsaXplLnRyYW5zYWN0aW9uKTsK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIHNlcXVsaXplLnRyYW5zYWN0aW9uCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIC8vIHNlcXVsaXplLlNlcXVlbGl6ZS50cmFuc2FjdGlvbigpCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">dHJhbnNhY3Rpb24oKCkgPT4gewoKICAgIH0p</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHNlcXVsaXplLnNlcQo=</text>
       </register>
       <register name=":" type="4">
         <text>22</text>
