@@ -76,23 +76,25 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/kettle/config/proxy.js" timestamp="1591350918511">
-        <mark key="'" line="96" column="8" />
-        <mark key="[" line="139" column="75" />
-        <mark key="]" line="139" column="75" />
-        <mark key="." line="139" column="25" />
-        <mark key="^" line="139" column="25" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" timestamp="1591775023626">
+        <mark key="[" line="26" column="37" />
+        <mark key="]" line="28" column="38" />
+        <mark key="." line="28" column="37" />
+        <mark key="^" line="28" column="38" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialEntity.ts" timestamp="1591672295278" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialLib.ts" timestamp="1591772941859">
+        <mark key="[" line="24" column="2" />
+        <mark key="]" line="24" column="2" />
+        <mark key="." line="24" column="2" />
+      </file>
+      <file name="$USER_HOME$/miniapp-open/material/src/app/controller/materialLibController.ts" timestamp="1591771807742">
+        <mark key="'" line="1" column="47" />
+      </file>
+      <file name="$USER_HOME$/miniapp-open/material/node_modules/sequelize/types/index.d.ts" timestamp="1591773392849" />
       <file name="$USER_HOME$/compiler/Hera/Hera-Lang/src/core.ts" timestamp="1591468739962">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/kettle/app/service/MockLoginService.js" timestamp="1591351696673">
-        <mark key="[" line="14" column="17" />
-        <mark key="]" line="14" column="17" />
-        <mark key="." line="14" column="17" />
-        <mark key="^" line="6" column="28" />
-      </file>
+      <file name="$USER_HOME$/miniapp-open/material/node_modules/sequelize-typescript/dist/index.d.ts" timestamp="1591773783656" />
       <file name="$USER_HOME$/workspace/kettle/app/extend/context.js" timestamp="1591375293442">
         <mark key="[" line="101" column="19" />
         <mark key="]" line="133" column="25" />
@@ -102,14 +104,38 @@
       <file name="/" timestamp="1591699655527">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/miniapp-open/material/src/app.ts" timestamp="1591774890221">
+        <mark key="[" line="27" column="22" />
+        <mark key="]" line="4" column="30" />
+        <mark key="^" line="4" column="30" />
+        <mark key="." line="4" column="29" />
+      </file>
+      <file name="$USER_HOME$/miniapp-open/material/node_modules/sequelize/types/lib/sequelize.d.ts" timestamp="1591774218292">
+        <mark key="'" line="1066" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/kettle/config/proxy.js" timestamp="1591350918511">
+        <mark key="'" line="96" column="8" />
+        <mark key="[" line="139" column="75" />
+        <mark key="]" line="139" column="75" />
+        <mark key="." line="139" column="25" />
+        <mark key="^" line="139" column="25" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1591775728601">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/miniapp-open/material/node_modules/sequelize/types/lib/transaction.d.ts" timestamp="1591773831308" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/interface/material/lib.ts" timestamp="1591771706429">
+        <mark key="[" line="4" column="47" />
+      </file>
+      <file name="$USER_HOME$/miniapp-open/material/package.json" timestamp="1591773534865" />
+      <file name="$USER_HOME$/workspace/kettle/app/service/MockLoginService.js" timestamp="1591351696673">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="14" column="17" />
+        <mark key="." line="14" column="17" />
+        <mark key="^" line="6" column="28" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="42" filename="$USER_HOME$/compiler/parserc/examples/HeraScript/parser.ts" />
-      <jump line="322" column="13" filename="$USER_HOME$/workspace/message/tb-im-h5/src/components/AlistTemplateMessage.tsx" />
-      <jump line="325" column="0" filename="$USER_HOME$/workspace/message/tb-im-h5/src/components/AlistTemplateMessage.tsx" />
-      <jump line="10" column="0" filename="$USER_HOME$/workspace/message/tb-im-h5/src/components/AlistTemplateMessage.tsx" />
-      <jump line="127" column="53" filename="$USER_HOME$/compiler/parserc/examples/HeraScript/parser.ts" />
-      <jump line="348" column="36" filename="$USER_HOME$/compiler/parserc/examples/HeraScript/parser.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/compiler/parserc/examples/HeraScript/parser.ts" />
       <jump line="3" column="0" filename="$USER_HOME$/compiler/parserc/examples/HeraScript/parser.ts" />
       <jump line="285" column="0" filename="$USER_HOME$/compiler/parserc/examples/HeraScript/parser.ts" />
@@ -204,6 +230,12 @@
       <jump line="586" column="20" filename="$USER_HOME$/compiler/Hera/Hera-Lang/src/core.ts" />
       <jump line="217" column="2" filename="$USER_HOME$/compiler/Hera/Hera-Lang/src/core.ts" />
       <jump line="3" column="0" filename="$USER_HOME$/compiler/Hera/Hera-Lang/src/core.ts" />
+      <jump line="46" column="0" filename="$USER_HOME$/miniapp-open/material/src/app/controller/materialLibController.ts" />
+      <jump line="1" column="47" filename="$USER_HOME$/miniapp-open/material/src/app/controller/materialLibController.ts" />
+      <jump line="35" column="0" filename="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" />
+      <jump line="7" column="29" filename="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" />
+      <jump line="36" column="0" filename="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" />
+      <jump line="1066" column="29" filename="$USER_HOME$/miniapp-open/material/node_modules/sequelize/types/lib/sequelize.d.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -212,10 +244,10 @@
         <text encoding="base64">CQkJCQlhZGRPcGVyYXRvcigKCQkJCQkJKHg6IHN0cmluZykgPT4gc3RhdGVtZW50LnJlcGxhY2UobGVmdCwgeCksCgkJCQkJCSh4OiBzdHJpbmcsIHk6IHN0cmluZykgPT4gc3RhdGVtZW50LnJlcGxhY2UobGVmdCwgeCkucmVwbGFjZShyaWdodCwgeSksCgkJCQkJKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIHRoaXMudXNlcklkOwo=</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgc2VxdWxpemUgZnJvbSAnc2VxdWVsaXplJzsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICYmIHR5cGVvZiBtb2NrSW5kZW50aXR5SWQgPT09ICdzdHJpbmcn</text>
+        <text>sequlize.Transaction({sequlize.Sequelize}).transaction</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -235,37 +267,34 @@
         <text encoding="base64">ICAgICAgICBzdGF0dXM6IGNvbnN0YW50cy5NYXRlcmlhbFN0YXR1cy5saXZlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIHRoaXMudXNlcklkOwo=</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgc2VxdWxpemUgZnJvbSAnc2VxdWVsaXplJzsK</text>
       </register>
       <register name="q" type="4">
         <text encoding="base64">PEZvcm1JdGVtCgkJCQkJCWxhYmVsPSLpq5jluqYiCgkJCQkJCW5hbWU9ImhlaWdodCIKCQkJCQkJbGFiZWxDb2w9ezZ9CgkJCQkJCXdyYXBwZXJDb2w9ezE4fQoJCQkJCQlsYWJlbFRleHRBbGlnbj0ibGVmdCIKCQkJCQkJaW5pdFZhbHVlPXtkZWZhdWx0VmFsdWVzLmhlaWdodH0KCQkJCQk+CgkJCQkJCTxJbnB1dCAvPgoJCQkJCTwvRm9ybUl0ZW0+</text>
       </register>
-      <register name="2" type="4">
-        <text>{
-					interfaceName: ,
-					version: '1.0.0',
-				},</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC8vIEB0cy1pZ25vcmUKICAgIGNvbnNvbGUubG9nKDk5LCBzZXF1bGl6ZS5TZXF1ZWxpemUudHJhbnNhY3Rpb24pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQknaGVyYS5qcyc6ICcvaGVyYS9jb3JlLmpzJywK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQk8c2NyaXB0IHNyYz0iJVBVQkxJQ19VUkwlL2NvZGVNaXJyb3IvaGVyYS5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgIC8vIEB0cy1pZ25vcmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PCEtLQkJPHNjcmlwdCBzcmM9IiVQVUJMSUNfVVJMJS9oZXJhL2NvcmUuanMiPjwvc2NyaXB0Pi0tPgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDMzMywgc2VxdWxpemUuU2VxdWVsaXplLnRyYW5zYWN0aW9uKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgIHNlcXVsaXplLnRyYW5zYWN0aW9uCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Implc3QiOiB7CgkJInJvb3RzIjogWwoJCQkiPHJvb3REaXI+L3NyYyIKCQldLAoJCSJjb2xsZWN0Q292ZXJhZ2VGcm9tIjogWwoJCQkic3JjLyoqLyoue2pzLGpzeCx0cyx0c3h9IiwKCQkJIiFzcmMvKiovKi5kLnRzIgoJCV0sCgkJInNldHVwRmlsZXMiOiBbCgkJCSJyZWFjdC1hcHAtcG9seWZpbGwvanNkb20iCgkJXSwKCQkic2V0dXBGaWxlc0FmdGVyRW52IjogWwoJCQkiPHJvb3REaXI+L3NyYy9zZXR1cFRlc3RzLmpzIgoJCV0sCgkJInRlc3RNYXRjaCI6IFsKCQkJIjxyb290RGlyPi9zcmMvKiovX190ZXN0c19fLyoqLyoue2pzLGpzeCx0cyx0c3h9IiwKCQkJIjxyb290RGlyPi9zcmMvKiovKi57c3BlYyx0ZXN0fS57anMsanN4LHRzLHRzeH0iCgkJXSwKCQkidGVzdEVudmlyb25tZW50IjogImplc3QtZW52aXJvbm1lbnQtanNkb20tZm91cnRlZW4iLAoJCSJ0cmFuc2Zvcm0iOiB7CgkJCSJeLitcXC4oanN8anN4fHRzfHRzeCkkIjogIjxyb290RGlyPi9ub2RlX21vZHVsZXMvYmFiZWwtamVzdCIsCgkJCSJeLitcXC5jc3MkIjogIjxyb290RGlyPi9jb25maWcvamVzdC9jc3NUcmFuc2Zvcm0uanMiLAoJCQkiXig/IS4qXFwuKGpzfGpzeHx0c3x0c3h8Y3NzfGpzb24pJCkiOiAiPHJvb3REaXI+L2NvbmZpZy9qZXN0L2ZpbGVUcmFuc2Zvcm0uanMiCgkJfSwKCQkidHJhbnNmb3JtSWdub3JlUGF0dGVybnMiOiBbCgkJCSJbL1xcXFxdbm9kZV9tb2R1bGVzWy9cXFxcXS4rXFwuKGpzfGpzeHx0c3x0c3gpJCIsCgkJCSJeLitcXC5tb2R1bGVcXC4oY3NzfHNhc3N8c2NzcykkIgoJCV0sCgkJIm1vZHVsZVBhdGhzIjogW10sCgkJIm1vZHVsZU5hbWVNYXBwZXIiOiB7CgkJCSJecmVhY3QtbmF0aXZlJCI6ICJyZWFjdC1uYXRpdmUtd2ViIiwKCQkJIl4uK1xcLm1vZHVsZVxcLihjc3N8c2Fzc3xzY3NzKSQiOiAiaWRlbnRpdHktb2JqLXByb3h5IgoJCX0sCgkJIm1vZHVsZUZpbGVFeHRlbnNpb25zIjogWwoJCQkid2ViLmpzIiwKCQkJImpzIiwKCQkJIndlYi50cyIsCgkJCSJ0cyIsCgkJCSJ3ZWIudHN4IiwKCQkJInRzeCIsCgkJCSJqc29uIiwKCQkJIndlYi5qc3giLAoJCQkianN4IiwKCQkJIm5vZGUiCgkJXSwKCQkid2F0Y2hQbHVnaW5zIjogWwoJCQkiamVzdC13YXRjaC10eXBlYWhlYWQvZmlsZW5hbWUiLAoJCQkiamVzdC13YXRjaC10eXBlYWhlYWQvdGVzdG5hbWUiCgkJXQoJfSw=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vIHNlcXVsaXplLlNlcXVlbGl6ZS50cmFuc2FjdGlvbigpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkidHlwZXNjcmlwdCI6ICJeMy45LjMiLAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">dHJhbnNhY3Rpb24oKCkgPT4gewoKICAgIH0p</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkidGVzdCI6ICJub2RlIHNjcmlwdHMvdGVzdC5qcyIK</text>
+        <text encoding="base64">ICAgIHNlcXVsaXplLnNlcQo=</text>
       </register>
       <register name=":" type="4">
         <text>22</text>
