@@ -76,10 +76,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" timestamp="1591782608602">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" timestamp="1591848881028">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialLib.ts" timestamp="1591772941859">
         <mark key="[" line="24" column="2" />
@@ -133,12 +133,7 @@
         <mark key="[" line="4" column="47" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/package.json" timestamp="1591773534865" />
-      <file name="$USER_HOME$/workspace/kettle/app/service/MockLoginService.js" timestamp="1591351696673">
-        <mark key="[" line="14" column="17" />
-        <mark key="]" line="14" column="17" />
-        <mark key="." line="14" column="17" />
-        <mark key="^" line="6" column="28" />
-      </file>
+      <file name="$USER_HOME$/miniapp-open/material/node_modules/egg/index.d.ts" timestamp="1591848167126" />
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/compiler/parserc/examples/HeraScript/parser.ts" />
@@ -248,8 +243,8 @@
       <register name="a" type="2">
         <text encoding="base64">CQkJCQlhZGRPcGVyYXRvcigKCQkJCQkJKHg6IHN0cmluZykgPT4gc3RhdGVtZW50LnJlcGxhY2UobGVmdCwgeCksCgkJCQkJCSh4OiBzdHJpbmcsIHk6IHN0cmluZykgPT4gc3RhdGVtZW50LnJlcGxhY2UobGVmdCwgeCkucmVwbGFjZShyaWdodCwgeSksCgkJCQkJKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>@ali/midway</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRoaXMuY3R4LmFwcC5zZXF1ZWxpemUudHJhbnNhY3Rpb24oKQo=</text>
       </register>
       <register name="-" type="4">
         <text>@ali/midway</text>
@@ -272,34 +267,34 @@
         <text encoding="base64">ICAgICAgICBzdGF0dXM6IGNvbnN0YW50cy5NYXRlcmlhbFN0YXR1cy5saXZlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIEB0cy1pZ25vcmUKICAgIGNvbnNvbGUubG9nKHRoaXMuY3R4LmFwcC5zZXF1ZWxpemUpCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuY3R4LmFwcC5zZXF1ZWxpemUudHJhbnNhY3Rpb24oKQo=</text>
       </register>
       <register name="q" type="4">
         <text encoding="base64">PEZvcm1JdGVtCgkJCQkJCWxhYmVsPSLpq5jluqYiCgkJCQkJCW5hbWU9ImhlaWdodCIKCQkJCQkJbGFiZWxDb2w9ezZ9CgkJCQkJCXdyYXBwZXJDb2w9ezE4fQoJCQkJCQlsYWJlbFRleHRBbGlnbj0ibGVmdCIKCQkJCQkJaW5pdFZhbHVlPXtkZWZhdWx0VmFsdWVzLmhlaWdodH0KCQkJCQk+CgkJCQkJCTxJbnB1dCAvPgoJCQkJCTwvRm9ybUl0ZW0+</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgc2VxdWxpemUgZnJvbSAnc2VxdWVsaXplJzsK</text>
+        <text encoding="base64">ICAgIC8vIEB0cy1pZ25vcmUKICAgIGNvbnNvbGUubG9nKHRoaXMuY3R4LmFwcC5zZXF1ZWxpemUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIEB0cy1pZ25vcmUKICAgIGNvbnNvbGUubG9nKDk5LCBzZXF1bGl6ZS5TZXF1ZWxpemUudHJhbnNhY3Rpb24pCg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgc2VxdWxpemUgZnJvbSAnc2VxdWVsaXplJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIEB0cy1pZ25vcmUKICAgIGNvbnNvbGUubG9nKDk5LCBzZXF1bGl6ZS5TZXF1ZWxpemUudHJhbnNhY3Rpb24pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIEB0cy1pZ25vcmUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDMzMywgc2VxdWxpemUuU2VxdWVsaXplLnRyYW5zYWN0aW9uKTsK</text>
+        <text encoding="base64">ICAgIC8vIEB0cy1pZ25vcmUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlcXVsaXplLnRyYW5zYWN0aW9uCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDMzMywgc2VxdWxpemUuU2VxdWVsaXplLnRyYW5zYWN0aW9uKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIHNlcXVsaXplLlNlcXVlbGl6ZS50cmFuc2FjdGlvbigpCg==</text>
+        <text encoding="base64">ICAgIHNlcXVsaXplLnRyYW5zYWN0aW9uCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">dHJhbnNhY3Rpb24oKCkgPT4gewoKICAgIH0p</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8vIHNlcXVsaXplLlNlcXVlbGl6ZS50cmFuc2FjdGlvbigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>22</text>
