@@ -76,11 +76,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" timestamp="1591864032536">
+      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" timestamp="1591896656895">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="69" column="10" />
-        <mark key="]" line="69" column="10" />
-        <mark key="." line="69" column="10" />
+        <mark key="[" line="67" column="14" />
+        <mark key="]" line="67" column="14" />
+        <mark key="." line="67" column="14" />
+        <mark key="^" line="67" column="16" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialLib.ts" timestamp="1591772941859">
         <mark key="[" line="24" column="2" />
@@ -108,7 +109,7 @@
       <file name="$USER_HOME$/compiler/Hera/Hera-Lang/src/core.ts" timestamp="1591468739962">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="/" timestamp="1591894708613">
+      <file name="/" timestamp="1591895312137">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app.ts" timestamp="1591774890221">
@@ -245,10 +246,10 @@
         <text encoding="base64">CQkJCQlhZGRPcGVyYXRvcigKCQkJCQkJKHg6IHN0cmluZykgPT4gc3RhdGVtZW50LnJlcGxhY2UobGVmdCwgeCksCgkJCQkJCSh4OiBzdHJpbmcsIHk6IHN0cmluZykgPT4gc3RhdGVtZW50LnJlcGxhY2UobGVmdCwgeCkucmVwbGFjZShyaWdodCwgeSksCgkJCQkJKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>object</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>object</text>
+        <text>a</text>
       </register>
       <register name="m" type="4">
         <keys>
