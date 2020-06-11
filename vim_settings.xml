@@ -76,17 +76,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" timestamp="1591860104766">
+      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" timestamp="1591861956360">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="64" column="39" />
-        <mark key="]" line="64" column="39" />
-        <mark key="." line="64" column="39" />
+        <mark key="[" line="69" column="10" />
+        <mark key="]" line="69" column="10" />
+        <mark key="." line="69" column="10" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialLib.ts" timestamp="1591772941859">
         <mark key="[" line="24" column="2" />
         <mark key="]" line="24" column="2" />
         <mark key="." line="24" column="2" />
       </file>
+      <file name="$USER_HOME$/miniapp-open/material/node_modules/sequelize/types/lib/model.d.ts" timestamp="1591861903102" />
       <file name="/fragment.js" timestamp="1591782571148">
         <mark key="[" line="0" column="0" />
       </file>
@@ -95,12 +96,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/controller/materialLibController.ts" timestamp="1591859921511">
-        <mark key="'" line="1" column="47" />
-        <mark key="[" line="51" column="14" />
-        <mark key="]" line="52" column="20" />
-        <mark key="." line="52" column="19" />
-        <mark key="^" line="52" column="20" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/controller/materialLibController.ts" timestamp="1591861984372">
+        <mark key="'" line="61" column="1" />
+        <mark key="[" line="0" column="48" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/.prettierrc" timestamp="1591792279172">
         <mark key="[" line="4" column="18" />
@@ -134,7 +134,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/compiler/parserc/examples/HeraScript/parser.ts" />
       <jump line="3" column="0" filename="$USER_HOME$/compiler/parserc/examples/HeraScript/parser.ts" />
       <jump line="285" column="0" filename="$USER_HOME$/compiler/parserc/examples/HeraScript/parser.ts" />
       <jump line="15" column="10" filename="$USER_HOME$/workspace/message/tb-im-h5/src/common/print.ts" />
@@ -234,6 +233,7 @@
       <jump line="36" column="0" filename="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" />
       <jump line="1066" column="29" filename="$USER_HOME$/miniapp-open/material/node_modules/sequelize/types/lib/sequelize.d.ts" />
       <jump line="7" column="0" filename="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" />
+      <jump line="61" column="1" filename="$USER_HOME$/miniapp-open/material/src/app/controller/materialLibController.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -241,11 +241,11 @@
       <register name="a" type="2">
         <text encoding="base64">CQkJCQlhZGRPcGVyYXRvcigKCQkJCQkJKHg6IHN0cmluZykgPT4gc3RhdGVtZW50LnJlcGxhY2UobGVmdCwgeCksCgkJCQkJCSh4OiBzdHJpbmcsIHk6IHN0cmluZykgPT4gc3RhdGVtZW50LnJlcGxhY2UobGVmdCwgeCkucmVwbGFjZShyaWdodCwgeSksCgkJCQkJKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">b2JqZWN0ICYgeyBlbGVtZW50czogbnVtYmVyW10gfQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b2JqZWN0ICYgeyBlbGVtZW50czogbnVtYmVyW10gfQ==</text>
+        <text>...this.where,</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -265,34 +265,34 @@
         <text encoding="base64">ICAgIC8vIHJldHVybiBNYXRlcmlhbExpYi5jcmVhdGUoZGF0YSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <text encoding="base64">PEZvcm1JdGVtCgkJCQkJCWxhYmVsPSLpq5jluqYiCgkJCQkJCW5hbWU9ImhlaWdodCIKCQkJCQkJbGFiZWxDb2w9ezZ9CgkJCQkJCXdyYXBwZXJDb2w9ezE4fQoJCQkJCQlsYWJlbFRleHRBbGlnbj0ibGVmdCIKCQkJCQkJaW5pdFZhbHVlPXtkZWZhdWx0VmFsdWVzLmhlaWdodH0KCQkJCQk+CgkJCQkJCTxJbnB1dCAvPgoJCQkJCTwvRm9ybUl0ZW0+</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Y29uc3QgeyBlbGVtZW50cywgLi4ubGliRmllbGRzIH0gPSBkYXRhOwogICAgICAgIGNvbnN0IGxpYiA9IGF3YWl0IE1hdGVyaWFsTGliLmNyZWF0ZShsaWJGaWVsZHMsIHsgdHJhbnNhY3Rpb246IHQgfSk7CgogICAgICAgIGNvbnN0IHJlbHMgPSBlbGVtZW50cy5tYXAobWF0ZXJpYWxJZCA9PiB7CiAgICAgICAgICByZXR1cm4gTWF0ZXJpYWxMaWJFbGVtZW50LmNyZWF0ZSgKICAgICAgICAgICAgewogICAgICAgICAgICAgIGxpYklkOiBsaWIuaWQsCiAgICAgICAgICAgICAgbWF0ZXJpYWxJZCwKICAgICAgICAgICAgfSwKICAgICAgICAgICAgeyB0cmFuc2FjdGlvbjogdCB9LAogICAgICAgICAgKTsKICAgICAgICB9KTsKICAgICAgICBhd2FpdCBQcm9taXNlLmFsbChyZWxzKTsKCiAgICAgICAgcmV0dXJuIGxpYjs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBAdQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBNYXRlcmlhbExpYkVsZW1lbnQuY3JlYXRlKHsKICAgICAgICAgIAogICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJyFAJwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">Y29uc3QgeyBlbGVtZW50cywgLi4ubGliRmllbGRzIH0gPSBkYXRhOwogICAgICAgIGNvbnN0IGxpYiA9IGF3YWl0IE1hdGVyaWFsTGliLmNyZWF0ZShsaWJGaWVsZHMsIHsgdHJhbnNhY3Rpb246IHQgfSk7CgogICAgICAgIGNvbnN0IHJlbHMgPSBlbGVtZW50cy5tYXAobWF0ZXJpYWxJZCA9PiB7CiAgICAgICAgICByZXR1cm4gTWF0ZXJpYWxMaWJFbGVtZW50LmNyZWF0ZSgKICAgICAgICAgICAgewogICAgICAgICAgICAgIGxpYklkOiBsaWIuaWQsCiAgICAgICAgICAgICAgbWF0ZXJpYWxJZCwKICAgICAgICAgICAgfSwKICAgICAgICAgICAgeyB0cmFuc2FjdGlvbjogdCB9LAogICAgICAgICAgKTsKICAgICAgICB9KTsKICAgICAgICBhd2FpdCBQcm9taXNlLmFsbChyZWxzKTsKCiAgICAgICAgcmV0dXJuIGxpYjs=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBCZWxvbmdzVG8sCg==</text>
+        <text encoding="base64">ICAgICAgICBNYXRlcmlhbExpYkVsZW1lbnQuY3JlYXRlKHsKICAgICAgICAgIAogICAgICAgIH0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJyFAJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBNYXRlcmlhbExpYi5jcmVhdGUoZGF0YSk7Cg==</text>
+        <text encoding="base64">ICBCZWxvbmdzVG8sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmN0eC5hcHAuc2VxdWVsaXplLnRyYW5zYWN0aW9uKGFzeW5jICh0KSA9PiB7CiAgICB9KTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBNYXRlcmlhbExpYi5jcmVhdGUoZGF0YSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>22</text>
