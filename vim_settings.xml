@@ -76,7 +76,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" timestamp="1591861956360">
+      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" timestamp="1591864032536">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="69" column="10" />
         <mark key="]" line="69" column="10" />
@@ -96,11 +96,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/controller/materialLibController.ts" timestamp="1591861984372">
+      <file name="$USER_HOME$/miniapp-open/material/src/app/controller/materialLibController.ts" timestamp="1591864117691">
         <mark key="'" line="61" column="1" />
-        <mark key="[" line="0" column="48" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+        <mark key="]" line="70" column="21" />
+        <mark key="." line="70" column="20" />
+        <mark key="^" line="70" column="21" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/.prettierrc" timestamp="1591792279172">
         <mark key="[" line="4" column="18" />
@@ -129,8 +129,11 @@
       <file name="/JavaScript Console" timestamp="1591859713508">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/interface/material/lib.ts" timestamp="1591771706429">
-        <mark key="[" line="4" column="47" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/interface/material/lib.ts" timestamp="1591863999874">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="5" column="26" />
+        <mark key="." line="5" column="26" />
+        <mark key="^" line="5" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -241,11 +244,11 @@
       <register name="a" type="2">
         <text encoding="base64">CQkJCQlhZGRPcGVyYXRvcigKCQkJCQkJKHg6IHN0cmluZykgPT4gc3RhdGVtZW50LnJlcGxhY2UobGVmdCwgeCksCgkJCQkJCSh4OiBzdHJpbmcsIHk6IHN0cmluZykgPT4gc3RhdGVtZW50LnJlcGxhY2UobGVmdCwgeCkucmVwbGFjZShyaWdodCwgeSksCgkJCQkJKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text>object</text>
       </register>
       <register name="-" type="4">
-        <text>...this.where,</text>
+        <text>object</text>
       </register>
       <register name="m" type="4">
         <keys>
