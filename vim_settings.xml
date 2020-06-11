@@ -76,11 +76,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" timestamp="1591856717356">
+      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" timestamp="1591860104766">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="55" column="21" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+        <mark key="[" line="64" column="39" />
+        <mark key="]" line="64" column="39" />
+        <mark key="." line="64" column="39" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialLib.ts" timestamp="1591772941859">
         <mark key="[" line="24" column="2" />
@@ -95,17 +95,19 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/controller/materialLibController.ts" timestamp="1591771807742">
+      <file name="$USER_HOME$/miniapp-open/material/src/app/controller/materialLibController.ts" timestamp="1591859921511">
         <mark key="'" line="1" column="47" />
+        <mark key="[" line="51" column="14" />
+        <mark key="]" line="52" column="20" />
+        <mark key="." line="52" column="19" />
+        <mark key="^" line="52" column="20" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/.prettierrc" timestamp="1591792279172">
         <mark key="[" line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/node_modules/sequelize/types/index.d.ts" timestamp="1591773392849" />
       <file name="$USER_HOME$/compiler/Hera/Hera-Lang/src/core.ts" timestamp="1591468739962">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/node_modules/sequelize-typescript/dist/index.d.ts" timestamp="1591773783656" />
       <file name="/" timestamp="1591699655527">
         <mark key="[" line="0" column="0" />
       </file>
@@ -124,16 +126,12 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="/JavaScript Console" timestamp="1591782505939">
+      <file name="/JavaScript Console" timestamp="1591859713508">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/node_modules/sequelize/types/lib/transaction.d.ts" timestamp="1591773831308" />
-      <file name="$USER_HOME$/miniapp-open/material/node_modules/_egg@2.26.1@egg/index.d.ts" timestamp="1591847373565" />
       <file name="$USER_HOME$/miniapp-open/material/src/app/interface/material/lib.ts" timestamp="1591771706429">
         <mark key="[" line="4" column="47" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/package.json" timestamp="1591773534865" />
-      <file name="$USER_HOME$/miniapp-open/material/node_modules/egg/index.d.ts" timestamp="1591848167126" />
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/compiler/parserc/examples/HeraScript/parser.ts" />
@@ -243,11 +241,11 @@
       <register name="a" type="2">
         <text encoding="base64">CQkJCQlhZGRPcGVyYXRvcigKCQkJCQkJKHg6IHN0cmluZykgPT4gc3RhdGVtZW50LnJlcGxhY2UobGVmdCwgeCksCgkJCQkJCSh4OiBzdHJpbmcsIHk6IHN0cmluZykgPT4gc3RhdGVtZW50LnJlcGxhY2UobGVmdCwgeCkucmVwbGFjZShyaWdodCwgeSksCgkJCQkJKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">b2JqZWN0ICYgeyBlbGVtZW50czogbnVtYmVyW10gfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text encoding="base64">b2JqZWN0ICYgeyBlbGVtZW50czogbnVtYmVyW10gfQ==</text>
       </register>
       <register name="m" type="4">
         <keys>
