@@ -118,17 +118,17 @@
       <file name="$USER_HOME$/miniapp-open/material/node_modules/sequelize/types/lib/sequelize.d.ts" timestamp="1591774218292">
         <mark key="'" line="1066" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/kettle/config/proxy.js" timestamp="1591350918511">
-        <mark key="'" line="96" column="8" />
-        <mark key="[" line="139" column="75" />
-        <mark key="]" line="139" column="75" />
-        <mark key="." line="139" column="25" />
-        <mark key="^" line="139" column="25" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/interface/ctx/index.ts" timestamp="1591847300407">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="/JavaScript Console" timestamp="1591782505939">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/node_modules/sequelize/types/lib/transaction.d.ts" timestamp="1591773831308" />
+      <file name="$USER_HOME$/miniapp-open/material/node_modules/_egg@2.26.1@egg/index.d.ts" timestamp="1591847373565" />
       <file name="$USER_HOME$/miniapp-open/material/src/app/interface/material/lib.ts" timestamp="1591771706429">
         <mark key="[" line="4" column="47" />
       </file>
