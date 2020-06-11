@@ -118,11 +118,11 @@
       <file name="$USER_HOME$/miniapp-open/material/node_modules/sequelize/types/lib/sequelize.d.ts" timestamp="1591774218292">
         <mark key="'" line="1066" column="29" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/interface/ctx/index.ts" timestamp="1591847300407">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="27" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/interface/ctx/index.ts" timestamp="1591848133691">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="25" />
         <mark key="^" line="0" column="27" />
-        <mark key="." line="0" column="26" />
+        <mark key="." line="0" column="25" />
       </file>
       <file name="/JavaScript Console" timestamp="1591782505939">
         <mark key="[" line="0" column="0" />
@@ -248,11 +248,11 @@
       <register name="a" type="2">
         <text encoding="base64">CQkJCQlhZGRPcGVyYXRvcigKCQkJCQkJKHg6IHN0cmluZykgPT4gc3RhdGVtZW50LnJlcGxhY2UobGVmdCwgeCksCgkJCQkJCSh4OiBzdHJpbmcsIHk6IHN0cmluZykgPT4gc3RhdGVtZW50LnJlcGxhY2UobGVmdCwgeCkucmVwbGFjZShyaWdodCwgeSksCgkJCQkJKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIEB0cy1pZ25vcmUKICAgIGNvbnNvbGUubG9nKHRoaXMuY3R4LmFwcC5zZXF1ZWxpemUpCg==</text>
+      <register name="&quot;" type="4">
+        <text>@ali/midway</text>
       </register>
       <register name="-" type="4">
-        <text>sequlize.Transaction({sequlize.Sequelize}).transaction</text>
+        <text>@ali/midway</text>
       </register>
       <register name="m" type="4">
         <keys>
