@@ -76,12 +76,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" timestamp="1591896656895">
+      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" timestamp="1592189146656">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="67" column="14" />
-        <mark key="]" line="67" column="14" />
-        <mark key="." line="67" column="14" />
-        <mark key="^" line="67" column="16" />
+        <mark key="[" line="72" column="43" />
+        <mark key="]" line="72" column="6" />
+        <mark key="." line="72" column="5" />
+        <mark key="^" line="72" column="6" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialLib.ts" timestamp="1591772941859">
         <mark key="[" line="24" column="2" />
@@ -246,10 +246,10 @@
         <text encoding="base64">CQkJCQlhZGRPcGVyYXRvcigKCQkJCQkJKHg6IHN0cmluZykgPT4gc3RhdGVtZW50LnJlcGxhY2UobGVmdCwgeCksCgkJCQkJCSh4OiBzdHJpbmcsIHk6IHN0cmluZykgPT4gc3RhdGVtZW50LnJlcGxhY2UobGVmdCwgeCkucmVwbGFjZShyaWdodCwgeSksCgkJCQkJKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>forEach</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>forEach</text>
       </register>
       <register name="m" type="4">
         <keys>
