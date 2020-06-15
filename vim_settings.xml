@@ -76,17 +76,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" timestamp="1592211095968">
-        <mark key="'" line="65" column="62" />
-        <mark key="[" line="74" column="14" />
-        <mark key="]" line="74" column="18" />
-        <mark key="." line="74" column="17" />
-        <mark key="^" line="74" column="18" />
-      </file>
-      <file name="$USER_HOME$/workspace/message/tb-im-sdk/index.d.ts" timestamp="1592191614687">
-        <mark key="[" line="70" column="19" />
-        <mark key="]" line="70" column="19" />
-        <mark key="." line="70" column="19" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" timestamp="1592215242320">
+        <mark key="'" line="71" column="62" />
+        <mark key="[" line="82" column="18" />
+        <mark key="]" line="82" column="22" />
+        <mark key="." line="82" column="21" />
+        <mark key="^" line="82" column="22" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialLib.ts" timestamp="1592209121375">
         <mark key="[" line="24" column="25" />
@@ -94,30 +89,37 @@
         <mark key="." line="24" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/message/imkit.client.history/src/actions/roamMsg-copy.js" timestamp="1592205034595" />
-      <file name="/fragment.js" timestamp="1591782571148">
+      <file name="$USER_HOME$/workspace/message/imkit.client.recent/src/plugin/msgResendClick.js" timestamp="1592189842474" />
+      <file name="$USER_HOME$/workspace/message/imkit.plugin.converter/src/normalMsgFormater/index copy.js" timestamp="1592189984110" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/interface/ctx/index.ts" timestamp="1592214634711">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="26" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="1" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/components/BubbleMenu.tsx" timestamp="1592206138784">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/imsdk/index.ts" timestamp="1592191585101" />
+      <file name="/JavaScript Console" timestamp="1592213739149">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialLibElement.ts" timestamp="1591856533277">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/miniapp-open/material/node_modules/sequelize-typescript/dist/model/model/model.d.ts" timestamp="1592209060821" />
+      <file name="$USER_HOME$/miniapp-open/material/node_modules/egg/index.d.ts" timestamp="1592214604448" />
+      <file name="$USER_HOME$/workspace/message/tb-im-sdk/index.d.ts" timestamp="1592191614687">
+        <mark key="[" line="70" column="19" />
+        <mark key="]" line="70" column="19" />
+        <mark key="." line="70" column="19" />
       </file>
+      <file name="$USER_HOME$/miniapp-open/material/node_modules/@ali/midway/dist/index.d.ts" timestamp="1592214530282" />
+      <file name="$USER_HOME$/miniapp-open/material/node_modules/sequelize/types/lib/model.d.ts" timestamp="1592213650900" />
       <file name="$USER_HOME$/workspace/message/tb-im-h5/src/util/index.ts" timestamp="1592190403924">
         <mark key="[" line="168" column="0" />
         <mark key="]" line="168" column="0" />
         <mark key="." line="168" column="0" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/controller/materialLibController.ts" timestamp="1591892693280">
-        <mark key="'" line="13" column="14" />
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="70" column="21" />
-        <mark key="." line="70" column="20" />
-        <mark key="^" line="70" column="21" />
-      </file>
-      <file name="$USER_HOME$/miniapp-open/material/.prettierrc" timestamp="1591792279172">
-        <mark key="[" line="4" column="18" />
-      </file>
-      <file name="$USER_HOME$/workspace/message/imkit.client.recent/src/plugin/msgResendClick.js" timestamp="1592189842474" />
       <file name="$USER_HOME$/workspace/message/tb-im-h5/src/store/viewStore.ts" timestamp="1592205008050">
         <mark key="[" line="105" column="0" />
         <mark key="]" line="105" column="0" />
@@ -128,29 +130,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/message/imkit.plugin.converter/src/sdk/index.js" timestamp="1592190021170" />
-      <file name="$USER_HOME$/workspace/message/imkit.plugin.converter/src/normalMsgFormater/index copy.js" timestamp="1592189984110" />
-      <file name="$USER_HOME$/miniapp-open/material/src/app/interface/ctx/index.ts" timestamp="1591848133691">
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="0" column="25" />
-        <mark key="^" line="0" column="27" />
-        <mark key="." line="0" column="25" />
-      </file>
-      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/components/BubbleMenu.tsx" timestamp="1592206138784">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/imsdk/index.ts" timestamp="1592191585101" />
-      <file name="/JavaScript Console" timestamp="1591859713508">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/interface/material/lib.ts" timestamp="1592209623286">
         <mark key="[" line="2" column="30" />
         <mark key="]" line="2" column="30" />
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="49" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/node_modules/sequelize-typescript/dist/model/model/model.d.ts" timestamp="1592209060821" />
     </filemarks>
     <jumps>
       <jump line="16" column="35" filename="$USER_HOME$/workspace/message/tb-im-h5/src/common/print.ts" />
@@ -261,10 +246,10 @@
         <text>MaterialLib</text>
       </register>
       <register name="&quot;" type="4">
-        <text>nsert</text>
+        <text>debug</text>
       </register>
       <register name="-" type="4">
-        <text>nsert</text>
+        <text>debug</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -284,34 +269,43 @@
         <text encoding="base64">ICAgIC8vIHJldHVybiBNYXRlcmlhbExpYi5jcmVhdGUoZGF0YSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGlmZi5pbnNlcnQgPSAK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMzMzLCBkaWZmKTsK</text>
       </register>
       <register name="q" type="4">
         <text encoding="base64">PEZvcm1JdGVtCgkJCQkJCWxhYmVsPSLpq5jluqYiCgkJCQkJCW5hbWU9ImhlaWdodCIKCQkJCQkJbGFiZWxDb2w9ezZ9CgkJCQkJCXdyYXBwZXJDb2w9ezE4fQoJCQkJCQlsYWJlbFRleHRBbGlnbj0ibGVmdCIKCQkJCQkJaW5pdFZhbHVlPXtkZWZhdWx0VmFsdWVzLmhlaWdodH0KCQkJCQk+CgkJCQkJCTxJbnB1dCAvPgoJCQkJCTwvRm9ybUl0ZW0+</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZGlmZiA9IHsgaW5zZXJ0OiBbXSwgZGVsOiBbXSB9Owo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbGliSWQgPSBkYXRhLmlkOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Zm9yIChsZXQgZWwgb2YgZGF0YS5lbGVtZW50cykgewogICAgICAgIGNvbnN0IHJlbCA9IHJlbEVsZW1lbnRzLmZpbmQoeCA9PiB4Lm1hdGVyaWFsSWQgPT09IGVsKQogICAgICAgIGlmICghcmVsKSB7CiAgICAgICAgICAKICAgICAgICB9CiAgICAgIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB7IHRyYW59Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>MaterialLib</text>
+        <text>[op.in]: {
+              id: []
+            }</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Y29uc3QgZGlmZiA9IGRhdGEuZWxlbWVudHMucmVkdWNlKChhY2MsIHgpID0+IHsKICAgICAgICAKICAgICAgfSwgeyB9KTs=</text>
+      <register name="5" type="2">
+        <text>import { inject, provide } from '@ali/midway';
+import * as constants from '@constants/index';
+import { IMaterialLibService, UMaterialLib } from '@interface/material';
+import { Ctx } from '@interface/ctx';
+import { MaterialLib } from '@models/MaterialLib';
+import { MaterialRel } from '@models/MaterialRel';
+import { MaterialLibElement } from '@models/MaterialLibElement';
+import * as sequelize from '';</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMzMzMywgbm93VGltZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgZGlmZi5pbnNlcnQgPSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgbm93VGltZSA9ICtuZXcgRGF0ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZGlmZiA9IHsgaW5zZXJ0OiBbXSwgZGVsOiBbXSB9Owo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHNlcnZlclRzOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">Zm9yIChsZXQgZWwgb2YgZGF0YS5lbGVtZW50cykgewogICAgICAgIGNvbnN0IHJlbCA9IHJlbEVsZW1lbnRzLmZpbmQoeCA9PiB4Lm1hdGVyaWFsSWQgPT09IGVsKQogICAgICAgIGlmICghcmVsKSB7CiAgICAgICAgICAKICAgICAgICB9CiAgICAgIH0=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>MaterialLib</text>
       </register>
       <register name=":" type="4">
         <text>22</text>
