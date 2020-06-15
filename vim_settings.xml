@@ -88,7 +88,7 @@
         <mark key="]" line="70" column="19" />
         <mark key="." line="70" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/message/imkit.client.history/src/actions/roamMsg-copy.js" timestamp="1592191600084" />
+      <file name="$USER_HOME$/workspace/message/imkit.client.history/src/actions/roamMsg-copy.js" timestamp="1592205034595" />
       <file name="/fragment.js" timestamp="1591782571148">
         <mark key="[" line="0" column="0" />
       </file>
@@ -113,11 +113,11 @@
         <mark key="[" line="4" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/message/imkit.client.recent/src/plugin/msgResendClick.js" timestamp="1592189842474" />
-      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/store/viewStore.ts" timestamp="1592193527195">
-        <mark key="[" line="105" column="6" />
-        <mark key="]" line="105" column="7" />
-        <mark key="^" line="105" column="7" />
-        <mark key="." line="105" column="6" />
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/store/viewStore.ts" timestamp="1592205008050">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="^" line="104" column="12" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="/" timestamp="1591929695964">
         <mark key="[" line="0" column="0" />
@@ -139,7 +139,12 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/components/BubbleMenu.tsx" timestamp="1592190211611" />
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/components/BubbleMenu.tsx" timestamp="1592205116790">
+        <mark key="[" line="25" column="46" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="24" column="34" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/imsdk/index.ts" timestamp="1592191585101" />
       <file name="/JavaScript Console" timestamp="1591859713508">
         <mark key="[" line="0" column="0" />
@@ -259,11 +264,11 @@
       <register name="a" type="2">
         <text encoding="base64">CQkJCQlhZGRPcGVyYXRvcigKCQkJCQkJKHg6IHN0cmluZykgPT4gc3RhdGVtZW50LnJlcGxhY2UobGVmdCwgeCksCgkJCQkJCSh4OiBzdHJpbmcsIHk6IHN0cmluZykgPT4gc3RhdGVtZW50LnJlcGxhY2UobGVmdCwgeCkucmVwbGFjZShyaWdodCwgeSksCgkJCQkJKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>data.result</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc3Qgbm93VGltZSA9ICtuZXcgRGF0ZSgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>data.result</text>
+        <text>const serverTs =</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -283,34 +288,34 @@
         <text encoding="base64">ICAgIC8vIHJldHVybiBNYXRlcmlhbExpYi5jcmVhdGUoZGF0YSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgbm93VGltZSA9ICtuZXcgRGF0ZSgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text encoding="base64">PEZvcm1JdGVtCgkJCQkJCWxhYmVsPSLpq5jluqYiCgkJCQkJCW5hbWU9ImhlaWdodCIKCQkJCQkJbGFiZWxDb2w9ezZ9CgkJCQkJCXdyYXBwZXJDb2w9ezE4fQoJCQkJCQlsYWJlbFRleHRBbGlnbj0ibGVmdCIKCQkJCQkJaW5pdFZhbHVlPXtkZWZhdWx0VmFsdWVzLmhlaWdodH0KCQkJCQk+CgkJCQkJCTxJbnB1dCAvPgoJCQkJCTwvRm9ybUl0ZW0+</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBnZXRUaW1lKCkgewogIH0=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHNlcnZlclRzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAdQo=</text>
+        <text encoding="base64">ICBnZXRUaW1lKCkgewogIH0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Y29uc3QgeyBlbGVtZW50cywgLi4ubGliRmllbGRzIH0gPSBkYXRhOwogICAgICAgIGNvbnN0IGxpYiA9IGF3YWl0IE1hdGVyaWFsTGliLmNyZWF0ZShsaWJGaWVsZHMsIHsgdHJhbnNhY3Rpb246IHQgfSk7CgogICAgICAgIGNvbnN0IHJlbHMgPSBlbGVtZW50cy5tYXAobWF0ZXJpYWxJZCA9PiB7CiAgICAgICAgICByZXR1cm4gTWF0ZXJpYWxMaWJFbGVtZW50LmNyZWF0ZSgKICAgICAgICAgICAgewogICAgICAgICAgICAgIGxpYklkOiBsaWIuaWQsCiAgICAgICAgICAgICAgbWF0ZXJpYWxJZCwKICAgICAgICAgICAgfSwKICAgICAgICAgICAgeyB0cmFuc2FjdGlvbjogdCB9LAogICAgICAgICAgKTsKICAgICAgICB9KTsKICAgICAgICBhd2FpdCBQcm9taXNlLmFsbChyZWxzKTsKCiAgICAgICAgcmV0dXJuIGxpYjs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBAdQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBNYXRlcmlhbExpYkVsZW1lbnQuY3JlYXRlKHsKICAgICAgICAgIAogICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJyFAJwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">Y29uc3QgeyBlbGVtZW50cywgLi4ubGliRmllbGRzIH0gPSBkYXRhOwogICAgICAgIGNvbnN0IGxpYiA9IGF3YWl0IE1hdGVyaWFsTGliLmNyZWF0ZShsaWJGaWVsZHMsIHsgdHJhbnNhY3Rpb246IHQgfSk7CgogICAgICAgIGNvbnN0IHJlbHMgPSBlbGVtZW50cy5tYXAobWF0ZXJpYWxJZCA9PiB7CiAgICAgICAgICByZXR1cm4gTWF0ZXJpYWxMaWJFbGVtZW50LmNyZWF0ZSgKICAgICAgICAgICAgewogICAgICAgICAgICAgIGxpYklkOiBsaWIuaWQsCiAgICAgICAgICAgICAgbWF0ZXJpYWxJZCwKICAgICAgICAgICAgfSwKICAgICAgICAgICAgeyB0cmFuc2FjdGlvbjogdCB9LAogICAgICAgICAgKTsKICAgICAgICB9KTsKICAgICAgICBhd2FpdCBQcm9taXNlLmFsbChyZWxzKTsKCiAgICAgICAgcmV0dXJuIGxpYjs=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBCZWxvbmdzVG8sCg==</text>
+        <text encoding="base64">ICAgICAgICBNYXRlcmlhbExpYkVsZW1lbnQuY3JlYXRlKHsKICAgICAgICAgIAogICAgICAgIH0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>22</text>
