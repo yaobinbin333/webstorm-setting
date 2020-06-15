@@ -83,11 +83,12 @@
         <mark key="." line="72" column="5" />
         <mark key="^" line="72" column="6" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialLib.ts" timestamp="1591772941859">
-        <mark key="[" line="24" column="2" />
-        <mark key="]" line="24" column="2" />
-        <mark key="." line="24" column="2" />
+      <file name="$USER_HOME$/workspace/message/tb-im-sdk/index.d.ts" timestamp="1592191614687">
+        <mark key="[" line="70" column="19" />
+        <mark key="]" line="70" column="19" />
+        <mark key="." line="70" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/message/imkit.client.history/src/actions/roamMsg-copy.js" timestamp="1592191600084" />
       <file name="/fragment.js" timestamp="1591782571148">
         <mark key="[" line="0" column="0" />
       </file>
@@ -112,8 +113,11 @@
         <mark key="[" line="4" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/message/imkit.client.recent/src/plugin/msgResendClick.js" timestamp="1592189842474" />
-      <file name="$USER_HOME$/compiler/Hera/Hera-Lang/src/core.ts" timestamp="1591468739962">
-        <mark key="'" line="3" column="0" />
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/store/viewStore.ts" timestamp="1592191652475">
+        <mark key="[" line="104" column="34" />
+        <mark key="]" line="104" column="45" />
+        <mark key="^" line="104" column="34" />
+        <mark key="." line="104" column="34" />
       </file>
       <file name="/" timestamp="1591929695964">
         <mark key="[" line="0" column="0" />
@@ -136,6 +140,7 @@
         <mark key="." line="0" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/message/tb-im-h5/src/components/BubbleMenu.tsx" timestamp="1592190211611" />
+      <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/imsdk/index.ts" timestamp="1592191585101" />
       <file name="/JavaScript Console" timestamp="1591859713508">
         <mark key="[" line="0" column="0" />
       </file>
@@ -254,11 +259,11 @@
       <register name="a" type="2">
         <text encoding="base64">CQkJCQlhZGRPcGVyYXRvcigKCQkJCQkJKHg6IHN0cmluZykgPT4gc3RhdGVtZW50LnJlcGxhY2UobGVmdCwgeCksCgkJCQkJCSh4OiBzdHJpbmcsIHk6IHN0cmluZykgPT4gc3RhdGVtZW50LnJlcGxhY2UobGVmdCwgeCkucmVwbGFjZShyaWdodCwgeSksCgkJCQkJKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>data.result</text>
       </register>
       <register name="-" type="4">
-        <text>forEach</text>
+        <text>data.result</text>
       </register>
       <register name="m" type="4">
         <keys>
