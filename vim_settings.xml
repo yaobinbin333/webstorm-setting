@@ -83,12 +83,9 @@
         <mark key="^" line="120" column="21" />
         <mark key="." line="120" column="20" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialLib.ts" timestamp="1592209121375">
-        <mark key="[" line="24" column="25" />
-        <mark key="]" line="24" column="25" />
-        <mark key="." line="24" column="25" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialVersions.ts" timestamp="1592289799018">
+        <mark key="[" line="18" column="79" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialVersions.ts" timestamp="1592277967112" />
       <file name="/fragment.js" timestamp="1592218920183">
         <mark key="[" line="0" column="0" />
       </file>
@@ -99,9 +96,10 @@
         <mark key="." line="1" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/kettle/app/router/api2/site/mainPage.js" timestamp="1592232536470" />
-      <file name="/JavaScript Console" timestamp="1592218355195">
+      <file name="/JavaScript Console" timestamp="1592288885163">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialEntity.ts" timestamp="1592289832541" />
       <file name="$USER_HOME$/miniapp-open/material/node_modules/egg/index.d.ts" timestamp="1592214604448" />
       <file name="$USER_HOME$/miniapp-open/material/node_modules/@ali/midway/dist/index.d.ts" timestamp="1592214530282" />
       <file name="$USER_HOME$/miniapp-open/material/node_modules/sequelize/types/lib/model.d.ts" timestamp="1592213650900" />
@@ -112,18 +110,24 @@
         <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/kettle/app/controller/site2/mainPage.js" timestamp="1592232263653" />
-      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialRelService.ts" timestamp="1592278857801">
-        <mark key="[" line="35" column="6" />
-        <mark key="]" line="37" column="7" />
-        <mark key="." line="37" column="6" />
-        <mark key="^" line="37" column="7" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialRelService.ts" timestamp="1592290917641">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="65" column="37" />
+        <mark key="." line="65" column="36" />
+        <mark key="^" line="65" column="37" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialRel.ts" timestamp="1592278399533" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialRel.ts" timestamp="1592290036225">
+        <mark key="[" line="30" column="15" />
+        <mark key="]" line="30" column="15" />
+        <mark key="." line="30" column="15" />
+      </file>
       <file name="/" timestamp="1592232543781">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialEntityService.ts" timestamp="1592276447369">
-        <mark key="[" line="40" column="40" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialEntityService.ts" timestamp="1592290303686">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/kettle/config/proxy.js" timestamp="1592231436370" />
       <file name="$USER_HOME$/miniapp-open/material/src/app/interface/material/lib.ts" timestamp="1592209623286">
@@ -242,7 +246,7 @@
         <text>MaterialLib</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGlzUHVibGljID0gYm9keS5wdWJsaWM7Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgYXN5bmMgZ2V0VmVyc2lvbnMoaWQ6IG51bWJlcikgewoKICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>object</text>
@@ -265,34 +269,40 @@
         <text encoding="base64">ICAgIC8vIHJldHVybiBNYXRlcmlhbExpYi5jcmVhdGUoZGF0YSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGlzUHVibGljID0gYm9keS5wdWJsaWM7Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgYXN5bmMgZ2V0VmVyc2lvbnMoaWQ6IG51bWJlcikgewoKICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text encoding="base64">PEZvcm1JdGVtCgkJCQkJCWxhYmVsPSLpq5jluqYiCgkJCQkJCW5hbWU9ImhlaWdodCIKCQkJCQkJbGFiZWxDb2w9ezZ9CgkJCQkJCXdyYXBwZXJDb2w9ezE4fQoJCQkJCQlsYWJlbFRleHRBbGlnbj0ibGVmdCIKCQkJCQkJaW5pdFZhbHVlPXtkZWZhdWx0VmFsdWVzLmhlaWdodH0KCQkJCQk+CgkJCQkJCTxJbnB1dCAvPgoJCQkJCTwvRm9ybUl0ZW0+</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgc3RhdHVzLCBwdWJsaWMsfSA9IGJvZHk7Cg==</text>
+      <register name="2" type="4">
+        <text>[
+        {
+          model: MaterialEntity,
+          include: [MaterialTag, MaterialNpm, MaterialCategory],
+          attributes: { exclude: MaterialEntity.exclude },
+        },
+      ],</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">YXdhaXQgUHJvbWlzZS5hbGwoCiAgICAgICAgICBkaWZmLmluY3JlYXNpbmcubWFwKGNvbCA9PgogICAgICAgICAgICBNYXRlcmlhbExpYkVsZW1lbnQuY3JlYXRlKAogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGxpYklkOiBpZCwKICAgICAgICAgICAgICAgIG1hdGVyaWFsSWQ6IGNvbCwKICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgIHsgdHJhbnNhY3Rpb246IHQgfSwKICAgICAgICAgICAgKSwKICAgICAgICAgICksCiAgICAgICAgKTs=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vIHJldHVybiBNYXRlcmlhbFJlbC5jcmVhdGUoYm9keSwgewogICAgLy8gICBpbmNsdWRlOiBNYXRlcmlhbFJlbC5pbmNsdWRlLAogICAgLy8gfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbmNsdWRlOiBNYXRlcmlhbFZlcnNpb25zLmluY2x1ZGUsCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">YXdhaXQgTWF0ZXJpYWxMaWJFbGVtZW50LmRlc3Ryb3koewogICAgICAgICAgd2hlcmU6IHsKICAgICAgICAgICAgaWQ6IHsKICAgICAgICAgICAgICBbb3AuaW5dOiBkaWZmLmRlbC5tYXAoeCA9PiB4LmlkKSwKICAgICAgICAgICAgfSwKICAgICAgICAgIH0sCiAgICAgICAgICB0cmFuc2FjdGlvbjogdCwKICAgICAgICB9KTs=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGlzUHVibGljID0gYm9keS5wdWJsaWM7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgc3RhdHVzLCBwdWJsaWMsfSA9IGJvZHk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMzMzLCBkaWZmKTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">YXdhaXQgUHJvbWlzZS5hbGwoCiAgICAgICAgICBkaWZmLmluY3JlYXNpbmcubWFwKGNvbCA9PgogICAgICAgICAgICBNYXRlcmlhbExpYkVsZW1lbnQuY3JlYXRlKAogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGxpYklkOiBpZCwKICAgICAgICAgICAgICAgIG1hdGVyaWFsSWQ6IGNvbCwKICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgIHsgdHJhbnNhY3Rpb246IHQgfSwKICAgICAgICAgICAgKSwKICAgICAgICAgICksCiAgICAgICAgKTs=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbGliSWQgPSBkYXRhLmlkOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7IHRyYW59Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">YXdhaXQgTWF0ZXJpYWxMaWJFbGVtZW50LmRlc3Ryb3koewogICAgICAgICAgd2hlcmU6IHsKICAgICAgICAgICAgaWQ6IHsKICAgICAgICAgICAgICBbb3AuaW5dOiBkaWZmLmRlbC5tYXAoeCA9PiB4LmlkKSwKICAgICAgICAgICAgfSwKICAgICAgICAgIH0sCiAgICAgICAgICB0cmFuc2FjdGlvbjogdCwKICAgICAgICB9KTs=</text>
       </register>
       <register name=":" type="4">
         <text>22</text>
