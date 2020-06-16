@@ -88,7 +88,7 @@
         <mark key="]" line="24" column="25" />
         <mark key="." line="24" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/message/imkit.client.history/src/actions/roamMsg-copy.js" timestamp="1592205034595" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialVersions.ts" timestamp="1592277146278" />
       <file name="/fragment.js" timestamp="1592218920183">
         <mark key="[" line="0" column="0" />
       </file>
@@ -97,11 +97,6 @@
         <mark key="]" line="1" column="26" />
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="25" />
-      </file>
-      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/components/BubbleMenu.tsx" timestamp="1592206138784">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/kettle/app/router/api2/site/mainPage.js" timestamp="1592232536470" />
       <file name="/JavaScript Console" timestamp="1592218355195">
@@ -118,14 +113,11 @@
         <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/kettle/app/controller/site2/mainPage.js" timestamp="1592232263653" />
-      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/store/viewStore.ts" timestamp="1592205008050">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="^" line="104" column="12" />
-        <mark key="." line="105" column="0" />
-      </file>
       <file name="/" timestamp="1592232543781">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialEntityService.ts" timestamp="1592276447369">
+        <mark key="[" line="40" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/kettle/config/proxy.js" timestamp="1592231436370" />
       <file name="$USER_HOME$/miniapp-open/material/src/app/interface/material/lib.ts" timestamp="1592209623286">
@@ -244,10 +236,10 @@
         <text>MaterialLib</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">YXdhaXQgUHJvbWlzZS5hbGwoCiAgICAgICAgICBkaWZmLmluY3JlYXNpbmcubWFwKGNvbCA9PgogICAgICAgICAgICBNYXRlcmlhbExpYkVsZW1lbnQuY3JlYXRlKAogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGxpYklkOiBpZCwKICAgICAgICAgICAgICAgIG1hdGVyaWFsSWQ6IGNvbCwKICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgIHsgdHJhbnNhY3Rpb246IHQgfSwKICAgICAgICAgICAgKSwKICAgICAgICAgICksCiAgICAgICAgKTs=</text>
+        <text>Context</text>
       </register>
       <register name="-" type="4">
-        <text>rel.materialId</text>
+        <text>Context</text>
       </register>
       <register name="m" type="4">
         <keys>
