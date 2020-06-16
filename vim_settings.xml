@@ -94,10 +94,13 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialRelService.ts" timestamp="1592293674024">
+      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialRelService.ts" timestamp="1592294118274">
         <mark key="[" line="68" column="45" />
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
+      </file>
+      <file name="$USER_HOME$/miniapp-open/material/src/app/utils/response.ts" timestamp="1592294360774">
+        <mark key="[" line="21" column="3" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialRel.ts" timestamp="1592293579014">
         <mark key="[" line="30" column="15" />
@@ -112,14 +115,21 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/miniapp-open/material/src/app/constants/error.ts" timestamp="1592294644760">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="3" column="20" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/interface/ctx/index.ts" timestamp="1592214634711">
         <mark key="[" line="1" column="8" />
         <mark key="]" line="1" column="26" />
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/controller/materialRelController.ts" timestamp="1592292710214">
-        <mark key="'" line="2" column="0" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/controller/materialRelController.ts" timestamp="1592294234630">
+        <mark key="]" line="70" column="13" />
+        <mark key="^" line="70" column="13" />
+        <mark key="." line="70" column="12" />
       </file>
       <file name="/JavaScript Console" timestamp="1592291668596">
         <mark key="[" line="0" column="0" />
@@ -129,9 +139,11 @@
         <mark key="]" line="7" column="57" />
         <mark key="." line="7" column="57" />
       </file>
+      <file name="$USER_HOME$/miniapp-open/material/src/app/constants/index.ts" timestamp="1592294653355">
+        <mark key="[" line="0" column="26" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/workspace/message/tb-im-h5/src/actions/onChatDlgActive.ts" />
       <jump line="17" column="7" filename="$USER_HOME$/workspace/message/tb-im-h5/src/actions/onChatDlgActive.ts" />
       <jump line="8" column="27" filename="$USER_HOME$/workspace/message/tb-im-h5/src/actions/setMsgReadStatus.ts" />
       <jump line="25" column="62" filename="$USER_HOME$/workspace/message/tb-im-h5/src/actions/setMsgReadStatus.ts" />
@@ -231,6 +243,7 @@
       <jump line="3" column="0" filename="$USER_HOME$/miniapp-open/material/src/app/controller/materialRelController.ts" />
       <jump line="72" column="21" filename="$USER_HOME$/miniapp-open/material/src/app/controller/materialRelController.ts" />
       <jump line="2" column="0" filename="$USER_HOME$/miniapp-open/material/src/app/controller/materialRelController.ts" />
+      <jump line="64" column="32" filename="$USER_HOME$/miniapp-open/material/src/app/controller/materialRelController.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -239,10 +252,10 @@
         <text>MaterialLib</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcmVsQm9keSA9IHsgc3RhdHVzLCBwdWJsaWM6IGlzUHVibGljLCB2ZXJzaW9uSWQ6IHZlcnNpb25JbnN0LmlkIH07Cg==</text>
+        <text encoding="base64">ICBOT1RfRVhJU1RTID0gMTAwMiwK</text>
       </register>
       <register name="-" type="4">
-        <text>number[]</text>
+        <text>1001 = 1001</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -262,31 +275,34 @@
         <text encoding="base64">ICAgICAgY29uc3QgcmVsQm9keSA9IHsgc3RhdHVzLCBwdWJsaWM6IGlzUHVibGljLCB2ZXJzaW9uSWQ6IHZlcnNpb25JbnN0LmlkIH07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcmVsQm9keSA9IHsgc3RhdHVzLCBwdWJsaWM6IGlzUHVibGljLCB2ZXJzaW9uSWQ6IHZlcnNpb25JbnN0LmlkIH07Cg==</text>
+        <text encoding="base64">ICBOT1RfRVhJU1RTID0gMTAwMiwK</text>
       </register>
       <register name="q" type="4">
         <text encoding="base64">PEZvcm1JdGVtCgkJCQkJCWxhYmVsPSLpq5jluqYiCgkJCQkJCW5hbWU9ImhlaWdodCIKCQkJCQkJbGFiZWxDb2w9ezZ9CgkJCQkJCXdyYXBwZXJDb2w9ezE4fQoJCQkJCQlsYWJlbFRleHRBbGlnbj0ibGVmdCIKCQkJCQkJaW5pdFZhbHVlPXtkZWZhdWx0VmFsdWVzLmhlaWdodH0KCQkJCQk+CgkJCQkJCTxJbnB1dCAvPgoJCQkJCTwvRm9ybUl0ZW0+</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgcmVsQm9keSA9IHsgc3RhdHVzLCBwdWJsaWM6IGlzUHVibGljLCB2ZXJzaW9uSWQ6IHZlcnNpb25JbnN0LmlkIH07Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text>if (Object.keys(rest).length !== 0) {
           
         }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgdGhpcy4K</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>where = {
     order: 
   }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IHsgV2hlcmUgfSBmcm9tICdzZXF1ZWxpemUvdHlwZXMvbGliL3V0aWxzJzsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBwdWJsaWMgYXN5bmMgZ2V0VmVyc2lvbnMoaWQ6IG51bWJlcikgewoKICB9Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>[
         {
           model: MaterialEntity,
@@ -295,11 +311,8 @@
         },
       ],</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIHJldHVybiBNYXRlcmlhbFJlbC5jcmVhdGUoYm9keSwgewogICAgLy8gICBpbmNsdWRlOiBNYXRlcmlhbFJlbC5pbmNsdWRlLAogICAgLy8gfSk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbmNsdWRlOiBNYXRlcmlhbFZlcnNpb25zLmluY2x1ZGUsCg==</text>
+        <text encoding="base64">ICAgIC8vIHJldHVybiBNYXRlcmlhbFJlbC5jcmVhdGUoYm9keSwgewogICAgLy8gICBpbmNsdWRlOiBNYXRlcmlhbFJlbC5pbmNsdWRlLAogICAgLy8gfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>22</text>
