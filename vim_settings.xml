@@ -82,9 +82,6 @@
         <mark key="]" line="119" column="8" />
         <mark key="." line="119" column="8" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialVersions.ts" timestamp="1592289799018">
-        <mark key="[" line="18" column="79" />
-      </file>
       <file name="/fragment.js" timestamp="1592298029636">
         <mark key="[" line="0" column="0" />
       </file>
@@ -94,6 +91,7 @@
         <mark key="^" line="82" column="23" />
         <mark key="." line="82" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/middleware/messageQueue/index.ts" timestamp="1592322935926" />
       <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/typings/message.ts" timestamp="1592311338944" />
       <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/middleware/messageQueue/transformer/parseService.ts" timestamp="1592311392348" />
       <file name="$USER_HOME$/miniapp-open/material/src/app/constants/error.ts" timestamp="1592300528240">
@@ -103,11 +101,17 @@
         <mark key="^" line="13" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/imsdk/index.ts" timestamp="1592311708633" />
+      <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/service/messageChannelService.ts" timestamp="1592322744810" />
       <file name="/JavaScript Console" timestamp="1592297703329">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/constants/index.ts" timestamp="1592294653355">
         <mark key="[" line="0" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/common/getNewMsg.ts" timestamp="1592323040212">
+        <mark key="[" line="23" column="2" />
+        <mark key="]" line="23" column="67" />
+        <mark key="." line="23" column="2" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialRelService.ts" timestamp="1592317845903">
         <mark key="[" line="79" column="0" />
@@ -124,9 +128,6 @@
         <mark key="[" line="30" column="15" />
         <mark key="]" line="30" column="15" />
         <mark key="." line="30" column="15" />
-      </file>
-      <file name="/" timestamp="1592232543781">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/constants/material.ts" timestamp="1592296883012">
         <mark key="[" line="2" column="6" />
@@ -262,8 +263,8 @@
       <register name="a" type="4">
         <text>MaterialLib</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>option.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2cy5TREsuc2V0Q29udmVyc2F0aW9uUmVhZChbeyBjaWQ6IHZzLmNvbnZlcnNhdGlvbklEIH1dKTsK</text>
       </register>
       <register name="-" type="4">
         <text>option.</text>
@@ -286,18 +287,21 @@
         <text encoding="base64">ICAgICAgY29uc3QgcmVsQm9keSA9IHsgc3RhdHVzLCBwdWJsaWM6IGlzUHVibGljLCB2ZXJzaW9uSWQ6IHZlcnNpb25JbnN0LmlkIH07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYm9keS5jb2RlID0gb3B0aW9uLmNvZGU7CiAgICAgIGJvZHkuZXJyb3JNc2cgPSBvcHRpb24uZXJyb3JNc2cgfHwgZ2V0RXJyb3JNc2cob3B0aW9uLmNvZGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2cy5TREsuc2V0Q29udmVyc2F0aW9uUmVhZChbeyBjaWQ6IHZzLmNvbnZlcnNhdGlvbklEIH1dKTsK</text>
       </register>
       <register name="q" type="4">
         <text encoding="base64">PEZvcm1JdGVtCgkJCQkJCWxhYmVsPSLpq5jluqYiCgkJCQkJCW5hbWU9ImhlaWdodCIKCQkJCQkJbGFiZWxDb2w9ezZ9CgkJCQkJCXdyYXBwZXJDb2w9ezE4fQoJCQkJCQlsYWJlbFRleHRBbGlnbj0ibGVmdCIKCQkJCQkJaW5pdFZhbHVlPXtkZWZhdWx0VmFsdWVzLmhlaWdodH0KCQkJCQk+CgkJCQkJCTxJbnB1dCAvPgoJCQkJCTwvRm9ybUl0ZW0+</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYm9keS5jb2RlID0gb3B0aW9uLmNvZGU7CiAgICAgIGJvZHkuZXJyb3JNc2cgPSBvcHRpb24uZXJyb3JNc2cgfHwgZ2V0RXJyb3JNc2cob3B0aW9uLmNvZGUpOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGJvZHkuY29kZSA9IG9wdGlvbi5jb2RlOwogICAgYm9keS5lcnJvck1zZyA9IG9wdGlvbi5lcnJvck1zZyB8fCBnZXRFcnJvck1zZyhvcHRpb24uY29kZSk7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>try {
           
         } catch (e) {
@@ -305,7 +309,7 @@
           return null;
         }</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>try {
           
         } catch (e) {
@@ -313,17 +317,14 @@
           return null;
         }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBpZiAob3B0aW9uLmVycm9yTXNnKSB7CiAgICBib2R5LmVycm9yTXNnID0gb3B0aW9uLmVycm9yTXNnOwogIH0K</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coOTk5OSwgaW5zdC5zdGF0dXMsIHR5cGVvZiBpbnN0LnN0YXR1cykK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGlmIChib2R5LnN0YXR1cyA9PT0gY29uc3RhbnRzLk1hdGVyaWFsU3RhdHVzLmRlbGV0ZSkgewogICAgICB1dGlscy5yZXNwKHRoaXMuY3R4LCB7CiAgICAgICAgc3VjY2VzczogZmFsc2UsCiAgICAgICAgY29kZTogY29uc3RhbnRzLmVycm9yQ29kZS5OT1RfRVhJU1RTLAogICAgICB9KTsKICAgICAgcmV0dXJuOwogICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>22</text>
