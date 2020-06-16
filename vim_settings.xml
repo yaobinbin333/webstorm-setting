@@ -88,7 +88,7 @@
         <mark key="]" line="24" column="25" />
         <mark key="." line="24" column="25" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialVersions.ts" timestamp="1592277146278" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialVersions.ts" timestamp="1592277967112" />
       <file name="/fragment.js" timestamp="1592218920183">
         <mark key="[" line="0" column="0" />
       </file>
@@ -102,7 +102,6 @@
       <file name="/JavaScript Console" timestamp="1592218355195">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/node_modules/sequelize-typescript/dist/model/model/model.d.ts" timestamp="1592209060821" />
       <file name="$USER_HOME$/miniapp-open/material/node_modules/egg/index.d.ts" timestamp="1592214604448" />
       <file name="$USER_HOME$/miniapp-open/material/node_modules/@ali/midway/dist/index.d.ts" timestamp="1592214530282" />
       <file name="$USER_HOME$/miniapp-open/material/node_modules/sequelize/types/lib/model.d.ts" timestamp="1592213650900" />
@@ -113,6 +112,13 @@
         <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/kettle/app/controller/site2/mainPage.js" timestamp="1592232263653" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialRelService.ts" timestamp="1592278857801">
+        <mark key="[" line="35" column="6" />
+        <mark key="]" line="37" column="7" />
+        <mark key="." line="37" column="6" />
+        <mark key="^" line="37" column="7" />
+      </file>
+      <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialRel.ts" timestamp="1592278399533" />
       <file name="/" timestamp="1592232543781">
         <mark key="[" line="0" column="0" />
       </file>
@@ -235,11 +241,11 @@
       <register name="a" type="4">
         <text>MaterialLib</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Context</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGlzUHVibGljID0gYm9keS5wdWJsaWM7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Context</text>
+        <text>object</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -258,44 +264,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vIHJldHVybiBNYXRlcmlhbExpYi5jcmVhdGUoZGF0YSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">YXdhaXQgUHJvbWlzZS5hbGwoCiAgICAgICAgICBkaWZmLmluY3JlYXNpbmcubWFwKGNvbCA9PgogICAgICAgICAgICBNYXRlcmlhbExpYkVsZW1lbnQuY3JlYXRlKAogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGxpYklkOiBpZCwKICAgICAgICAgICAgICAgIG1hdGVyaWFsSWQ6IGNvbCwKICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgIHsgdHJhbnNhY3Rpb246IHQgfSwKICAgICAgICAgICAgKSwKICAgICAgICAgICksCiAgICAgICAgKTs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGlzUHVibGljID0gYm9keS5wdWJsaWM7Cg==</text>
       </register>
       <register name="q" type="4">
         <text encoding="base64">PEZvcm1JdGVtCgkJCQkJCWxhYmVsPSLpq5jluqYiCgkJCQkJCW5hbWU9ImhlaWdodCIKCQkJCQkJbGFiZWxDb2w9ezZ9CgkJCQkJCXdyYXBwZXJDb2w9ezE4fQoJCQkJCQlsYWJlbFRleHRBbGlnbj0ibGVmdCIKCQkJCQkJaW5pdFZhbHVlPXtkZWZhdWx0VmFsdWVzLmhlaWdodH0KCQkJCQk+CgkJCQkJCTxJbnB1dCAvPgoJCQkJCTwvRm9ybUl0ZW0+</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgc3RhdHVzLCBwdWJsaWMsfSA9IGJvZHk7Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">YXdhaXQgTWF0ZXJpYWxMaWJFbGVtZW50LmRlc3Ryb3koewogICAgICAgICAgd2hlcmU6IHsKICAgICAgICAgICAgaWQ6IHsKICAgICAgICAgICAgICBbb3AuaW5dOiBkaWZmLmRlbC5tYXAoeCA9PiB4LmlkKSwKICAgICAgICAgICAgfSwKICAgICAgICAgIH0sCiAgICAgICAgICB0cmFuc2FjdGlvbjogdCwKICAgICAgICB9KTs=</text>
+        <text encoding="base64">YXdhaXQgUHJvbWlzZS5hbGwoCiAgICAgICAgICBkaWZmLmluY3JlYXNpbmcubWFwKGNvbCA9PgogICAgICAgICAgICBNYXRlcmlhbExpYkVsZW1lbnQuY3JlYXRlKAogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGxpYklkOiBpZCwKICAgICAgICAgICAgICAgIG1hdGVyaWFsSWQ6IGNvbCwKICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgIHsgdHJhbnNhY3Rpb246IHQgfSwKICAgICAgICAgICAgKSwKICAgICAgICAgICksCiAgICAgICAgKTs=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMzMzLCBkaWZmKTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">YXdhaXQgTWF0ZXJpYWxMaWJFbGVtZW50LmRlc3Ryb3koewogICAgICAgICAgd2hlcmU6IHsKICAgICAgICAgICAgaWQ6IHsKICAgICAgICAgICAgICBbb3AuaW5dOiBkaWZmLmRlbC5tYXAoeCA9PiB4LmlkKSwKICAgICAgICAgICAgfSwKICAgICAgICAgIH0sCiAgICAgICAgICB0cmFuc2FjdGlvbjogdCwKICAgICAgICB9KTs=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbGliSWQgPSBkYXRhLmlkOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7IHRyYW59Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMzMzLCBkaWZmKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>[op.in]: {
-              id: []
-            }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgbGliSWQgPSBkYXRhLmlkOwo=</text>
       </register>
       <register name="9" type="2">
-        <text>import { inject, provide } from '@ali/midway';
-import * as constants from '@constants/index';
-import { IMaterialLibService, UMaterialLib } from '@interface/material';
-import { Ctx } from '@interface/ctx';
-import { MaterialLib } from '@models/MaterialLib';
-import { MaterialRel } from '@models/MaterialRel';
-import { MaterialLibElement } from '@models/MaterialLibElement';
-import * as sequelize from '';</text>
+        <text encoding="base64">ICAgICAgICB7IHRyYW59Cg==</text>
       </register>
       <register name=":" type="4">
         <text>22</text>
