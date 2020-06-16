@@ -86,7 +86,7 @@
       <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialVersions.ts" timestamp="1592289799018">
         <mark key="[" line="18" column="79" />
       </file>
-      <file name="/fragment.js" timestamp="1592218920183">
+      <file name="/fragment.js" timestamp="1592298029636">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/constants/error.ts" timestamp="1592294644760">
@@ -94,21 +94,17 @@
         <mark key="]" line="3" column="20" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1592291668596">
+      <file name="/JavaScript Console" timestamp="1592297703329">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/constants/index.ts" timestamp="1592294653355">
         <mark key="[" line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialLibElement.ts" timestamp="1592218957258">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialRelService.ts" timestamp="1592296849839">
-        <mark key="[" line="95" column="17" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialRelService.ts" timestamp="1592298249145">
+        <mark key="[" line="95" column="18" />
+        <mark key="]" line="101" column="19" />
+        <mark key="." line="101" column="18" />
+        <mark key="^" line="101" column="19" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/utils/response.ts" timestamp="1592294360774">
         <mark key="[" line="21" column="3" />
@@ -132,15 +128,18 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/controller/materialRelController.ts" timestamp="1592296664016">
-        <mark key="[" line="65" column="3" />
-        <mark key="]" line="65" column="3" />
-        <mark key="." line="65" column="3" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/controller/materialRelController.ts" timestamp="1592298335014">
+        <mark key="[" line="70" column="14" />
+        <mark key="]" line="70" column="14" />
+        <mark key="." line="70" column="14" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/interface/material/materialRel.ts" timestamp="1592292590770">
+      <file name="$USER_HOME$/miniapp-open/material/src/app/interface/material/materialRel.ts" timestamp="1592298076294">
         <mark key="[" line="7" column="57" />
         <mark key="]" line="7" column="57" />
         <mark key="." line="7" column="57" />
+      </file>
+      <file name="/fragment.java" timestamp="1592297925246">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -252,10 +251,10 @@
         <text>MaterialLib</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGlmIChib2R5LnN0YXR1cyA9PT0gY29uc3RhbnRzLk1hdGVyaWFsU3RhdHVzLmRlbGV0ZSkgewogICAgICB1dGlscy5yZXNwKHRoaXMuY3R4LCB7CiAgICAgICAgc3VjY2VzczogZmFsc2UsCiAgICAgICAgY29kZTogY29uc3RhbnRzLmVycm9yQ29kZS5OT1RfRVhJU1RTLAogICAgICB9KTsKICAgICAgcmV0dXJuOwogICAgfQ==</text>
+        <text>updated</text>
       </register>
       <register name="-" type="4">
-        <text>1001 = 1001</text>
+        <text>updated</text>
       </register>
       <register name="m" type="4">
         <keys>
