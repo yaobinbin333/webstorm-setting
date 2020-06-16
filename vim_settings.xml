@@ -94,12 +94,15 @@
         <mark key="^" line="82" column="23" />
         <mark key="." line="82" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/typings/message.ts" timestamp="1592311338944" />
+      <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/middleware/messageQueue/transformer/parseService.ts" timestamp="1592311392348" />
       <file name="$USER_HOME$/miniapp-open/material/src/app/constants/error.ts" timestamp="1592300528240">
         <mark key="[" line="11" column="16" />
         <mark key="]" line="13" column="6" />
         <mark key="." line="13" column="5" />
         <mark key="^" line="13" column="6" />
       </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/imsdk/index.ts" timestamp="1592311708633" />
       <file name="/JavaScript Console" timestamp="1592297703329">
         <mark key="[" line="0" column="0" />
       </file>
