@@ -129,16 +129,12 @@
         <mark key="]" line="30" column="15" />
         <mark key="." line="30" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/kettle/app/extend/context.js" timestamp="1592363233998" />
       <file name="$USER_HOME$/miniapp-open/material/src/app/constants/material.ts" timestamp="1592296883012">
         <mark key="[" line="2" column="6" />
         <mark key="]" line="2" column="4" />
         <mark key="^" line="2" column="4" />
         <mark key="." line="2" column="3" />
-      </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialEntityService.ts" timestamp="1592290303686">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/controller/materialRelController.ts" timestamp="1592299814679">
         <mark key="[" line="65" column="6" />
