@@ -98,9 +98,6 @@
       <file name="/fragment.js" timestamp="1592372931670">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1592372930599">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/middleware/auth.ts" timestamp="1592382766422">
         <mark key="[" line="9" column="23" />
         <mark key="]" line="9" column="0" />
@@ -124,17 +121,23 @@
       <file name="$USER_HOME$/miniapp-open/material/src/config/plugin.ts" timestamp="1592376635613">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/common/getNewMsg.ts" timestamp="1592385439135">
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/common/getNewMsg.ts" timestamp="1592402861821">
         <mark key="[" line="23" column="2" />
         <mark key="]" line="23" column="67" />
         <mark key="." line="23" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/actions/conversationChange.ts" timestamp="1592385473509">
-        <mark key="[" line="79" column="34" />
-        <mark key="]" line="79" column="34" />
-        <mark key="." line="79" column="34" />
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/actions/conversationChange.ts" timestamp="1592403232504">
+        <mark key="[" line="82" column="62" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="84" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/components/MessageContainer.tsx" timestamp="1592385325576" />
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/components/MessageContainer.tsx" timestamp="1592402421096">
+        <mark key="[" line="85" column="71" />
+      </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/cache/scroll.ts" timestamp="1592402175242">
+        <mark key="[" line="3" column="13" />
+      </file>
       <file name="$USER_HOME$/miniapp-open/material/src/config/config.default.ts" timestamp="1592380038433">
         <mark key="[" line="11" column="32" />
       </file>
@@ -248,11 +251,11 @@
       <register name="a" type="4">
         <text>MaterialLib</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZmFsc2Ug</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmFsc2Ug</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -272,34 +275,34 @@
         <text encoding="base64">ICAgICAgY29uc3QgcmVsQm9keSA9IHsgc3RhdHVzLCBwdWJsaWM6IGlzUHVibGljLCB2ZXJzaW9uSWQ6IHZlcnNpb25JbnN0LmlkIH07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDk5LCB0aGlzLmN0eC51c2VyKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZgo=</text>
       </register>
       <register name="q" type="4">
         <text encoding="base64">PEZvcm1JdGVtCgkJCQkJCWxhYmVsPSLpq5jluqYiCgkJCQkJCW5hbWU9ImhlaWdodCIKCQkJCQkJbGFiZWxDb2w9ezZ9CgkJCQkJCXdyYXBwZXJDb2w9ezE4fQoJCQkJCQlsYWJlbFRleHRBbGlnbj0ibGVmdCIKCQkJCQkJaW5pdFZhbHVlPXtkZWZhdWx0VmFsdWVzLmhlaWdodH0KCQkJCQk+CgkJCQkJCTxJbnB1dCAvPgoJCQkJCTwvRm9ybUl0ZW0+</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygyMixhcHAuY29uZmlnLCBvcHRpb25zKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChpbnN0LmNyZWF0b3IgIT09IHRoaXMuY3R4LnVzZXIudXNlcmlkKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcihjb25zdGFudHMuZXJyb3JDb2RlLk5PX1BFUk1JU1NJT04pOwogICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDk5LCB0aGlzLmN0eC51c2VyKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygyMixhcHAuY29uZmlnLCBvcHRpb25zKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGlmIChpbnN0LmNyZWF0b3IgIT09IHRoaXMuY3R4LnVzZXIudXNlcmlkKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcihjb25zdGFudHMuZXJyb3JDb2RlLk5PX1BFUk1JU1NJT04pOwogICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDk5LCB0aGlzLmN0eC51c2VyKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyg5OTksIGN0eC51c2VyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgY29uc3RhbnRzIGZyb20gJ0Bjb25zdGFudHMvaW5kZXgnCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyg5OTksIGN0eC51c2VyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgY29uc3RhbnRzIGZyb20gJ0Bjb25zdGFudHMvaW5kZXgnCg==</text>
       </register>
       <register name=":" type="4">
         <text>22</text>
