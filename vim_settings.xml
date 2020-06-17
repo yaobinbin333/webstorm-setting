@@ -105,9 +105,6 @@
       <file name="/JavaScript Console" timestamp="1592364915571">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/constants/index.ts" timestamp="1592294653355">
-        <mark key="[" line="0" column="26" />
-      </file>
       <file name="$USER_HOME$/miniapp-open/material/src/config/plugin.ts" timestamp="1592363621769">
         <mark key="[" line="11" column="0" />
       </file>
@@ -128,18 +125,14 @@
         <mark key="^" line="33" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/kettle/app/extend/context.js" timestamp="1592363233998" />
-      <file name="$USER_HOME$/miniapp-open/material/src/app/constants/material.ts" timestamp="1592296883012">
-        <mark key="[" line="2" column="6" />
-        <mark key="]" line="2" column="4" />
-        <mark key="^" line="2" column="4" />
-        <mark key="." line="2" column="3" />
-      </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/controller/materialRelController.ts" timestamp="1592299814679">
         <mark key="[" line="65" column="6" />
         <mark key="]" line="65" column="6" />
         <mark key="." line="65" column="5" />
         <mark key="^" line="65" column="6" />
       </file>
+      <file name="$USER_HOME$/miniapp-open/material/node_modules/@ali/egg-tb-login/app/middleware/tb_login.js" timestamp="1592366186352" />
+      <file name="$USER_HOME$/miniapp-open/material/node_modules/@ali/egg-tb-login/app/extend/context.js" timestamp="1592366108448" />
       <file name="$USER_HOME$/miniapp-open/material/src/app/interface/material/materialRel.ts" timestamp="1592298076294">
         <mark key="[" line="7" column="57" />
         <mark key="]" line="7" column="57" />
