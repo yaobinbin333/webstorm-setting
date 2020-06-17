@@ -108,7 +108,7 @@
       <file name="$USER_HOME$/miniapp-open/material/logs/material/midway-web.log" timestamp="1592404644351">
         <mark key="'" line="202" column="0" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/constants/error.ts" timestamp="1592380690062" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/constants/error.ts" timestamp="1592409380197" />
       <file name="$USER_HOME$/miniapp-open/material/src/app/interface/app/index.ts" timestamp="1592381798616">
         <mark key="[" line="6" column="10" />
         <mark key="]" line="6" column="10" />
@@ -118,9 +118,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/message/tb-im-h5/src/actions/setMsgReadStatusByScroll.ts" timestamp="1592384636842" />
-      <file name="$USER_HOME$/miniapp-open/material/src/config/plugin.ts" timestamp="1592376635613">
-        <mark key="[" line="7" column="0" />
-      </file>
+      <file name="$USER_HOME$/miniapp-open/material/node_modules/_egg-swagger@1.2.2@egg-swagger/app/public/index.html" timestamp="1592409401948" />
       <file name="$USER_HOME$/workspace/message/tb-im-h5/src/common/getNewMsg.ts" timestamp="1592402861821">
         <mark key="[" line="23" column="2" />
         <mark key="]" line="23" column="67" />
