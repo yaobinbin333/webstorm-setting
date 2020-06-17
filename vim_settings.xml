@@ -111,9 +111,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="internal/async_hooks.js" timestamp="1592371710830">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/constants/error.ts" timestamp="1592380690062" />
       <file name="$USER_HOME$/miniapp-open/material/src/app/interface/app/index.ts" timestamp="1592381798616">
         <mark key="[" line="6" column="10" />
@@ -123,15 +120,21 @@
       <file name="/JavaScript Console" timestamp="1592378941171">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="internal/inspector_async_hook.js" timestamp="1592371252283">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592372456839">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/actions/setMsgReadStatusByScroll.ts" timestamp="1592384636842" />
       <file name="$USER_HOME$/miniapp-open/material/src/config/plugin.ts" timestamp="1592376635613">
         <mark key="[" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/common/getNewMsg.ts" timestamp="1592385439135">
+        <mark key="[" line="23" column="2" />
+        <mark key="]" line="23" column="67" />
+        <mark key="." line="23" column="2" />
+      </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/actions/conversationChange.ts" timestamp="1592385473509">
+        <mark key="[" line="79" column="34" />
+        <mark key="]" line="79" column="34" />
+        <mark key="." line="79" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/components/MessageContainer.tsx" timestamp="1592385325576" />
       <file name="$USER_HOME$/miniapp-open/material/src/config/config.default.ts" timestamp="1592380038433">
         <mark key="[" line="11" column="32" />
       </file>
@@ -245,11 +248,11 @@
       <register name="a" type="4">
         <text>MaterialLib</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDk5LCB0aGlzLmN0eC51c2VyKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZmFsc2Ug</text>
       </register>
       <register name="-" type="4">
-        <text>number</text>
+        <text encoding="base64">ZmFsc2Ug</text>
       </register>
       <register name="m" type="4">
         <keys>
