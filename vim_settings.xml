@@ -76,21 +76,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/fragment.js" timestamp="1592371951784">
+      <file name="/fragment.js" timestamp="1592372931670">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/node_modules/_@ali_egg-tb-login@5.0.5@@ali/egg-tb-login/app/middleware/tb_login.js" timestamp="1592372005678" />
       <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/middleware/messageQueue/index.ts" timestamp="1592322935926" />
-      <file name="$USER_HOME$/miniapp-open/material/logs/material/midway-web.log" timestamp="1592369974013">
-        <mark key="'" line="22" column="40" />
-      </file>
-      <file name="internal/async_hooks.js" timestamp="1592371710830">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/service/messageChannelService.ts" timestamp="1592322744810" />
-      <file name="/JavaScript Console" timestamp="1592370364025">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="internal/inspector_async_hook.js" timestamp="1592371252283">
         <mark key="[" line="0" column="0" />
       </file>
@@ -98,6 +87,26 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/node_modules/_koa-userauth@2.1.0@koa-userauth/index.js" timestamp="1592371453692" />
+      <file name="$USER_HOME$/miniapp-open/material/logs/material/midway-core.log" timestamp="1592369922041">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/miniapp-open/material/node_modules/@ali/egg-tb-login/app/extend/context.js" timestamp="1592366108448" />
+      <file name="/fragment.py" timestamp="1592372930599">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/miniapp-open/material/node_modules/_@ali_egg-tb-login@5.0.5@@ali/egg-tb-login/app/middleware/tb_login.js" timestamp="1592372005678" />
+      <file name="$USER_HOME$/miniapp-open/material/logs/material/midway-web.log" timestamp="1592369974013">
+        <mark key="'" line="22" column="40" />
+      </file>
+      <file name="internal/async_hooks.js" timestamp="1592371710830">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1592372466536">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592372456839">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/miniapp-open/material/src/config/plugin.ts" timestamp="1592363621769">
         <mark key="[" line="11" column="0" />
       </file>
@@ -109,23 +118,13 @@
       <file name="$USER_HOME$/miniapp-open/material/logs/material/common-error.log" timestamp="1592369905184">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/utils/response.ts" timestamp="1592320898674">
-        <mark key="[" line="33" column="27" />
-        <mark key="]" line="33" column="28" />
-        <mark key="." line="33" column="27" />
-        <mark key="^" line="33" column="28" />
-      </file>
       <file name="$USER_HOME$/workspace/kettle/app/extend/context.js" timestamp="1592363233998" />
-      <file name="$USER_HOME$/miniapp-open/material/logs/material/midway-core.log" timestamp="1592369922041">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/miniapp-open/material/node_modules/@ali/egg-tb-login/app/middleware/tb_login.js" timestamp="1592370328455" />
       <file name="$USER_HOME$/miniapp-open/material/package.json" timestamp="1592370068849">
         <mark key="[" line="39" column="28" />
         <mark key="]" line="39" column="28" />
         <mark key="." line="39" column="28" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/node_modules/@ali/egg-tb-login/app/extend/context.js" timestamp="1592366108448" />
     </filemarks>
     <jumps>
       <jump line="660" column="6" filename="/index.ts" />
