@@ -81,19 +81,20 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" timestamp="1592381908768">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="73" column="5" />
-        <mark key="^" line="70" column="4" />
-        <mark key="." line="71" column="0" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" timestamp="1592416738026">
+        <mark key="'" line="35" column="15" />
+        <mark key="[" line="35" column="17" />
+        <mark key="]" line="35" column="16" />
+        <mark key="^" line="69" column="4" />
+        <mark key="." line="35" column="16" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/src/config/config.local.ts" timestamp="1592382534290">
         <mark key="[" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialLib.ts" timestamp="1592381790663">
-        <mark key="[" line="33" column="11" />
-        <mark key="]" line="33" column="11" />
-        <mark key="." line="33" column="11" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialLib.ts" timestamp="1592416524221">
+        <mark key="[" line="19" column="53" />
+        <mark key="]" line="46" column="11" />
+        <mark key="." line="46" column="11" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/middleware/auth.ts" timestamp="1592404766150">
         <mark key="[" line="9" column="0" />
@@ -114,9 +115,6 @@
         <mark key="]" line="6" column="10" />
         <mark key="." line="6" column="10" />
       </file>
-      <file name="/JavaScript Console" timestamp="1592378941171">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/message/tb-im-h5/src/actions/setMsgReadStatusByScroll.ts" timestamp="1592384636842" />
       <file name="$USER_HOME$/miniapp-open/material/node_modules/_egg-swagger@1.2.2@egg-swagger/app/public/index.html" timestamp="1592409401948" />
       <file name="$USER_HOME$/workspace/message/tb-im-h5/src/common/getNewMsg.ts" timestamp="1592402861821">
@@ -130,9 +128,10 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="84" column="10" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialRelService.ts" timestamp="1592414995418">
+      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialRelService.ts" timestamp="1592415990753">
         <mark key="[" line="23" column="24" />
       </file>
+      <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialRel.ts" timestamp="1592416352461" />
       <file name="$USER_HOME$/workspace/message/tb-im-h5/src/components/MessageContainer.tsx" timestamp="1592402421096">
         <mark key="[" line="85" column="71" />
       </file>
@@ -233,7 +232,6 @@
       <jump line="46" column="0" filename="$USER_HOME$/miniapp-open/material/src/app/controller/materialLibController.ts" />
       <jump line="1" column="47" filename="$USER_HOME$/miniapp-open/material/src/app/controller/materialLibController.ts" />
       <jump line="35" column="0" filename="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" />
-      <jump line="36" column="0" filename="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" />
       <jump line="1066" column="29" filename="$USER_HOME$/miniapp-open/material/node_modules/sequelize/types/lib/sequelize.d.ts" />
       <jump line="7" column="0" filename="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" />
       <jump line="61" column="1" filename="$USER_HOME$/miniapp-open/material/src/app/controller/materialLibController.ts" />
@@ -252,6 +250,7 @@
       <jump line="22" column="40" filename="$USER_HOME$/miniapp-open/material/logs/material/midway-web.log" />
       <jump line="3290" column="34" filename="$USER_HOME$/miniapp-open/material/logs/material/midway-core.log" />
       <jump line="202" column="0" filename="$USER_HOME$/miniapp-open/material/logs/material/midway-web.log" />
+      <jump line="36" column="15" filename="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -259,11 +258,11 @@
       <register name="a" type="4">
         <text>MaterialLib</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coOTk5OSwgbWF0ZXJpYWwpCg==</text>
+      <register name="&quot;" type="4">
+        <text>{ model: MaterialRel, through: { attributes: [] }, include: MaterialRel.include }</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>{ model: MaterialRel, through: { attributes: [] }, include: MaterialRel.include }</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -282,35 +281,42 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29uc3QgcmVsQm9keSA9IHsgc3RhdHVzLCBwdWJsaWM6IGlzUHVibGljLCB2ZXJzaW9uSWQ6IHZlcnNpb25JbnN0LmlkIH07Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coOTk5OSwgbWF0ZXJpYWwpCg==</text>
+      <register name="1" type="4">
+        <text>{ model: MaterialRel, through: { attributes: [] }, include: MaterialRel.include }</text>
       </register>
       <register name="q" type="4">
         <text encoding="base64">PEZvcm1JdGVtCgkJCQkJCWxhYmVsPSLpq5jluqYiCgkJCQkJCW5hbWU9ImhlaWdodCIKCQkJCQkJbGFiZWxDb2w9ezZ9CgkJCQkJCXdyYXBwZXJDb2w9ezE4fQoJCQkJCQlsYWJlbFRleHRBbGlnbj0ibGVmdCIKCQkJCQkJaW5pdFZhbHVlPXtkZWZhdWx0VmFsdWVzLmhlaWdodH0KCQkJCQk+CgkJCQkJCTxJbnB1dCAvPgoJCQkJCTwvRm9ybUl0ZW0+</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyg5OTksIGN0eC51c2VyKTsKCg==</text>
+      <register name="2" type="4">
+        <text>[
+        {
+          model: MaterialRel,
+          attributes: { exclude: MaterialRel.exclude },
+          through: { attributes: [] },
+          include: MaterialRel.include,
+        },
+      ]</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDExMSwgdGhpcy5jdHgudXNlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coOTk5OSwgbWF0ZXJpYWwpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDMzMzMsIHRoaXMuY3R4LnVzZXIpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyg5OTksIGN0eC51c2VyKTsKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDExMSwgdGhpcy5jdHgudXNlcik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDk5LCB0aGlzLmN0eC51c2VyKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDMzMzMsIHRoaXMuY3R4LnVzZXIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygyMixhcHAuY29uZmlnLCBvcHRpb25zKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChpbnN0LmNyZWF0b3IgIT09IHRoaXMuY3R4LnVzZXIudXNlcmlkKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcihjb25zdGFudHMuZXJyb3JDb2RlLk5PX1BFUk1JU1NJT04pOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDk5LCB0aGlzLmN0eC51c2VyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygyMixhcHAuY29uZmlnLCBvcHRpb25zKQo=</text>
       </register>
       <register name=":" type="4">
         <text>22</text>
