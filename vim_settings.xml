@@ -102,11 +102,14 @@
       </file>
       <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/imsdk/index.ts" timestamp="1592311708633" />
       <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/service/messageChannelService.ts" timestamp="1592322744810" />
-      <file name="/JavaScript Console" timestamp="1592297703329">
+      <file name="/JavaScript Console" timestamp="1592363722231">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/constants/index.ts" timestamp="1592294653355">
         <mark key="[" line="0" column="26" />
+      </file>
+      <file name="$USER_HOME$/miniapp-open/material/src/config/plugin.ts" timestamp="1592363621769">
+        <mark key="[" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/message/tb-im-h5/src/common/getNewMsg.ts" timestamp="1592323040212">
         <mark key="[" line="23" column="2" />
@@ -123,11 +126,6 @@
         <mark key="]" line="33" column="28" />
         <mark key="." line="33" column="27" />
         <mark key="^" line="33" column="28" />
-      </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialRel.ts" timestamp="1592293579014">
-        <mark key="[" line="30" column="15" />
-        <mark key="]" line="30" column="15" />
-        <mark key="." line="30" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/kettle/app/extend/context.js" timestamp="1592363233998" />
       <file name="$USER_HOME$/miniapp-open/material/src/app/constants/material.ts" timestamp="1592296883012">
