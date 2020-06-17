@@ -76,35 +76,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/fragment.js" timestamp="1592372931670">
+      <file name="/Dummy.txt" timestamp="1592372456839">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/middleware/messageQueue/index.ts" timestamp="1592322935926" />
-      <file name="internal/inspector_async_hook.js" timestamp="1592371252283">
+      <file name="/fragment.js" timestamp="1592372931670">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/logs/material/midway-agent.log" timestamp="1592369916208">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/node_modules/_koa-userauth@2.1.0@koa-userauth/index.js" timestamp="1592373279916" />
-      <file name="$USER_HOME$/miniapp-open/material/logs/material/midway-core.log" timestamp="1592369922041">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/miniapp-open/material/node_modules/@ali/egg-tb-login/app/extend/context.js" timestamp="1592366108448" />
       <file name="/fragment.py" timestamp="1592372930599">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/miniapp-open/material/node_modules/_@ali_egg-tb-login@5.0.5@@ali/egg-tb-login/app/middleware/tb_login.js" timestamp="1592373296850" />
-      <file name="$USER_HOME$/miniapp-open/material/logs/material/midway-web.log" timestamp="1592369974013">
-        <mark key="'" line="22" column="40" />
-      </file>
-      <file name="internal/async_hooks.js" timestamp="1592371710830">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1592373558038">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592372456839">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/src/config/plugin.ts" timestamp="1592363621769">
@@ -118,8 +99,22 @@
       <file name="$USER_HOME$/miniapp-open/material/logs/material/common-error.log" timestamp="1592369905184">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/kettle/app/extend/context.js" timestamp="1592363233998" />
-      <file name="$USER_HOME$/miniapp-open/material/node_modules/@ali/egg-tb-login/app/middleware/tb_login.js" timestamp="1592370328455" />
+      <file name="$USER_HOME$/miniapp-open/material/logs/material/midway-web.log" timestamp="1592369974013">
+        <mark key="'" line="22" column="40" />
+      </file>
+      <file name="internal/async_hooks.js" timestamp="1592371710830">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/miniapp-open/material/logs/material/midway-core.log" timestamp="1592369922041">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1592374905659">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/miniapp-open/material/.vscode/launch.json" timestamp="1592374550856" />
+      <file name="internal/inspector_async_hook.js" timestamp="1592371252283">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/miniapp-open/material/package.json" timestamp="1592370068849">
         <mark key="[" line="39" column="28" />
         <mark key="]" line="39" column="28" />
