@@ -76,50 +76,66 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592372456839">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/controller/homeController.ts" timestamp="1592382520330">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" timestamp="1592381908768">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="73" column="5" />
+        <mark key="^" line="70" column="4" />
+        <mark key="." line="71" column="0" />
+      </file>
+      <file name="$USER_HOME$/miniapp-open/material/src/config/config.local.ts" timestamp="1592382534290">
+        <mark key="[" line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialLib.ts" timestamp="1592381790663">
+        <mark key="[" line="33" column="11" />
+        <mark key="]" line="33" column="11" />
+        <mark key="." line="33" column="11" />
       </file>
       <file name="/fragment.js" timestamp="1592372931670">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/logs/material/midway-agent.log" timestamp="1592369916208">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1592372930599">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/miniapp-open/material/src/app/middleware/auth.ts" timestamp="1592382766422">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/miniapp-open/material/src/app/controller/materialLibController.ts" timestamp="1592382697732">
+        <mark key="[" line="0" column="83" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="internal/async_hooks.js" timestamp="1592371710830">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/miniapp-open/material/src/app/constants/error.ts" timestamp="1592380690062" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/interface/app/index.ts" timestamp="1592381798616">
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="6" column="10" />
+        <mark key="." line="6" column="10" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1592378941171">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="internal/inspector_async_hook.js" timestamp="1592371252283">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592372456839">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/src/config/plugin.ts" timestamp="1592376635613">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/common/getNewMsg.ts" timestamp="1592323040212">
-        <mark key="[" line="23" column="2" />
-        <mark key="]" line="23" column="67" />
-        <mark key="." line="23" column="2" />
-      </file>
-      <file name="$USER_HOME$/miniapp-open/material/logs/material/common-error.log" timestamp="1592369905184">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/miniapp-open/material/logs/material/midway-web.log" timestamp="1592369974013">
-        <mark key="'" line="22" column="40" />
-      </file>
-      <file name="internal/async_hooks.js" timestamp="1592371710830">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/miniapp-open/material/logs/material/midway-core.log" timestamp="1592369922041">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1592375338967">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/miniapp-open/material/src/config/config.default.ts" timestamp="1592380038433">
+        <mark key="[" line="11" column="32" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/.vscode/launch.json" timestamp="1592374550856" />
-      <file name="internal/inspector_async_hook.js" timestamp="1592371252283">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/miniapp-open/material/package.json" timestamp="1592370068849">
-        <mark key="[" line="39" column="28" />
-        <mark key="]" line="39" column="28" />
-        <mark key="." line="39" column="28" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="660" column="6" filename="/index.ts" />
@@ -229,11 +245,11 @@
       <register name="a" type="4">
         <text>MaterialLib</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGRlYnVnPWtvYS11c2VyYXV0aCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDk5LCB0aGlzLmN0eC51c2VyKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGRlYnVnPWtvYS11c2VyYXV0aCA=</text>
+        <text>number</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -253,44 +269,34 @@
         <text encoding="base64">ICAgICAgY29uc3QgcmVsQm9keSA9IHsgc3RhdHVzLCBwdWJsaWM6IGlzUHVibGljLCB2ZXJzaW9uSWQ6IHZlcnNpb25JbnN0LmlkIH07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2cy5TREsuc2V0Q29udmVyc2F0aW9uUmVhZChbeyBjaWQ6IHZzLmNvbnZlcnNhdGlvbklEIH1dKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDk5LCB0aGlzLmN0eC51c2VyKTsK</text>
       </register>
       <register name="q" type="4">
         <text encoding="base64">PEZvcm1JdGVtCgkJCQkJCWxhYmVsPSLpq5jluqYiCgkJCQkJCW5hbWU9ImhlaWdodCIKCQkJCQkJbGFiZWxDb2w9ezZ9CgkJCQkJCXdyYXBwZXJDb2w9ezE4fQoJCQkJCQlsYWJlbFRleHRBbGlnbj0ibGVmdCIKCQkJCQkJaW5pdFZhbHVlPXtkZWZhdWx0VmFsdWVzLmhlaWdodH0KCQkJCQk+CgkJCQkJCTxJbnB1dCAvPgoJCQkJCTwvRm9ybUl0ZW0+</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYm9keS5jb2RlID0gb3B0aW9uLmNvZGU7CiAgICAgIGJvZHkuZXJyb3JNc2cgPSBvcHRpb24uZXJyb3JNc2cgfHwgZ2V0RXJyb3JNc2cob3B0aW9uLmNvZGUpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygyMixhcHAuY29uZmlnLCBvcHRpb25zKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChpbnN0LmNyZWF0b3IgIT09IHRoaXMuY3R4LnVzZXIudXNlcmlkKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcihjb25zdGFudHMuZXJyb3JDb2RlLk5PX1BFUk1JU1NJT04pOwogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJvZHkuY29kZSA9IG9wdGlvbi5jb2RlOwogICAgYm9keS5lcnJvck1zZyA9IG9wdGlvbi5lcnJvck1zZyB8fCBnZXRFcnJvck1zZyhvcHRpb24uY29kZSk7Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>try {
-          
-        } catch (e) {
-          this.logger.error('update material lib error', e);
-          return null;
-        }</text>
-      </register>
-      <register name="6" type="4">
-        <text>try {
-          
-        } catch (e) {
-          this.logger.error('create material lib error', e);
-          return null;
-        }</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDk5LCB0aGlzLmN0eC51c2VyKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyg5OTksIGN0eC51c2VyKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpZiAob3B0aW9uLmVycm9yTXNnKSB7CiAgICBib2R5LmVycm9yTXNnID0gb3B0aW9uLmVycm9yTXNnOwogIH0K</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgY29uc3RhbnRzIGZyb20gJ0Bjb25zdGFudHMvaW5kZXgnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coOTk5OSwgaW5zdC5zdGF0dXMsIHR5cGVvZiBpbnN0LnN0YXR1cykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>22</text>
