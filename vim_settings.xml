@@ -76,20 +76,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/controller/homeController.ts" timestamp="1592382520330">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" timestamp="1592416738026">
         <mark key="'" line="35" column="15" />
         <mark key="[" line="35" column="17" />
         <mark key="]" line="35" column="16" />
         <mark key="^" line="69" column="4" />
         <mark key="." line="35" column="16" />
-      </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/config/config.local.ts" timestamp="1592382534290">
-        <mark key="[" line="25" column="0" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialLib.ts" timestamp="1592416524221">
         <mark key="[" line="19" column="53" />
@@ -101,32 +93,29 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/controller/materialLibController.ts" timestamp="1592382697732">
-        <mark key="[" line="0" column="83" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/miniapp-open/material/logs/material/midway-web.log" timestamp="1592404644351">
         <mark key="'" line="202" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/typings/message.ts" timestamp="1592449766196" />
       <file name="$USER_HOME$/miniapp-open/material/src/app/constants/error.ts" timestamp="1592409380197" />
-      <file name="$USER_HOME$/miniapp-open/material/src/app/interface/app/index.ts" timestamp="1592381798616">
-        <mark key="[" line="6" column="10" />
-        <mark key="]" line="6" column="10" />
-        <mark key="." line="6" column="10" />
-      </file>
       <file name="$USER_HOME$/workspace/message/tb-im-h5/src/actions/setMsgReadStatusByScroll.ts" timestamp="1592384636842" />
       <file name="$USER_HOME$/miniapp-open/material/node_modules/_egg-swagger@1.2.2@egg-swagger/app/public/index.html" timestamp="1592409401948" />
-      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/common/getNewMsg.ts" timestamp="1592402861821">
-        <mark key="[" line="23" column="2" />
-        <mark key="]" line="23" column="67" />
-        <mark key="." line="23" column="2" />
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/util/imageToolBox.js" timestamp="1592449146475" />
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/util/index.ts" timestamp="1592450264198">
+        <mark key="[" line="171" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/actions/conversationChange.ts" timestamp="1592403232504">
-        <mark key="[" line="82" column="62" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="84" column="10" />
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/common/getNewMsg.ts" timestamp="1592449942574">
+        <mark key="[" line="33" column="30" />
+        <mark key="]" line="36" column="42" />
+        <mark key="." line="36" column="41" />
+        <mark key="^" line="36" column="42" />
+      </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/actions/conversationChange.ts" timestamp="1592449895300">
+        <mark key="'" line="116" column="8" />
+        <mark key="[" line="182" column="24" />
+        <mark key="]" line="181" column="33" />
+        <mark key="^" line="181" column="33" />
+        <mark key="." line="181" column="32" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialRelService.ts" timestamp="1592415990753">
         <mark key="[" line="23" column="24" />
@@ -149,11 +138,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="35" filename="/messageChannelService.ts" />
-      <jump line="145" column="10" filename="$USER_HOME$/workspace/message/tb-im-h5/src/actions/conversationChange.ts" />
-      <jump line="158" column="5" filename="$USER_HOME$/workspace/message/tb-im-h5/src/actions/conversationChange.ts" />
-      <jump line="328" column="8" filename="$USER_HOME$/workspace/message/tb-im-sdk/src/service/messageChannelService.ts" />
-      <jump line="309" column="4" filename="$USER_HOME$/workspace/message/tb-im-sdk/src/imsdk/index.ts" />
       <jump line="324" column="4" filename="$USER_HOME$/compiler/parserc/examples/HeraScript/parser.ts" />
       <jump line="318" column="46" filename="$USER_HOME$/compiler/parserc/examples/HeraScript/parser.ts" />
       <jump line="847" column="0" filename="$USER_HOME$/compiler/parserc/src/parserc.ts" />
@@ -249,6 +233,11 @@
       <jump line="3290" column="34" filename="$USER_HOME$/miniapp-open/material/logs/material/midway-core.log" />
       <jump line="202" column="0" filename="$USER_HOME$/miniapp-open/material/logs/material/midway-web.log" />
       <jump line="36" column="15" filename="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" />
+      <jump line="2" column="36" filename="$USER_HOME$/workspace/message/tb-im-h5/src/actions/conversationChange.ts" />
+      <jump line="190" column="6" filename="$USER_HOME$/workspace/message/tb-im-h5/src/util/index.ts" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/message/tb-im-h5/src/util/index.ts" />
+      <jump line="240" column="8" filename="$USER_HOME$/workspace/message/tb-im-h5/src/actions/conversationChange.ts" />
+      <jump line="116" column="8" filename="$USER_HOME$/workspace/message/tb-im-h5/src/actions/conversationChange.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -256,11 +245,11 @@
       <register name="a" type="4">
         <text>MaterialLib</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>{ model: MaterialRel, through: { attributes: [] }, include: MaterialRel.include }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBtc2cubWNvZGUubWVzc2FnZUlkIHx8IG1zZy5tY29kZS5jbGllbnRJZCwK</text>
       </register>
       <register name="-" type="4">
-        <text>{ model: MaterialRel, through: { attributes: [] }, include: MaterialRel.include }</text>
+        <text>msg.mcode.me</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -279,42 +268,51 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29uc3QgcmVsQm9keSA9IHsgc3RhdHVzLCBwdWJsaWM6IGlzUHVibGljLCB2ZXJzaW9uSWQ6IHZlcnNpb25JbnN0LmlkIH07Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>{ model: MaterialRel, through: { attributes: [] }, include: MaterialRel.include }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBtc2cubWNvZGUubWVzc2FnZUlkIHx8IG1zZy5tY29kZS5jbGllbnRJZCwK</text>
       </register>
       <register name="q" type="4">
         <text encoding="base64">PEZvcm1JdGVtCgkJCQkJCWxhYmVsPSLpq5jluqYiCgkJCQkJCW5hbWU9ImhlaWdodCIKCQkJCQkJbGFiZWxDb2w9ezZ9CgkJCQkJCXdyYXBwZXJDb2w9ezE4fQoJCQkJCQlsYWJlbFRleHRBbGlnbj0ibGVmdCIKCQkJCQkJaW5pdFZhbHVlPXtkZWZhdWx0VmFsdWVzLmhlaWdodH0KCQkJCQk+CgkJCQkJCTxJbnB1dCAvPgoJCQkJCTwvRm9ybUl0ZW0+</text>
       </register>
-      <register name="2" type="4">
-        <text>[
-        {
-          model: MaterialRel,
-          attributes: { exclude: MaterialRel.exclude },
-          through: { attributes: [] },
-          include: MaterialRel.include,
-        },
-      ]</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coOTk5OSwgbWF0ZXJpYWwpCg==</text>
+        <text encoding="base64">ICAgICAgbXNnTGlzdC5mb3JFYWNoKChtc2c6IGFueSkgPT4gewogICAgICAgIGNvbnN0IG1zZ0VsZW1lbnQgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgKICAgICAgICAgIG1zZy5tY29kZS5tZXNzYWdlSWQgfHwgbXNnLm1jb2RlLmNsaWVudElkLAogICAgICAgICk7CiAgICAgICAgaWYgKG1zZ0VsZW1lbnQgJiYgbXNnRWxlbWVudC5xdWVyeVNlbGVjdG9yQWxsKCdpbWcnKSkgewogICAgICAgICAgbXNnRWxlbWVudC5xdWVyeVNlbGVjdG9yQWxsKCdpbWcnKS5mb3JFYWNoKChpbWc6IGFueSkgPT4gewogICAgICAgICAgICBpbWcub25sb2FkID0gKCkgPT4gewogICAgICAgICAgICAgIHZpZXdTdG9yZS5zY3JvbGxUb0JvdHRvbSgpOwogICAgICAgICAgICB9OwogICAgICAgICAgfSk7CiAgICAgICAgfQogICAgICB9KTs=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyg5OTksIGN0eC51c2VyKTsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDExMSwgdGhpcy5jdHgudXNlcik7Cg==</text>
+        <text encoding="base64">aW1wb3J0IENvbnN0YW50cyBmcm9tICJAL2NvbnN0YW50cyI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDMzMzMsIHRoaXMuY3R4LnVzZXIpOwo=</text>
+        <text encoding="base64">CmNvbnN0IHNpbmdsZUltYWdlVG9vbEJveEJ1dHRvbiA9IFsKICB7CiAgICB0ZXh0OiBDb25zdGFudHMuQUREX0VYUFJFU1NJT04sCiAgICBhY3Rpb246ICdpbS51aXV0aWwuQWRkQXNFbW90aW9uJywKICAgIGNsczogJ2Vtb3QtaWNvbicsCiAgfSwKICB7CiAgICB0ZXh0OiBDb25zdGFudHMuU0FWRV9QSUNUVVJFLAogICAgYWN0aW9uOiAnaW0udWl1dGlsLlBpY1NhdmVBcycsCiAgICBjbHM6ICdzYXZlLWljb24nLAogIH0sCiAgewogICAgdGV4dDogQ29uc3RhbnRzLkVESVRfUElDVFVSRSwKICAgIGFjdGlvbjogJ2ltLnNpbmdsZW1zZy5FZGl0UGljMlNlbmRNc2cnLAogICAgY2xzOiAnZWRpdC1pY29uJywKICB9LApdOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+        <text encoding="base64">ICAgIC8vIDIuIOWIneWni+WMluWbvueJh+W3peWFt+agjwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDk5LCB0aGlzLmN0eC51c2VyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygyMixhcHAuY29uZmlnLCBvcHRpb25zKQo=</text>
+        <text>constants.singleImageToolBoxButton = [
+  {
+    text: constants.ADD_EXPRESSION,
+    action: 'im.uiutil.AddAsEmotion',
+    cls: 'emot-icon',
+  },
+  {
+    text: constants.SAVE_PICTURE,
+    action: 'im.uiutil.PicSaveAs',
+    cls: 'save-icon',
+  },
+  {
+    text: constants.EDIT_PICTURE,
+    action: 'im.singlemsg.EditPic2SendMsg',
+    cls: 'edit-icon',
+  },
+];</text>
       </register>
       <register name=":" type="4">
         <text>22</text>
