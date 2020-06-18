@@ -82,6 +82,13 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" timestamp="1592490815811">
+        <mark key="'" line="35" column="15" />
+        <mark key="[" line="41" column="53" />
+        <mark key="]" line="35" column="16" />
+        <mark key="^" line="71" column="4" />
+        <mark key="." line="35" column="16" />
+      </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/middleware/auth.ts" timestamp="1592476657020">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -98,8 +105,8 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/node_modules/_@ali_egg-tb-login@5.0.5@@ali/egg-tb-login/config/config.default.js" timestamp="1592472082128" />
-      <file name="$USER_HOME$/miniapp-open/material/src/app/interface/app/index.ts" timestamp="1592484981594">
-        <mark key="[" line="2" column="39" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/interface/app/index.ts" timestamp="1592490341014">
+        <mark key="[" line="24" column="17" />
         <mark key="]" line="11" column="10" />
         <mark key="." line="11" column="10" />
       </file>
@@ -144,8 +151,8 @@
       <file name="$USER_HOME$/miniapp-open/material/node_modules/@ali/egg-tb-login/app/middleware/tb_login.js" timestamp="1592477336759">
         <mark key="[" line="42" column="6" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/user/getUser.ts" timestamp="1592485239407">
-        <mark key="[" line="11" column="3" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/user/getUser.ts" timestamp="1592490325156">
+        <mark key="[" line="9" column="32" />
         <mark key="]" line="12" column="2" />
         <mark key="." line="12" column="1" />
         <mark key="^" line="12" column="2" />
@@ -260,7 +267,7 @@
         <text>MaterialLib</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgY29uc3QgZG9tYWluID0gZ2V0RG9tYWluKGN0eCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>@interface</text>
@@ -283,30 +290,33 @@
         <text>ctx.app.config.mockUser</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgY29uc3QgZG9tYWluID0gZ2V0RG9tYWluKGN0eCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text encoding="base64">PEZvcm1JdGVtCgkJCQkJCWxhYmVsPSLpq5jluqYiCgkJCQkJCW5hbWU9ImhlaWdodCIKCQkJCQkJbGFiZWxDb2w9ezZ9CgkJCQkJCXdyYXBwZXJDb2w9ezE4fQoJCQkJCQlsYWJlbFRleHRBbGlnbj0ibGVmdCIKCQkJCQkJaW5pdFZhbHVlPXtkZWZhdWx0VmFsdWVzLmhlaWdodH0KCQkJCQk+CgkJCQkJCTxJbnB1dCAvPgoJCQkJCTwvRm9ybUl0ZW0+</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBkb21haW4gPSBnZXREb21haW4oY3R4KTsKCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zdCBkb21haW4gPSBnZXREb21haW4oY3R4KTsKCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgY29uc29sZS5sb2coMzMzLCB0YlVzZXIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCB0YlVzZXIgPSBhd2FpdCBnZXRUYW9iYW9Vc2VyKGN0eCk7Cg==</text>
+        <text encoding="base64">CiAgY29uc29sZS5sb2coMzMzLCB0YlVzZXIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgcmV0dXJuIGRvbWFpbiBhcyBET01BSU47Cg==</text>
+        <text encoding="base64">ICBjb25zdCB0YlVzZXIgPSBhd2FpdCBnZXRUYW9iYW9Vc2VyKGN0eCk7Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">CiAgcmV0dXJuIGRvbWFpbiBhcyBET01BSU47Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZygzMywgY3R4LnJlcS5oZWFkZXJzKQo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>const mockUser = ctx.app.config.mockUser;
       if (mockUser) {
         return mockUser;
@@ -315,9 +325,6 @@
       return {
         userid: '123',
       };</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coOTk5LCB1c2VyKTsK</text>
       </register>
       <register name=":" type="4">
         <text>22</text>
