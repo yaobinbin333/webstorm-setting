@@ -21,7 +21,6 @@
         <entry encoding="base64">XDx7XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>147</entry>
         <entry>195</entry>
         <entry>210</entry>
         <entry>1</entry>
@@ -41,6 +40,7 @@
         <entry>408</entry>
         <entry>23</entry>
         <entry>22</entry>
+        <entry>32</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -82,12 +82,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" timestamp="1592490815811">
-        <mark key="'" line="35" column="15" />
-        <mark key="[" line="41" column="53" />
-        <mark key="]" line="35" column="16" />
-        <mark key="^" line="73" column="4" />
-        <mark key="." line="35" column="16" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" timestamp="1592493650571">
+        <mark key="'" line="36" column="15" />
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="37" column="13" />
+        <mark key="^" line="33" column="0" />
+        <mark key="." line="37" column="13" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/middleware/auth.ts" timestamp="1592476657020">
         <mark key="[" line="9" column="0" />
@@ -266,11 +266,11 @@
       <register name="a" type="4">
         <text>MaterialLib</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgY29uc3QgZG9tYWluID0gZ2V0RG9tYWluKGN0eCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>this.where</text>
       </register>
       <register name="-" type="4">
-        <text>@interface</text>
+        <text>this.where</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -290,44 +290,37 @@
         <text>ctx.app.config.mockUser</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgY29uc3QgZG9tYWluID0gZ2V0RG9tYWluKGN0eCk7Cg==</text>
+        <text encoding="base64">ICAgIGRvbWFpbjogdGhpcy5jdHguZG9tYWluLAo=</text>
       </register>
       <register name="q" type="4">
         <text encoding="base64">PEZvcm1JdGVtCgkJCQkJCWxhYmVsPSLpq5jluqYiCgkJCQkJCW5hbWU9ImhlaWdodCIKCQkJCQkJbGFiZWxDb2w9ezZ9CgkJCQkJCXdyYXBwZXJDb2w9ezE4fQoJCQkJCQlsYWJlbFRleHRBbGlnbj0ibGVmdCIKCQkJCQkJaW5pdFZhbHVlPXtkZWZhdWx0VmFsdWVzLmhlaWdodH0KCQkJCQk+CgkJCQkJCTxJbnB1dCAvPgoJCQkJCTwvRm9ybUl0ZW0+</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgY29uc3QgZG9tYWluID0gZ2V0RG9tYWluKGN0eCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBkb21haW4gPSBnZXREb21haW4oY3R4KTsKCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjb25zdCBkb21haW4gPSBnZXREb21haW4oY3R4KTsKCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgY29uc29sZS5sb2coMzMzLCB0YlVzZXIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCB0YlVzZXIgPSBhd2FpdCBnZXRUYW9iYW9Vc2VyKGN0eCk7Cg==</text>
+        <text encoding="base64">CiAgY29uc29sZS5sb2coMzMzLCB0YlVzZXIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgcmV0dXJuIGRvbWFpbiBhcyBET01BSU47Cg==</text>
+        <text encoding="base64">ICBjb25zdCB0YlVzZXIgPSBhd2FpdCBnZXRUYW9iYW9Vc2VyKGN0eCk7Cg==</text>
       </register>
       <register name="8" type="2">
+        <text encoding="base64">CiAgcmV0dXJuIGRvbWFpbiBhcyBET01BSU47Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZygzMywgY3R4LnJlcS5oZWFkZXJzKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>const mockUser = ctx.app.config.mockUser;
-      if (mockUser) {
-        return mockUser;
-      }
-
-      return {
-        userid: '123',
-      };</text>
-      </register>
       <register name=":" type="4">
-        <text>22</text>
+        <text>32</text>
       </register>
     </registers>
   </component>
