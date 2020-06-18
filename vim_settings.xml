@@ -18,6 +18,7 @@
         <entry>var</entry>
         <entry encoding="base64">XDxjb252ZXJzYXRpb25JZFw+</entry>
         <entry encoding="base64">XDxjb25zdFw+</entry>
+        <entry encoding="base64">XDx7XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>147</entry>
@@ -97,10 +98,14 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/node_modules/_@ali_egg-tb-login@5.0.5@@ali/egg-tb-login/config/config.default.js" timestamp="1592472082128" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/interface/app/index.ts" timestamp="1592484981594">
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="11" column="10" />
+        <mark key="." line="11" column="10" />
+      </file>
       <file name="/JavaScript Console" timestamp="1592477651026">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/util/imageToolBox.js" timestamp="1592449146475" />
       <file name="$USER_HOME$/miniapp-open/material/src/app/service/user/userService.ts" timestamp="1592476392928">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -130,11 +135,21 @@
       <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialRelService.ts" timestamp="1592471112920">
         <mark key="[" line="23" column="24" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/config/config.default.ts" timestamp="1592477708630" />
+      <file name="$USER_HOME$/miniapp-open/material/src/config/config.default.ts" timestamp="1592484488946">
+        <mark key="[" line="23" column="11" />
+        <mark key="]" line="26" column="19" />
+        <mark key="." line="26" column="18" />
+        <mark key="^" line="26" column="19" />
+      </file>
       <file name="$USER_HOME$/miniapp-open/material/node_modules/@ali/egg-tb-login/app/middleware/tb_login.js" timestamp="1592477336759">
         <mark key="[" line="42" column="6" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/user/getUser.ts" timestamp="1592477793030" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/user/getUser.ts" timestamp="1592485239407">
+        <mark key="[" line="11" column="3" />
+        <mark key="]" line="12" column="2" />
+        <mark key="." line="12" column="1" />
+        <mark key="^" line="12" column="2" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="318" column="46" filename="$USER_HOME$/compiler/parserc/examples/HeraScript/parser.ts" />
@@ -248,7 +263,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>@user/getUser</text>
+        <text>@interface</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -262,7 +277,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25zdFw+</text>
+        <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="4">
         <text>ctx.app.config.mockUser</text>
@@ -274,28 +289,35 @@
         <text encoding="base64">PEZvcm1JdGVtCgkJCQkJCWxhYmVsPSLpq5jluqYiCgkJCQkJCW5hbWU9ImhlaWdodCIKCQkJCQkJbGFiZWxDb2w9ezZ9CgkJCQkJCXdyYXBwZXJDb2w9ezE4fQoJCQkJCQlsYWJlbFRleHRBbGlnbj0ibGVmdCIKCQkJCQkJaW5pdFZhbHVlPXtkZWZhdWx0VmFsdWVzLmhlaWdodH0KCQkJCQk+CgkJCQkJCTxJbnB1dCAvPgoJCQkJCTwvRm9ybUl0ZW0+</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCB0YlVzZXIgPSBhd2FpdCBnZXRUYW9iYW9Vc2VyKGN0eCk7Cg==</text>
+        <text encoding="base64">ICBjb25zdCBkb21haW4gPSBnZXREb21haW4oY3R4KTsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygxMjMsIHRiVXNlcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygyMjIyLCBjb25maWcpCg==</text>
+        <text encoding="base64">CiAgY29uc29sZS5sb2coMzMzLCB0YlVzZXIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBmdW5jdGlvbiBnZXRUYW9iYW9Vc2VyKCkge30K</text>
+        <text encoding="base64">ICBjb25zdCB0YlVzZXIgPSBhd2FpdCBnZXRUYW9iYW9Vc2VyKGN0eCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbW9jayB9IGZyb20gJ0BhbGkvbWlkd2F5LW1vY2svYm9vdHN0cmFwJzsK</text>
+        <text encoding="base64">CiAgcmV0dXJuIGRvbWFpbiBhcyBET01BSU47Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMzMzMywgY3R4LmFwcC5jb25maWcubW9ja1VzZXIpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygzMywgY3R4LnJlcS5oZWFkZXJzKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCkK</text>
+      <register name="8" type="4">
+        <text>const mockUser = ctx.app.config.mockUser;
+      if (mockUser) {
+        return mockUser;
+      }
+
+      return {
+        userid: '123',
+      };</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gQHRzLWlnbm9yZQogICAgICBjb25zb2xlLmxvZygxMTEsIGF3YWl0IGN0eC5hcHAuZ2V0QXBwbGljYXRpb25Db250ZXh0KCkuZ2V0QXN5bmMoVXNlclNlcnZpY2UpKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coOTk5LCB1c2VyKTsK</text>
       </register>
       <register name=":" type="4">
         <text>22</text>
@@ -304,9 +326,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjb25zdFw+</last-search>
+      <last-search encoding="base64">XDx7XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25zdFw+</last-pattern>
+      <last-pattern encoding="base64">XDx7XD4=</last-pattern>
       <last-replace>const</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>-1</last-dir>
