@@ -93,20 +93,21 @@
         <mark key="]" line="46" column="11" />
         <mark key="." line="46" column="11" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/middleware/auth.ts" timestamp="1592404766150">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/miniapp-open/material/node_modules/_@ali_egg-tb-login@5.0.5@@ali/egg-tb-login/app/middleware/tb_login.js" timestamp="1592472094835" />
-      <file name="$USER_HOME$/miniapp-open/material/logs/material/midway-web.log" timestamp="1592404644351">
-        <mark key="'" line="202" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/typings/message.ts" timestamp="1592449766196" />
-      <file name="$USER_HOME$/miniapp-open/material/src/app/constants/error.ts" timestamp="1592409380197" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialCategoryService.ts" timestamp="1592474031333">
+        <mark key="[" line="0" column="55" />
+      </file>
       <file name="$USER_HOME$/miniapp-open/material/node_modules/_@ali_egg-tb-login@5.0.5@@ali/egg-tb-login/config/config.default.js" timestamp="1592472082128" />
       <file name="$USER_HOME$/miniapp-open/material/node_modules/_egg-swagger@1.2.2@egg-swagger/app/public/index.html" timestamp="1592409401948" />
       <file name="$USER_HOME$/workspace/message/tb-im-h5/src/util/imageToolBox.js" timestamp="1592449146475" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/service/user/userService.ts" timestamp="1592474043966">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="0" column="24" />
+        <mark key="^" line="1" column="30" />
+        <mark key="." line="0" column="24" />
+      </file>
+      <file name="$USER_HOME$/miniapp-open/material/node_modules/egg/index.d.ts" timestamp="1592474289966" />
       <file name="$USER_HOME$/workspace/message/tb-im-h5/src/util/index.ts" timestamp="1592450264198">
         <mark key="[" line="171" column="18" />
       </file>
@@ -127,10 +128,11 @@
         <mark key="[" line="23" column="24" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialRel.ts" timestamp="1592416352461" />
-      <file name="$USER_HOME$/miniapp-open/material/src/config/config.default.ts" timestamp="1592473135646">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/miniapp-open/material/src/config/config.default.ts" timestamp="1592474386501">
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="1" column="29" />
+        <mark key="." line="1" column="29" />
+        <mark key="^" line="1" column="55" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/node_modules/@ali/egg-tb-login/app/middleware/tb_login.js" timestamp="1592420741046" />
       <file name="$USER_HOME$/miniapp-open/material/src/app/controller/materialRelController.ts" timestamp="1592411101691">
@@ -247,11 +249,11 @@
       <register name="a" type="4">
         <text>MaterialLib</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMjIyMik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>@service/user/userService</text>
       </register>
       <register name="-" type="4">
-        <text>msg.mcode.me</text>
+        <text>@service/user/userService</text>
       </register>
       <register name="m" type="4">
         <keys>
