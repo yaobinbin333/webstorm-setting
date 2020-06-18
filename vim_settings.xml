@@ -81,33 +81,36 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" timestamp="1592416738026">
-        <mark key="'" line="35" column="15" />
-        <mark key="[" line="35" column="17" />
-        <mark key="]" line="35" column="16" />
-        <mark key="^" line="69" column="4" />
-        <mark key="." line="35" column="16" />
-      </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialLib.ts" timestamp="1592416524221">
-        <mark key="[" line="19" column="53" />
-        <mark key="]" line="46" column="11" />
-        <mark key="." line="46" column="11" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/middleware/auth.ts" timestamp="1592476657020">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/node_modules/_@ali_egg-tb-login@5.0.5@@ali/egg-tb-login/app/middleware/tb_login.js" timestamp="1592472094835" />
       <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/typings/message.ts" timestamp="1592449766196" />
       <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialCategoryService.ts" timestamp="1592474031333">
         <mark key="[" line="0" column="55" />
       </file>
+      <file name="$USER_HOME$/miniapp-open/material/src/app/user/getTaobaoUser.ts" timestamp="1592477767504">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/miniapp-open/material/node_modules/_@ali_egg-tb-login@5.0.5@@ali/egg-tb-login/config/config.default.js" timestamp="1592472082128" />
-      <file name="$USER_HOME$/miniapp-open/material/node_modules/_egg-swagger@1.2.2@egg-swagger/app/public/index.html" timestamp="1592409401948" />
+      <file name="/JavaScript Console" timestamp="1592477651026">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/message/tb-im-h5/src/util/imageToolBox.js" timestamp="1592449146475" />
-      <file name="$USER_HOME$/miniapp-open/material/src/app/service/user/userService.ts" timestamp="1592474043966">
-        <mark key="[" line="9" column="17" />
-        <mark key="]" line="0" column="24" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/service/user/userService.ts" timestamp="1592476392928">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
         <mark key="^" line="1" column="30" />
-        <mark key="." line="0" column="24" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/node_modules/egg/index.d.ts" timestamp="1592474289966" />
+      <file name="$USER_HOME$/miniapp-open/material/tsconfig.json" timestamp="1592477483496">
+        <mark key="[" line="20" column="41" />
+      </file>
       <file name="$USER_HOME$/workspace/message/tb-im-h5/src/util/index.ts" timestamp="1592450264198">
         <mark key="[" line="171" column="18" />
       </file>
@@ -127,22 +130,13 @@
       <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialRelService.ts" timestamp="1592471112920">
         <mark key="[" line="23" column="24" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialRel.ts" timestamp="1592416352461" />
-      <file name="$USER_HOME$/miniapp-open/material/src/config/config.default.ts" timestamp="1592474386501">
-        <mark key="[" line="1" column="29" />
-        <mark key="]" line="1" column="29" />
-        <mark key="." line="1" column="29" />
-        <mark key="^" line="1" column="55" />
+      <file name="$USER_HOME$/miniapp-open/material/src/config/config.default.ts" timestamp="1592477708630" />
+      <file name="$USER_HOME$/miniapp-open/material/node_modules/@ali/egg-tb-login/app/middleware/tb_login.js" timestamp="1592477336759">
+        <mark key="[" line="42" column="6" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/node_modules/@ali/egg-tb-login/app/middleware/tb_login.js" timestamp="1592420741046" />
-      <file name="$USER_HOME$/miniapp-open/material/src/app/controller/materialRelController.ts" timestamp="1592411101691">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
+      <file name="$USER_HOME$/miniapp-open/material/src/app/user/getUser.ts" timestamp="1592477793030" />
     </filemarks>
     <jumps>
-      <jump line="324" column="4" filename="$USER_HOME$/compiler/parserc/examples/HeraScript/parser.ts" />
       <jump line="318" column="46" filename="$USER_HOME$/compiler/parserc/examples/HeraScript/parser.ts" />
       <jump line="847" column="0" filename="$USER_HOME$/compiler/parserc/src/parserc.ts" />
       <jump line="414" column="33" filename="$USER_HOME$/compiler/parserc/examples/HeraScript/lib/parser.ts" />
@@ -242,6 +236,7 @@
       <jump line="2" column="0" filename="$USER_HOME$/workspace/message/tb-im-h5/src/util/index.ts" />
       <jump line="240" column="8" filename="$USER_HOME$/workspace/message/tb-im-h5/src/actions/conversationChange.ts" />
       <jump line="116" column="8" filename="$USER_HOME$/workspace/message/tb-im-h5/src/actions/conversationChange.ts" />
+      <jump line="25" column="22" filename="$USER_HOME$/miniapp-open/material/src/config/config.default.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -249,11 +244,11 @@
       <register name="a" type="4">
         <text>MaterialLib</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>@service/user/userService</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>@service/user/userService</text>
+        <text>@user/getUser</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -269,38 +264,38 @@
       <register name="/" type="4">
         <text encoding="base64">XDxjb25zdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcmVsQm9keSA9IHsgc3RhdHVzLCBwdWJsaWM6IGlzUHVibGljLCB2ZXJzaW9uSWQ6IHZlcnNpb25JbnN0LmlkIH07Cg==</text>
+      <register name="0" type="4">
+        <text>ctx.app.config.mockUser</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMjIyMik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text encoding="base64">PEZvcm1JdGVtCgkJCQkJCWxhYmVsPSLpq5jluqYiCgkJCQkJCW5hbWU9ImhlaWdodCIKCQkJCQkJbGFiZWxDb2w9ezZ9CgkJCQkJCXdyYXBwZXJDb2w9ezE4fQoJCQkJCQlsYWJlbFRleHRBbGlnbj0ibGVmdCIKCQkJCQkJaW5pdFZhbHVlPXtkZWZhdWx0VmFsdWVzLmhlaWdodH0KCQkJCQk+CgkJCQkJCTxJbnB1dCAvPgoJCQkJCTwvRm9ybUl0ZW0+</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtc2cubWNvZGUubWVzc2FnZUlkIHx8IG1zZy5tY29kZS5jbGllbnRJZCwK</text>
+        <text encoding="base64">ICBjb25zdCB0YlVzZXIgPSBhd2FpdCBnZXRUYW9iYW9Vc2VyKGN0eCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygxMjMsIHRiVXNlcikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbXNnTGlzdC5mb3JFYWNoKChtc2c6IGFueSkgPT4gewogICAgICAgIGNvbnN0IG1zZ0VsZW1lbnQgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgKICAgICAgICAgIG1zZy5tY29kZS5tZXNzYWdlSWQgfHwgbXNnLm1jb2RlLmNsaWVudElkLAogICAgICAgICk7CiAgICAgICAgaWYgKG1zZ0VsZW1lbnQgJiYgbXNnRWxlbWVudC5xdWVyeVNlbGVjdG9yQWxsKCdpbWcnKSkgewogICAgICAgICAgbXNnRWxlbWVudC5xdWVyeVNlbGVjdG9yQWxsKCdpbWcnKS5mb3JFYWNoKChpbWc6IGFueSkgPT4gewogICAgICAgICAgICBpbWcub25sb2FkID0gKCkgPT4gewogICAgICAgICAgICAgIHZpZXdTdG9yZS5zY3JvbGxUb0JvdHRvbSgpOwogICAgICAgICAgICB9OwogICAgICAgICAgfSk7CiAgICAgICAgfQogICAgICB9KTs=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygyMjIyLCBjb25maWcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmdW5jdGlvbiBnZXRUYW9iYW9Vc2VyKCkge30K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IENvbnN0YW50cyBmcm9tICJAL2NvbnN0YW50cyI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgbW9jayB9IGZyb20gJ0BhbGkvbWlkd2F5LW1vY2svYm9vdHN0cmFwJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmNvbnN0IHNpbmdsZUltYWdlVG9vbEJveEJ1dHRvbiA9IFsKICB7CiAgICB0ZXh0OiBDb25zdGFudHMuQUREX0VYUFJFU1NJT04sCiAgICBhY3Rpb246ICdpbS51aXV0aWwuQWRkQXNFbW90aW9uJywKICAgIGNsczogJ2Vtb3QtaWNvbicsCiAgfSwKICB7CiAgICB0ZXh0OiBDb25zdGFudHMuU0FWRV9QSUNUVVJFLAogICAgYWN0aW9uOiAnaW0udWl1dGlsLlBpY1NhdmVBcycsCiAgICBjbHM6ICdzYXZlLWljb24nLAogIH0sCiAgewogICAgdGV4dDogQ29uc3RhbnRzLkVESVRfUElDVFVSRSwKICAgIGFjdGlvbjogJ2ltLnNpbmdsZW1zZy5FZGl0UGljMlNlbmRNc2cnLAogICAgY2xzOiAnZWRpdC1pY29uJywKICB9LApdOw==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMzMzMywgY3R4LmFwcC5jb25maWcubW9ja1VzZXIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIDIuIOWIneWni+WMluWbvueJh+W3peWFt+agjwo=</text>
+        <text encoding="base64">ICAgICAgaWYgKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gQHRzLWlnbm9yZQogICAgICBjb25zb2xlLmxvZygxMTEsIGF3YWl0IGN0eC5hcHAuZ2V0QXBwbGljYXRpb25Db250ZXh0KCkuZ2V0QXN5bmMoVXNlclNlcnZpY2UpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>22</text>
