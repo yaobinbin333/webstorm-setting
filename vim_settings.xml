@@ -77,17 +77,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" timestamp="1592553661191">
+      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" timestamp="1592554754504">
         <mark key="'" line="42" column="15" />
-        <mark key="[" line="31" column="7" />
+        <mark key="[" line="44" column="32" />
         <mark key="]" line="23" column="22" />
         <mark key="^" line="23" column="22" />
         <mark key="." line="23" column="21" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/controller/materialLibController.ts" timestamp="1592501867999">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/controller/materialLibController.ts" timestamp="1592554717473">
+        <mark key="'" line="4" column="12" />
+        <mark key="[" line="105" column="17" />
+        <mark key="]" line="105" column="22" />
+        <mark key="." line="105" column="21" />
+        <mark key="^" line="105" column="22" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/controller/materialTagController.ts" timestamp="1592502999672">
         <mark key="[" line="31" column="37" />
@@ -161,7 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="318" column="46" filename="$USER_HOME$/compiler/parserc/examples/HeraScript/parser.ts" />
       <jump line="847" column="0" filename="$USER_HOME$/compiler/parserc/src/parserc.ts" />
       <jump line="414" column="33" filename="$USER_HOME$/compiler/parserc/examples/HeraScript/lib/parser.ts" />
       <jump line="358" column="34" filename="$USER_HOME$/compiler/parserc/test/lang.test.ts" />
@@ -261,6 +262,7 @@
       <jump line="240" column="8" filename="$USER_HOME$/workspace/message/tb-im-h5/src/actions/conversationChange.ts" />
       <jump line="116" column="8" filename="$USER_HOME$/workspace/message/tb-im-h5/src/actions/conversationChange.ts" />
       <jump line="25" column="22" filename="$USER_HOME$/miniapp-open/material/src/config/config.default.ts" />
+      <jump line="26" column="12" filename="$USER_HOME$/miniapp-open/material/src/app/controller/materialLibController.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -269,10 +271,10 @@
         <text>MaterialLib</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>true</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -292,34 +294,34 @@
         <text>ctx.app.config.mockUser</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgY29uc3RhbnRzIGZyb20gJ0Bjb25zdGFudHMvaW5kZXgnOwppbXBvcnQgKiBhcyB1dGlscyBmcm9tICdAdXRpbHMvaW5kZXgnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGRhdGE6IHVwZGF0ZWQsCg==</text>
       </register>
       <register name="q" type="4">
         <text encoding="base64">PEZvcm1JdGVtCgkJCQkJCWxhYmVsPSLpq5jluqYiCgkJCQkJCW5hbWU9ImhlaWdodCIKCQkJCQkJbGFiZWxDb2w9ezZ9CgkJCQkJCXdyYXBwZXJDb2w9ezE4fQoJCQkJCQlsYWJlbFRleHRBbGlnbj0ibGVmdCIKCQkJCQkJaW5pdFZhbHVlPXtkZWZhdWx0VmFsdWVzLmhlaWdodH0KCQkJCQk+CgkJCQkJCTxJbnB1dCAvPgoJCQkJCTwvRm9ybUl0ZW0+</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0ICogYXMgY29uc3RhbnRzIGZyb20gJ0Bjb25zdGFudHMvaW5kZXgnOwppbXBvcnQgKiBhcyB1dGlscyBmcm9tICdAdXRpbHMvaW5kZXgnOwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICBjb25zdCB7IHBhZ2U6IG51bWJlciA9IDEsIHBhZ2Vfc2l6ZTogbnVtYmVyID0gMiB9ID0gdGhpcy5jdHgucmVxdWVzdC5xdWVyeTsKICAgIGNvbnN0IGxpbWl0ID0gcGFnZV9zaXplOwogICAgY29uc3Qgb2Zmc2V0ID0gKHBhZ2UgLSAxKSAqIHBhZ2Vfc2l6ZTs=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGRvbWFpbjogdGhpcy5jdHguZG9tYWluLAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CiAgY29uc3QgZG9tYWluID0gZ2V0RG9tYWluKGN0eCk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBkb21haW4gPSBnZXREb21haW4oY3R4KTsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBkb21haW4gPSBnZXREb21haW4oY3R4KTsKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgY29uc29sZS5sb2coMzMzLCB0YlVzZXIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>32</text>
