@@ -77,9 +77,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" timestamp="1592493650571">
+      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" timestamp="1592533141661">
         <mark key="'" line="36" column="15" />
-        <mark key="[" line="16" column="17" />
+        <mark key="[" line="41" column="40" />
         <mark key="]" line="37" column="13" />
         <mark key="^" line="33" column="0" />
         <mark key="." line="37" column="13" />
@@ -97,8 +97,8 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialRelService.ts" timestamp="1592471112920">
-        <mark key="[" line="23" column="24" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialRelService.ts" timestamp="1592533111584">
+        <mark key="[" line="24" column="24" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/src/config/config.default.ts" timestamp="1592502912686">
         <mark key="[" line="13" column="40" />
@@ -129,15 +129,11 @@
         <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/node_modules/_@ali_egg-tb-login@5.0.5@@ali/egg-tb-login/app/middleware/tb_login.js" timestamp="1592472094835" />
-      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialCategoryService.ts" timestamp="1592474031333">
-        <mark key="[" line="0" column="55" />
-      </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/user/getTaobaoUser.ts" timestamp="1592477767504">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/node_modules/_@ali_egg-tb-login@5.0.5@@ali/egg-tb-login/config/config.default.js" timestamp="1592472082128" />
       <file name="$USER_HOME$/miniapp-open/material/src/app/interface/app/index.ts" timestamp="1592502812061">
         <mark key="[" line="33" column="17" />
         <mark key="]" line="11" column="10" />
@@ -155,6 +151,9 @@
       <file name="$USER_HOME$/miniapp-open/material/node_modules/egg/index.d.ts" timestamp="1592474289966" />
       <file name="$USER_HOME$/miniapp-open/material/tsconfig.json" timestamp="1592477483496">
         <mark key="[" line="20" column="41" />
+      </file>
+      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialEntityService.ts" timestamp="1592533165708">
+        <mark key="[" line="36" column="40" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/node_modules/@ali/egg-tb-login/app/middleware/tb_login.js" timestamp="1592477336759">
         <mark key="[" line="42" column="6" />
