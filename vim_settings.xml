@@ -77,12 +77,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" timestamp="1592533141661">
-        <mark key="'" line="36" column="15" />
-        <mark key="[" line="41" column="40" />
-        <mark key="]" line="37" column="13" />
-        <mark key="^" line="33" column="0" />
-        <mark key="." line="37" column="13" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" timestamp="1592553661191">
+        <mark key="'" line="42" column="15" />
+        <mark key="[" line="31" column="7" />
+        <mark key="]" line="23" column="22" />
+        <mark key="^" line="23" column="22" />
+        <mark key="." line="23" column="21" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/controller/materialLibController.ts" timestamp="1592501867999">
         <mark key="[" line="32" column="0" />
@@ -129,6 +129,7 @@
         <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/node_modules/_@ali_egg-tb-login@5.0.5@@ali/egg-tb-login/app/middleware/tb_login.js" timestamp="1592472094835" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialCategoryService.ts" timestamp="1592553511877" />
       <file name="$USER_HOME$/miniapp-open/material/src/app/user/getTaobaoUser.ts" timestamp="1592477767504">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -267,11 +268,11 @@
       <register name="a" type="4">
         <text>MaterialLib</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgY29uc3RhbnRzIGZyb20gJ0Bjb25zdGFudHMvaW5kZXgnOwppbXBvcnQgKiBhcyB1dGlscyBmcm9tICdAdXRpbHMvaW5kZXgnOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="-" type="4">
-        <text>this.where</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="m" type="4">
         <keys>
