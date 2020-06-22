@@ -87,6 +87,24 @@
       <file name="$USER_HOME$/miniapp-open/material/src/config/config.local.ts" timestamp="1592558940336">
         <mark key="[" line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialLib.ts" timestamp="1592556089467">
+        <mark key="[" line="43" column="19" />
+        <mark key="]" line="43" column="19" />
+        <mark key="." line="43" column="19" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592559008754">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/miniapp-open/material/src/app/interface/material/tag.ts" timestamp="1592560192904">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="18" />
+      </file>
+      <file name="$USER_HOME$/miniapp-open/material/src/app/interface/material/category.ts" timestamp="1592560046215">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="23" />
+        <mark key="." line="5" column="23" />
+      </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/controller/materialLibController.ts" timestamp="1592556907049">
         <mark key="'" line="4" column="12" />
         <mark key="[" line="105" column="17" />
@@ -94,34 +112,33 @@
         <mark key="." line="105" column="21" />
         <mark key="^" line="105" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/actions/conversationChange.ts" timestamp="1592813495934">
+        <mark key="[" line="87" column="11" />
+        <mark key="]" line="81" column="12" />
+        <mark key="^" line="81" column="12" />
+        <mark key="." line="81" column="11" />
+      </file>
+      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialRelService.ts" timestamp="1592559999498">
+        <mark key="[" line="134" column="40" />
+        <mark key="^" line="26" column="11" />
+      </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/controller/materialTagController.ts" timestamp="1592560423682">
         <mark key="[" line="64" column="9" />
         <mark key="]" line="4" column="44" />
         <mark key="^" line="4" column="44" />
         <mark key="." line="4" column="43" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/middleware/pagination.ts" timestamp="1592503099725">
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialRel.ts" timestamp="1592556128258">
+        <mark key="[" line="49" column="20" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialCategory.ts" timestamp="1592556114267">
-        <mark key="[" line="38" column="15" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialCategoryService.ts" timestamp="1592560159197">
+        <mark key="'" line="4" column="43" />
+        <mark key="[" line="15" column="41" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/interface/material/category.ts" timestamp="1592560046215">
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="5" column="23" />
-        <mark key="." line="5" column="23" />
-      </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialRelService.ts" timestamp="1592559999498">
-        <mark key="[" line="134" column="40" />
-        <mark key="^" line="26" column="11" />
-      </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/config/config.default.ts" timestamp="1592502912686">
-        <mark key="[" line="13" column="40" />
-        <mark key="]" line="26" column="19" />
-        <mark key="." line="26" column="18" />
-        <mark key="^" line="26" column="19" />
+      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialEntityService.ts" timestamp="1592533165708">
+        <mark key="[" line="36" column="40" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/controller/materialRelController.ts" timestamp="1592560810785">
         <mark key="[" line="128" column="6" />
@@ -133,42 +150,20 @@
         <mark key="^" line="4" column="44" />
         <mark key="." line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialLib.ts" timestamp="1592556089467">
-        <mark key="[" line="43" column="19" />
-        <mark key="]" line="43" column="19" />
-        <mark key="." line="43" column="19" />
-      </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/interface/material/tag.ts" timestamp="1592560192904">
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="3" column="18" />
-        <mark key="." line="3" column="18" />
-      </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialCategoryService.ts" timestamp="1592560159197">
-        <mark key="'" line="4" column="43" />
-        <mark key="[" line="15" column="41" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="/JavaScript Console" timestamp="1592560871431">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialTag.ts" timestamp="1592556031381">
-        <mark key="[" line="38" column="15" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592559008754">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialRel.ts" timestamp="1592556128258">
-        <mark key="[" line="49" column="20" />
-      </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialEntityService.ts" timestamp="1592533165708">
-        <mark key="[" line="36" column="40" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/controller/materialCategoryController.ts" timestamp="1592560616851">
         <mark key="[" line="77" column="6" />
         <mark key="]" line="56" column="23" />
         <mark key="^" line="56" column="23" />
         <mark key="." line="56" column="22" />
+      </file>
+      <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialTag.ts" timestamp="1592556031381">
+        <mark key="[" line="38" column="15" />
+      </file>
+      <file name="$USER_HOME$/miniapp-open/material/src/app/models/MaterialCategory.ts" timestamp="1592556114267">
+        <mark key="[" line="38" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -279,11 +274,11 @@
       <register name="a" type="4">
         <text>MaterialLib</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB1dGlscy5yZXNwKHRoaXMuY3R4LCB7CiAgICAgICAgICBzdWNjZXNzOiBmYWxzZSwKICAgICAgICB9KTsK</text>
+      <register name="&quot;" type="4">
+        <text>{ reachBottom  }</text>
       </register>
       <register name="-" type="4">
-        <text>Context</text>
+        <text>{ reachBottom  }</text>
       </register>
       <register name="m" type="4">
         <keys>
