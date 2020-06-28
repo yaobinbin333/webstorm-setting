@@ -100,6 +100,7 @@
       <file name="/Dummy.txt" timestamp="1592559008754">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/components/AlistTemplateMessage.tsx" timestamp="1593333113846" />
       <file name="$USER_HOME$/miniapp-open/material/src/app/interface/material/tag.ts" timestamp="1592560192904">
         <mark key="[" line="3" column="18" />
         <mark key="]" line="3" column="18" />
@@ -141,9 +142,6 @@
         <mark key="[" line="15" column="41" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialEntityService.ts" timestamp="1592533165708">
-        <mark key="[" line="36" column="40" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/controller/materialRelController.ts" timestamp="1593328693824">
         <mark key="'" line="22" column="32" />
