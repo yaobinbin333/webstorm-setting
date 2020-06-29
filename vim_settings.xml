@@ -100,7 +100,9 @@
       <file name="/Dummy.txt" timestamp="1592559008754">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/components/AlistTemplateMessage.tsx" timestamp="1593333113846" />
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/components/AlistTemplateMessage.tsx" timestamp="1593397842331">
+        <mark key="[" line="66" column="27" />
+      </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/interface/material/tag.ts" timestamp="1592560192904">
         <mark key="[" line="3" column="18" />
         <mark key="]" line="3" column="18" />
