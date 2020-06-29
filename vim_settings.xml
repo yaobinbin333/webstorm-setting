@@ -100,8 +100,10 @@
       <file name="/Dummy.txt" timestamp="1592559008754">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/components/AlistTemplateMessage.tsx" timestamp="1593397842331">
-        <mark key="[" line="66" column="27" />
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/components/AlistTemplateMessage.tsx" timestamp="1593399135779">
+        <mark key="[" line="144" column="41" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/interface/material/tag.ts" timestamp="1592560192904">
         <mark key="[" line="3" column="18" />
@@ -281,7 +283,7 @@
         <text>MaterialLib</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDMzMywgdGhpcy5jdHgudXNlcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAvLyBkYW5nZXJvdXNseVNldElubmVySFRNTD17eyBfX2h0bWw6IHYgfX0K</text>
       </register>
       <register name="-" type="4">
         <text>{ reachBottom  }</text>
@@ -304,12 +306,27 @@
         <text encoding="base64">ICAgICAgICB1dGlscy5yZXNwKHRoaXMuY3R4LCB7CiAgICAgICAgICBzdWNjZXNzOiBmYWxzZSwKICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDMzMywgdGhpcy5jdHgudXNlcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAvLyBkYW5nZXJvdXNseVNldElubmVySFRNTD17eyBfX2h0bWw6IHYgfX0K</text>
       </register>
       <register name="q" type="4">
         <text encoding="base64">PEZvcm1JdGVtCgkJCQkJCWxhYmVsPSLpq5jluqYiCgkJCQkJCW5hbWU9ImhlaWdodCIKCQkJCQkJbGFiZWxDb2w9ezZ9CgkJCQkJCXdyYXBwZXJDb2w9ezE4fQoJCQkJCQlsYWJlbFRleHRBbGlnbj0ibGVmdCIKCQkJCQkJaW5pdFZhbHVlPXtkZWZhdWx0VmFsdWVzLmhlaWdodH0KCQkJCQk+CgkJCQkJCTxJbnB1dCAvPgoJCQkJCTwvRm9ybUl0ZW0+</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAvLyBkYW5nZXJvdXNseVNldElubmVySFRNTD17eyBfX2h0bWw6IHYgfX0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAvLyBkYW5nZXJvdXNseVNldElubmVySFRNTD17eyBfX2h0bWw6IHYgfX0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAvLyBkYW5nZXJvdXNseVNldElubmVySFRNTD17eyBfX2h0bWw6IHYgfX0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBkYW5nZXJvdXNseVNldElubmVySFRNTD17dn0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDMzMywgdGhpcy5jdHgudXNlcikK</text>
+      </register>
+      <register name="7" type="4">
         <text>const category = await this.materialCategoryService.getCategory(id);
     if (category) {
       utils.resp(this.ctx, {
@@ -322,26 +339,11 @@
       });
     }</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGlmIChpbnN0LnN0KQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiAgICBpZiAoaW5zdC5zdGF0dXMgPT09IGNvbnN0YW50cy5NYXRlcmlhbFN0YXR1cy5ERUwpIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKGNvbnN0YW50cy5lcnJvckNvZGUuTk9UX0VYSVNUUyk7CiAgICB9</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRhdGE6IHVwZGF0ZWQsCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgY29uc3RhbnRzIGZyb20gJ0Bjb25zdGFudHMvaW5kZXgnOwppbXBvcnQgKiBhcyB1dGlscyBmcm9tICdAdXRpbHMvaW5kZXgnOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBjb25zdCB7IHBhZ2U6IG51bWJlciA9IDEsIHBhZ2Vfc2l6ZTogbnVtYmVyID0gMiB9ID0gdGhpcy5jdHgucmVxdWVzdC5xdWVyeTsKICAgIGNvbnN0IGxpbWl0ID0gcGFnZV9zaXplOwogICAgY29uc3Qgb2Zmc2V0ID0gKHBhZ2UgLSAxKSAqIHBhZ2Vfc2l6ZTs=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRvbWFpbjogdGhpcy5jdHguZG9tYWluLAo=</text>
+        <text encoding="base64">CiAgICBpZiAoaW5zdC5zdGF0dXMgPT09IGNvbnN0YW50cy5NYXRlcmlhbFN0YXR1cy5ERUwpIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKGNvbnN0YW50cy5lcnJvckNvZGUuTk9UX0VYSVNUUyk7CiAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>32</text>
