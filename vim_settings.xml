@@ -87,11 +87,6 @@
         <mark key="]" line="198" column="0" />
         <mark key="." line="198" column="0" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/interface/material/tag.ts" timestamp="1592560192904">
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="3" column="18" />
-        <mark key="." line="3" column="18" />
-      </file>
       <file name="$USER_HOME$/workspace/message/tb-im-h5/src/actions/onMessageReadStatus.ts" timestamp="1593402071760">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -122,10 +117,11 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/actions/onReceiveNewMsg.ts" timestamp="1593502198432" />
       <file name="$USER_HOME$/workspace/message/tb-im-h5/src/components/EmojiMessage.tsx" timestamp="1593442193887" />
       <file name="$USER_HOME$/workspace/message/imkit.client.recent/src/convert/normal/subMsg/tempmsg.js" timestamp="1593497996526" />
       <file name="$USER_HOME$/workspace/message/tb-im-h5/src/components/MessageList.tsx" timestamp="1593486767932" />
-      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/actions/onMsgSendUpdate.ts" timestamp="1593487696347">
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/actions/onMsgSendUpdate.ts" timestamp="1593501689576">
         <mark key="'" line="39" column="6" />
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
@@ -137,16 +133,12 @@
         <mark key="^" line="81" column="12" />
         <mark key="." line="81" column="11" />
       </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/common/getNewMsg.ts" timestamp="1593502505524">
+        <mark key="[" line="36" column="9" />
+      </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/controller/materialRelController.ts" timestamp="1593336000924">
         <mark key="'" line="22" column="32" />
         <mark key="[" line="128" column="6" />
-      </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialTagService.ts" timestamp="1592560262726">
-        <mark key="'" line="4" column="32" />
-        <mark key="[" line="4" column="22" />
-        <mark key="]" line="4" column="22" />
-        <mark key="^" line="4" column="44" />
-        <mark key="." line="4" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/message/tb-im-h5/src/components/TemplateMessage.tsx" timestamp="1593402918179">
         <mark key="[" line="36" column="0" />
