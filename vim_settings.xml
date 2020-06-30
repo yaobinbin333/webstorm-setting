@@ -82,10 +82,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/components/AlistTemplateMessage.tsx" timestamp="1593486130247">
-        <mark key="[" line="189" column="0" />
-        <mark key="]" line="189" column="0" />
-        <mark key="." line="189" column="0" />
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/components/AlistTemplateMessage.tsx" timestamp="1593498585131">
+        <mark key="[" line="182" column="23" />
+        <mark key="]" line="182" column="23" />
+        <mark key="." line="182" column="23" />
+        <mark key="^" line="119" column="17" />
       </file>
       <file name="$USER_HOME$/miniapp-open/material/src/app/interface/material/tag.ts" timestamp="1592560192904">
         <mark key="[" line="3" column="18" />
@@ -109,12 +110,6 @@
         <mark key="^" line="4" column="44" />
         <mark key="." line="4" column="43" />
       </file>
-      <file name="$USER_HOME$/miniapp-open/material/src/app/service/material/materialCategoryService.ts" timestamp="1592560159197">
-        <mark key="'" line="4" column="43" />
-        <mark key="[" line="15" column="41" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/imsdk/index.ts" timestamp="1593432864501">
         <mark key="[" line="357" column="0" />
         <mark key="]" line="357" column="0" />
@@ -129,6 +124,7 @@
         <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/message/tb-im-h5/src/components/EmojiMessage.tsx" timestamp="1593442193887" />
+      <file name="$USER_HOME$/workspace/message/imkit.client.recent/src/convert/normal/subMsg/tempmsg.js" timestamp="1593497996526" />
       <file name="$USER_HOME$/workspace/message/tb-im-h5/src/components/MessageList.tsx" timestamp="1593486767932" />
       <file name="$USER_HOME$/workspace/message/tb-im-h5/src/actions/onMsgSendUpdate.ts" timestamp="1593487696347">
         <mark key="'" line="39" column="6" />
@@ -275,11 +271,11 @@
       <register name="a" type="4">
         <text>MaterialLib</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>genList</text>
       </register>
       <register name="-" type="4">
-        <text>label</text>
+        <text>genList</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -298,35 +294,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB1dGlscy5yZXNwKHRoaXMuY3R4LCB7CiAgICAgICAgICBzdWNjZXNzOiBmYWxzZSwKICAgICAgICB9KTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgey8qe3Z9Ki99CiAgICAgICAgICAgIDwvYT4=</text>
       </register>
       <register name="q" type="4">
         <text encoding="base64">PEZvcm1JdGVtCgkJCQkJCWxhYmVsPSLpq5jluqYiCgkJCQkJCW5hbWU9ImhlaWdodCIKCQkJCQkJbGFiZWxDb2w9ezZ9CgkJCQkJCXdyYXBwZXJDb2w9ezE4fQoJCQkJCQlsYWJlbFRleHRBbGlnbj0ibGVmdCIKCQkJCQkJaW5pdFZhbHVlPXtkZWZhdWx0VmFsdWVzLmhlaWdodH0KCQkJCQk+CgkJCQkJCTxJbnB1dCAvPgoJCQkJCTwvRm9ybUl0ZW0+</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICB2aWV3U3RvcmUuc2Nyb2xsVG9Cb3R0b20oKTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgey8qe3Z9Ki99CiAgICAgICAgICAgIDwvYT4=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygzMzMzMywgdHBsKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygzMzMzLCAnLT5vcmlnaW5hbF9pbmRleCcsdGVtcGxhdGUpOwoK</text>
+        <text encoding="base64">ICB2aWV3U3RvcmUuc2Nyb2xsVG9Cb3R0b20oKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygzMzMzLCBkYXRhKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygzMzMzMywgdHBsKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IGl0ZW0gPSBkYXRhW2ldOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygzMzMzLCAnLT5vcmlnaW5hbF9pbmRleCcsdGVtcGxhdGUpOwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHRtcEl0ZW0gPSB0bXBbaV07Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygzMzMzLCBkYXRhKTsKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IGl0ZW0gPSBkYXRhW2ldOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxTbmFwc2hvb3RNZXNzYWdlIGtleT17J2EnICsgaWR4fSBqc3ZpZXdWYWx1ZT17aXRlbS52YWx1ZX0gLz4KICAgICAgICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHRtcEl0ZW0gPSB0bXBbaV07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>32</text>
