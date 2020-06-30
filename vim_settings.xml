@@ -114,30 +114,27 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/middleware/messageQueue/index.ts" timestamp="1593540285954" />
       <file name="/" timestamp="1593524857191">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/imsdk/index.ts" timestamp="1593525112215" />
       <file name="$USER_HOME$/workspace/message/tb-im-h5/src/components/TemplateMessage.tsx" timestamp="1593402918179">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/service/messageChannelService.ts" timestamp="1593541469980">
-        <mark key="[" line="241" column="20" />
-        <mark key="]" line="231" column="0" />
-        <mark key="." line="231" column="0" />
+      <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/service/messageChannelService.ts" timestamp="1593544088649">
+        <mark key="'" line="80" column="26" />
+        <mark key="[" line="235" column="20" />
+        <mark key="]" line="225" column="0" />
+        <mark key="." line="225" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/constant/sdk.ts" timestamp="1593525115831">
         <mark key="[" line="112" column="0" />
         <mark key="]" line="112" column="0" />
         <mark key="." line="112" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/service/messageDB.ts" timestamp="1593525491798" />
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/compiler/parserc/examples/HeraScript/playground/src/examples/index.scss" />
       <jump line="321" column="56" filename="$USER_HOME$/compiler/parserc/examples/HeraScript/playground/config/webpack.config.js" />
       <jump line="19" column="18" filename="$USER_HOME$/compiler/parserc/test/examples/HeraScript.test.ts" />
       <jump line="51" column="58" filename="$USER_HOME$/compiler/parserc/examples/HeraScript/playground/src/examples/index.js" />
@@ -237,6 +234,7 @@
       <jump line="22" column="32" filename="$USER_HOME$/miniapp-open/material/src/app/controller/materialRelController.ts" />
       <jump line="22" column="29" filename="$USER_HOME$/workspace/message/tb-im-h5/src/actions/onMsgSendUpdate.ts" />
       <jump line="39" column="6" filename="$USER_HOME$/workspace/message/tb-im-h5/src/actions/onMsgSendUpdate.ts" />
+      <jump line="80" column="26" filename="$USER_HOME$/workspace/message/tb-im-sdk/src/service/messageChannelService.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
