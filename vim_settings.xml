@@ -82,6 +82,7 @@
         <mark key="]" line="247" column="0" />
         <mark key="." line="247" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/build/recent/im-sdk.js" timestamp="1593607661190" />
       <file name="$USER_HOME$/workspace/message/tb-im-h5/src/util/toast.js" timestamp="1593593974797">
         <mark key="[" line="14" column="22" />
       </file>
@@ -89,16 +90,12 @@
         <mark key="'" line="418" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/middleware/messageQueue/transformer/parseService.ts" timestamp="1593574920042" />
+      <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/imsdk/index.ts" timestamp="1593607452668" />
       <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/service/messageChannelService.ts" timestamp="1593544088649">
         <mark key="'" line="80" column="26" />
         <mark key="[" line="235" column="20" />
         <mark key="]" line="225" column="0" />
         <mark key="." line="225" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/constant/sdk.ts" timestamp="1593525115831">
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/message/tb-im-h5/src/actions/onReceiveNewMsg.ts" timestamp="1593586287486">
         <mark key="[" line="24" column="16" />
