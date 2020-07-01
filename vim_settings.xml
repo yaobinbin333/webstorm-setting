@@ -86,24 +86,18 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="229" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/actions/onMsgSendUpdate.ts" timestamp="1593501689576">
-        <mark key="'" line="39" column="6" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/message/tb-im-h5/src/actions/conversationChange.ts" timestamp="1593585203628">
         <mark key="[" line="81" column="106" />
-        <mark key="]" line="83" column="0" />
-        <mark key="^" line="83" column="0" />
-        <mark key="." line="83" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="^" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/common/getNewMsg.ts" timestamp="1593583830267">
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/common/getNewMsg.ts" timestamp="1593586446243">
         <mark key="'" line="36" column="39" />
-        <mark key="[" line="34" column="16" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="41" column="12" />
+        <mark key="[" line="41" column="57" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="42" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/message/tb-im-h5/src/store/viewStore.ts" timestamp="1593581831855">
         <mark key="'" line="109" column="2" />
@@ -147,6 +141,9 @@
         <mark key="[" line="112" column="0" />
         <mark key="]" line="112" column="0" />
         <mark key="." line="112" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/actions/onReceiveNewMsg.ts" timestamp="1593586287486">
+        <mark key="[" line="24" column="16" />
       </file>
     </filemarks>
     <jumps>
