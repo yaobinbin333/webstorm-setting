@@ -90,7 +90,9 @@
         <mark key="'" line="418" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/middleware/messageQueue/transformer/parseService.ts" timestamp="1593574920042" />
-      <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/imsdk/index.ts" timestamp="1593607452668" />
+      <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/imsdk/index.ts" timestamp="1593612110660">
+        <mark key="'" line="697" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/service/messageChannelService.ts" timestamp="1593544088649">
         <mark key="'" line="80" column="26" />
         <mark key="[" line="235" column="20" />
@@ -106,8 +108,8 @@
         <mark key="^" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/common/getNewMsg.ts" timestamp="1593586446243">
-        <mark key="'" line="36" column="39" />
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/common/getNewMsg.ts" timestamp="1593612078022">
+        <mark key="'" line="71" column="0" />
         <mark key="[" line="41" column="57" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
@@ -150,11 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="352" column="10" filename="$USER_HOME$/compiler/parserc/examples/HeraScript/lib/parser.ts" />
-      <jump line="33" column="17" filename="$USER_HOME$/compiler/parserc/examples/HeraScript/lib/parser.ts" />
-      <jump line="4" column="16" filename="$USER_HOME$/miniapp-open/material/src/interface/material.ts" />
-      <jump line="26" column="8" filename="$USER_HOME$/miniapp-open/material/src/app/model/mysql.ts" />
-      <jump line="12" column="14" filename="$USER_HOME$/miniapp-open/material/src/app.ts" />
       <jump line="16" column="3" filename="$USER_HOME$/miniapp-open/material/src/app/controller/tag.ts" />
       <jump line="2" column="35" filename="$USER_HOME$/miniapp-open/material/src/app/controller/tag.ts" />
       <jump line="26" column="4" filename="$USER_HOME$/miniapp-open/material/src/app/controller/category.ts" />
@@ -250,6 +247,11 @@
       <jump line="35" column="39" filename="$USER_HOME$/workspace/message/tb-im-h5/src/common/getNewMsg.ts" />
       <jump line="108" column="2" filename="$USER_HOME$/workspace/message/tb-im-h5/src/store/viewStore.ts" />
       <jump line="418" column="29" filename="$USER_HOME$/workspace/message/tb-im-sdk/src/typings/message.ts" />
+      <jump line="43" column="10" filename="$USER_HOME$/workspace/message/tb-im-h5/src/common/getNewMsg.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/message/tb-im-h5/src/common/getNewMsg.ts" />
+      <jump line="71" column="0" filename="$USER_HOME$/workspace/message/tb-im-h5/src/common/getNewMsg.ts" />
+      <jump line="38" column="35" filename="$USER_HOME$/workspace/message/tb-im-sdk/src/imsdk/index.ts" />
+      <jump line="697" column="0" filename="$USER_HOME$/workspace/message/tb-im-sdk/src/imsdk/index.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
