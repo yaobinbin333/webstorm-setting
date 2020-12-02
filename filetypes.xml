@@ -1,15 +1,11 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="1" type="HTML" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="scrollbarHelper" type="PLAIN_TEXT" />
-      <mapping ext="scs" type="PLAIN_TEXT" />
       <mapping ext="hera" type="PLAIN_TEXT" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
+      <mapping ext="scs" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
