@@ -1,0 +1,24 @@
+<keymap version="1" name="VSCode (macOS) copy" parent="VSCode OSX">
+  <action id="Console.TableResult.Reload" />
+  <action id="Git.Stage.Refresh" />
+  <action id="Github.PullRequest.Comments.Reload" />
+  <action id="Github.PullRequest.Details.Reload" />
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="shift meta comma" />
+  </action>
+  <action id="Refresh" />
+  <action id="Rerun" />
+  <action id="Svn.RefreshWorkingCopies" />
+  <action id="SwitcherIterateItems" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="Vcs.Log.Refresh" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+</keymap>
