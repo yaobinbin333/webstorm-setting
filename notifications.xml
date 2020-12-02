@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration" showBalloons="false">
+    <notification groupId="GitToolBox Fetch" displayType="TOOL_WINDOW" shouldLog="false" />
+  </component>
+</application>
