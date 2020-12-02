@@ -1,4 +1,4 @@
-<keymap version="1" name="VSCode (macOS) copy" parent="VSCode OSX">
+<keymap version="1" name="VSCode katherine" parent="VSCode OSX">
   <action id="Console.TableResult.Reload" />
   <action id="Git.Stage.Refresh" />
   <action id="Github.PullRequest.Comments.Reload" />
