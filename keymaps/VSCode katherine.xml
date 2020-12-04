@@ -1,5 +1,8 @@
 <keymap version="1" name="VSCode katherine" parent="VSCode OSX">
   <action id="Console.TableResult.Reload" />
+  <action id="Git.Rename.Local.Branch">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
   <action id="Git.Stage.Refresh" />
   <action id="Github.PullRequest.Comments.Reload" />
   <action id="Github.PullRequest.Details.Reload" />
