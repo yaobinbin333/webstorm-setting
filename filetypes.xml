@@ -8,6 +8,7 @@
       <mapping pattern="scrollbarHelper" type="PLAIN_TEXT" />
       <mapping ext="scs" type="PLAIN_TEXT" />
       <mapping ext="hera" type="PLAIN_TEXT" />
+      <mapping ext="xtpl" type="Twig" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
