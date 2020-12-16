@@ -3,8 +3,10 @@
     <option name="compactMenus" value="true" />
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
+    <option name="highlightColorEnabled" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
+    <option name="isHighlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
@@ -14,10 +16,11 @@
     <option name="useMaterialWallpapers" value="true" />
     <option name="customSidebarHeight" value="22" />
     <option name="treeFontSize" value="16" />
+    <option name="highlightThickness" value="3" />
     <option name="indicatorThickness" value="4" />
-    <option name="settingsSelectedTab" value="3" />
     <option name="tabsHeight" value="24" />
     <option name="accentColor" value="79cb60" />
+    <option name="highlightColor" value="1472ba" />
     <option name="selectedTheme" value="GITHUB" />
     <option name="userId" value="-65b467c7:1766bbbe102:-8000" />
     <option name="version" value="5.5.0" />
