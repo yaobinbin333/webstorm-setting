@@ -9,7 +9,6 @@
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="customSidebarHeight" value="22" />
@@ -17,8 +16,8 @@
     <option name="indicatorThickness" value="4" />
     <option name="settingsSelectedTab" value="3" />
     <option name="tabsHeight" value="24" />
-    <option name="accentColor" value="009688" />
-    <option name="selectedTheme" value="CUSTOM" />
+    <option name="accentColor" value="79cb60" />
+    <option name="selectedTheme" value="GITHUB" />
     <option name="userId" value="-65b467c7:1766bbbe102:-8000" />
     <option name="version" value="5.5.0" />
   </component>
