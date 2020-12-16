@@ -6,6 +6,10 @@
   <action id="Git.Stage.Refresh" />
   <action id="Github.PullRequest.Comments.Reload" />
   <action id="Github.PullRequest.Details.Reload" />
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="shift meta n" />
+  </action>
+  <action id="NewScratchFile" />
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
