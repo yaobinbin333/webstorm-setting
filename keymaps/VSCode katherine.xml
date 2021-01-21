@@ -18,6 +18,7 @@
   </action>
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="shift meta less" />
+    <keyboard-shortcut first-keystroke="shift meta comma" />
   </action>
   <action id="Refresh" />
   <action id="Rerun" />
