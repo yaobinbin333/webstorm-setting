@@ -4,14 +4,15 @@
     <property name="created">2020-06-30T21:36:24</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.0.0</property>
-    <property name="modified">2020-06-30T21:38:30</property>
+    <property name="modified">2021-02-21T01:06:58</property>
     <property name="originalScheme">Solarized Light (4lex4)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c4d4aa" />
@@ -1836,7 +1837,6 @@
         <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
-    <option name="PY.FUNC_DEFINITION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="9664ae" />
@@ -1867,7 +1867,6 @@
         <option name="FOREGROUND" value="5d9f6f" />
       </value>
     </option>
-    <option name="PY.STRING.U" baseAttributes="DEFAULT_STRING" />
     <option name="Predefined types">
       <value>
         <option name="FOREGROUND" value="2688d1" />
