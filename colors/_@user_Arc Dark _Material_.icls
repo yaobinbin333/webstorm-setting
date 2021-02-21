@@ -4,11 +4,11 @@
     <property name="created">2021-01-14T00:29:22</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.3.1.0.0</property>
-    <property name="modified">2021-01-28T15:11:45</property>
+    <property name="modified">2021-02-21T18:01:00</property>
     <property name="originalScheme">Arc Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -391,7 +391,6 @@
       <value>
         <option name="FOREGROUND" value="cda869" />
         <option name="EFFECT_COLOR" value="cda869" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
