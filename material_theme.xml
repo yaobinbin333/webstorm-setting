@@ -1,5 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactMenus" value="true" />
+    <option name="compactStatusBar" value="true" />
+    <option name="compactTables" value="true" />
+    <option name="highlightColorEnabled" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
@@ -20,7 +24,7 @@
     <option name="highlightColor" value="1472ba" />
     <option name="selectedTheme" value="ARC_DARK" />
     <option name="userId" value="-65b467c7:1766bbbe102:-8000" />
-    <option name="version" value="6.1.1" />
+    <option name="version" value="5.5.0" />
     <option name="tabHighlightPosition" value="Bottom" />
   </component>
 </application>
