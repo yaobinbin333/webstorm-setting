@@ -1,5 +1,8 @@
 <keymap version="1" name="VSCode katherine" parent="VSCode OSX">
   <action id="Console.TableResult.Reload" />
+  <action id="FileChooser.LightEditGotoOpenedFile">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
   <action id="Git.Rename.Local.Branch">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
