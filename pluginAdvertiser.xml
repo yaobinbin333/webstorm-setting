@@ -114,7 +114,7 @@
                   </entry>
                   <entry key="JBossConfiguration">
                     <value>
-                      <FeaturePluginData displayName="JBoss Server" pluginName="WildFly" pluginId="JBoss" bundled="true" />
+                      <FeaturePluginData displayName="JBoss/WildFly Server" pluginName="WildFly" pluginId="JBoss" bundled="true" />
                     </value>
                   </entry>
                   <entry key="JUnit">
@@ -179,7 +179,7 @@
                   </entry>
                   <entry key="MAKEFILE_TARGET_RUN_CONFIGURATION">
                     <value>
-                      <FeaturePluginData displayName="Makefile" pluginName="Makefile Language" pluginId="name.kropp.intellij.makefile" />
+                      <FeaturePluginData displayName="Makefile Target" pluginName="Makefile Language" pluginId="name.kropp.intellij.makefile" />
                     </value>
                   </entry>
                   <entry key="MavenRunConfiguration">
@@ -269,7 +269,7 @@
                   </entry>
                   <entry key="WebSphereRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="WebSphere Server" pluginName="WebSphere" pluginId="WebSphere" bundled="true" />
+                      <FeaturePluginData displayName="WebSphere/Liberty Server" pluginName="WebSphere" pluginId="WebSphere" bundled="true" />
                     </value>
                   </entry>
                   <entry key="XSLT">
@@ -397,11 +397,6 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
-                  <entry key="apk">
-                    <value>
-                      <FeaturePluginData displayName="Android application" pluginName="Android" pluginId="org.jetbrains.android" />
-                    </value>
-                  </entry>
                   <entry key="ear">
                     <value>
                       <FeaturePluginData displayName="Java EE Application: Archive" pluginName="Java EE Platform" pluginId="com.intellij.javaee" bundled="true" />
