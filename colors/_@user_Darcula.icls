@@ -4,13 +4,13 @@
     <property name="created">2020-06-30T21:30:28</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.0.0</property>
-    <property name="modified">2021-06-08T15:29:57</property>
+    <property name="modified">2021-06-08T20:38:55</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_NAME" value="Monaco" />
   <option name="CONSOLE_LIGATURES" value="true" />
 </scheme>
