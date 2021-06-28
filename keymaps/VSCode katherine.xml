@@ -1,5 +1,8 @@
 <keymap version="1" name="VSCode katherine" parent="VSCode OSX">
   <action id="Console.TableResult.Reload" />
+  <action id="Console.TableResult.SetDefault" />
+  <action id="Diff.ApplyLeftSide" />
+  <action id="Diff.ApplyRightSide" />
   <action id="FileChooser.LightEditGotoOpenedFile">
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
@@ -25,9 +28,14 @@
   </action>
   <action id="Refresh" />
   <action id="Rerun" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ShowContent">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
   <action id="Svn.RefreshWorkingCopies" />
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="TypeHierarchy" />
   <action id="Vcs.Log.Refresh" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
