@@ -1,4 +1,7 @@
 <keymap version="1" name="VSCode katherine" parent="VSCode OSX">
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
   <action id="Console.TableResult.Reload" />
   <action id="Console.TableResult.SetDefault" />
   <action id="Diff.ApplyLeftSide" />
