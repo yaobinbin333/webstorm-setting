@@ -1,4 +1,4 @@
-<keymap version="1" name="VSCode" parent="Mac OS X 10.5+">
+<keymap version="1" name="stickmyBasedOnVSCode" parent="Mac OS X 10.5+">
   <action id="$Delete">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
@@ -56,6 +56,9 @@
   </action>
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="f" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
   <action id="CodeInspection.OnEditor" />
   <action id="CollapseAll">
