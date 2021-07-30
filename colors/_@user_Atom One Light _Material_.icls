@@ -4,7 +4,7 @@
     <property name="created">2021-01-05T22:43:04</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2021-07-31T00:04:42</property>
+    <property name="modified">2021-07-28T20:16:14</property>
     <property name="originalScheme">Atom One Light (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -432,6 +432,7 @@
       <value>
         <option name="FOREGROUND" value="a626a4" />
         <option name="EFFECT_COLOR" value="a626a4" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
