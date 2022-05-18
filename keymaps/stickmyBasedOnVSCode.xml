@@ -150,9 +150,7 @@
   <action id="DomElementsTreeView.GotoDomElementDeclarationAction">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
-  <action id="EditSource">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
+  <action id="EditSource" />
   <action id="EditSourceInNewWindow">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="o" />
   </action>
@@ -321,8 +319,8 @@
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoDeclaration">
-    <keyboard-shortcut first-keystroke="f12" />
     <mouse-shortcut keystroke="meta button1" />
+    <keyboard-shortcut first-keystroke="meta b" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
@@ -371,9 +369,6 @@
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta r" />
   </action>
   <action id="HideAllWindows" />
-  <action id="HideSideWindows">
-    <keyboard-shortcut first-keystroke="meta b" />
-  </action>
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="meta divide" />
   </action>
@@ -409,6 +404,7 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
+  <action id="NavBar-navigate" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
@@ -450,6 +446,7 @@
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
+  <action id="ProjectViewEditSource" />
   <action id="PropertyInspectorActions.RemoveProperty">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
@@ -468,6 +465,7 @@
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="RecentChangedFiles" />
+  <action id="RecentLocations" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
   </action>
