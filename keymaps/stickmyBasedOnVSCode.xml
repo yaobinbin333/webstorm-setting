@@ -569,9 +569,6 @@
     <keyboard-shortcut first-keystroke="shift f12" />
   </action>
   <action id="SmartSelect" />
-  <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="meta back_slash" />
-  </action>
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f11" />
     <keyboard-shortcut first-keystroke="f7" />
