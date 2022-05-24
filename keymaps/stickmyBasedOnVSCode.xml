@@ -281,6 +281,9 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.LightEditGotoOpenedFile">
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+  </action>
   <action id="FileChooser.NewFile">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
