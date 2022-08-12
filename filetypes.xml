@@ -2,17 +2,18 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="1" type="HTML" />
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="scrollbarHelper" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="scs" type="PLAIN_TEXT" />
       <mapping ext="hera" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="tsx" approved="true" type="TypeScript" />
       <removed_mapping pattern="index.tsx" approved="true" type="AUTO_DETECTED" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="xtpl" type="Twig" />
     </extensionMap>
   </component>
