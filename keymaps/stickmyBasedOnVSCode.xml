@@ -648,6 +648,9 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="XDebugger.SetValue" />
+  <action id="copilot.openCopilot">
+    <keyboard-shortcut first-keystroke="shift meta 0" />
+  </action>
   <action id="hg4idea.QRefresh" />
   <action id="openAssertEqualsDiff" />
   <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorAndPreviewLayoutChangeAction">
