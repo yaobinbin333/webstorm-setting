@@ -1,0 +1,20 @@
+<templateSet group="prefine">
+  <template name="author" value="子肃" description="Author" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="tsi" value="// @ts-ignore" description="ts-ignore" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="**" value="/**&#10; * Created by $author$&#10; * @time: $date$ $time$&#10;*/&#10;&#10;$END$" description="header" toReformat="false" toShortenFQNames="true">
+    <variable name="author" expression="user()" defaultValue="" alwaysStopAt="false" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

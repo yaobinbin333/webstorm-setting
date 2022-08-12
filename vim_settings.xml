@@ -1,0 +1,377 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">XDx9XD4=</entry>
+        <entry encoding="base64">XDxpZlw+</entry>
+        <entry encoding="base64">XDwuXD4=</entry>
+        <entry encoding="base64">XDzliKnnlKjov5nkuKpcPg==</entry>
+        <entry encoding="base64">XDxwYXJhbVw+</entry>
+        <entry encoding="base64">XDx3aW5kb3dcPg==</entry>
+        <entry>component</entry>
+        <entry>'Text'</entry>
+        <entry>type</entry>
+        <entry>'Icon'</entry>
+        <entry>var</entry>
+        <entry encoding="base64">XDxjb252ZXJzYXRpb25JZFw+</entry>
+        <entry encoding="base64">XDxjb25zdFw+</entry>
+        <entry encoding="base64">XDx7XD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>195</entry>
+        <entry>210</entry>
+        <entry>1</entry>
+        <entry>lines</entry>
+        <entry>s/var/const/g</entry>
+        <entry>:%s/var/const/g</entry>
+        <entry>%s/var/const/g</entry>
+        <entry>71</entry>
+        <entry>174</entry>
+        <entry>900</entry>
+        <entry>.,$%s/var/const/g</entry>
+        <entry>778</entry>
+        <entry>395</entry>
+        <entry>398</entry>
+        <entry>135</entry>
+        <entry>406</entry>
+        <entry>408</entry>
+        <entry>23</entry>
+        <entry>22</entry>
+        <entry>32</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEY=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEs=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFI=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIE8=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFY=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEo=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEU=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFA=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIE0=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEc=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEk=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFM=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIDI=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEw=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEg=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">c2hpZnQgY3RybCBwcmVzc2VkIDI=</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/components/AlistTemplateMessage.tsx" timestamp="1593591089294">
+        <mark key="[" line="247" column="0" />
+        <mark key="]" line="247" column="0" />
+        <mark key="." line="247" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/static/im-sdk.js" timestamp="1593660613190">
+        <mark key="[" line="740" column="67" />
+      </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/build/recent/im-sdk.js" timestamp="1593660594095">
+        <mark key="[" line="741" column="25" />
+        <mark key="]" line="741" column="25" />
+        <mark key="." line="741" column="25" />
+        <mark key="^" line="740" column="66" />
+      </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/util/toast.js" timestamp="1593593974797">
+        <mark key="[" line="14" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/actions/handleCopy.ts" timestamp="1593682593916">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/middleware/messageQueue/transformer/parseService.ts" timestamp="1593681887376" />
+      <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/imsdk/index.ts" timestamp="1593681373554">
+        <mark key="'" line="710" column="0" />
+        <mark key="[" line="274" column="0" />
+        <mark key="]" line="284" column="50" />
+        <mark key="^" line="284" column="50" />
+        <mark key="." line="284" column="49" />
+      </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/components/BubbleMenu.tsx" timestamp="1593682696210">
+        <mark key="[" line="63" column="6" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="63" column="6" />
+        <mark key="." line="62" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/constant/sdk.ts" timestamp="1593681175098">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="2" />
+        <mark key="^" line="118" column="2" />
+        <mark key="." line="118" column="2" />
+      </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/actions/onReceiveNewMsg.ts" timestamp="1593586287486">
+        <mark key="[" line="24" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-sdk/index.d.ts" timestamp="1593681451937">
+        <mark key="[" line="70" column="58" />
+      </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/actions/conversationChange.ts" timestamp="1593661396000">
+        <mark key="[" line="103" column="18" />
+        <mark key="]" line="172" column="0" />
+        <mark key="^" line="171" column="6" />
+        <mark key="." line="172" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/common/getNewMsg.ts" timestamp="1593612078022">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="41" column="57" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="42" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/actions/handleRecall.ts" timestamp="1593681642363" />
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/components/MessageContainer.tsx" timestamp="1593584921922">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="57" column="39" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-sdk/src/typings/sdk.ts" timestamp="1593681275888">
+        <mark key="[" line="43" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/actions/registerListener.ts" timestamp="1593582892196">
+        <mark key="[" line="222" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/cache/emotion.ts" timestamp="1593587728136">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="3" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/constants/index.ts" timestamp="1593681569698">
+        <mark key="[" line="24" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/message/tb-im-h5/src/actions/jsViewUpdate.ts" timestamp="1593591093880">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="16" column="3" filename="$USER_HOME$/miniapp-open/material/src/app/controller/tag.ts" />
+      <jump line="2" column="35" filename="$USER_HOME$/miniapp-open/material/src/app/controller/tag.ts" />
+      <jump line="26" column="4" filename="$USER_HOME$/miniapp-open/material/src/app/controller/category.ts" />
+      <jump line="16" column="5" filename="$USER_HOME$/miniapp-open/material/src/app/controller/material.ts" />
+      <jump line="2" column="35" filename="$USER_HOME$/miniapp-open/material/src/app/controller/material.ts" />
+      <jump line="29" column="1" filename="$USER_HOME$/miniapp-open/material/src/app/controller/material.ts" />
+      <jump line="1" column="47" filename="$USER_HOME$/miniapp-open/material/src/app/controller/material.ts" />
+      <jump line="14" column="8" filename="$USER_HOME$/miniapp-open/material/src/app/controller/material.ts" />
+      <jump line="6" column="0" filename="$USER_HOME$/miniapp-open/material/src/app/models/MaterialCategory.ts" />
+      <jump line="22" column="0" filename="$USER_HOME$/miniapp-open/material/src/app/models/MaterialEntity.ts" />
+      <jump line="92" column="10" filename="$USER_HOME$/miniapp-open/material/src/app/models/MaterialEntity.ts" />
+      <jump line="7" column="0" filename="$USER_HOME$/miniapp-open/material/src/app/models/MaterialEntity.ts" />
+      <jump line="22" column="14" filename="$USER_HOME$/miniapp-open/material/src/app/controller/material.ts" />
+      <jump line="28" column="8" filename="$USER_HOME$/miniapp-open/material/src/app/controller/material.ts" />
+      <jump line="8" column="0" filename="$USER_HOME$/miniapp-open/material/src/app/controller/material.ts" />
+      <jump line="11" column="0" filename="$USER_HOME$/miniapp-open/material/src/app/controller/material.ts" />
+      <jump line="5" column="0" filename="$USER_HOME$/workspace/msg-packer/lib/commands/package.js" />
+      <jump line="3" column="30" filename="$USER_HOME$/workspace/msg-packer/lib/commands/package.js" />
+      <jump line="19" column="17" filename="$USER_HOME$/workspace/msg-packer/lib/upload.js" />
+      <jump line="35" column="29" filename="$USER_HOME$/workspace/msg-packer/lib/upload-to-oss.py" />
+      <jump line="30" column="55" filename="$USER_HOME$/workspace/msg-packer/lib/upload-to-oss.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/msg-packer/lib/upload-to-oss.py" />
+      <jump line="4" column="19" filename="$USER_HOME$/workspace/msg-packer/lib/archiver.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/msg-packer/lib/archiver.js" />
+      <jump line="49" column="0" filename="$USER_HOME$/workspace/msg-packer/lib/archiver.js" />
+      <jump line="22" column="9" filename="$USER_HOME$/miniapp-open/material/src/app/models/Npm.ts" />
+      <jump line="22" column="2" filename="$USER_HOME$/miniapp-open/material/src/app/service/material/entityService.ts" />
+      <jump line="30" column="17" filename="$USER_HOME$/miniapp-open/material/src/app/service/material/entityService.ts" />
+      <jump line="6" column="1" filename="$USER_HOME$/miniapp-open/material/src/app/constants/material.ts" />
+      <jump line="4" column="0" filename="$USER_HOME$/miniapp-open/material/src/app/constants/material.ts" />
+      <jump line="8" column="0" filename="$USER_HOME$/miniapp-open/material/src/app/service/material/materialRelService.ts" />
+      <jump line="42" column="2" filename="$USER_HOME$/miniapp-open/material/src/app/controller/materialRelController.ts" />
+      <jump line="30" column="35" filename="$USER_HOME$/miniapp-open/material/src/app/controller/materialRelController.ts" />
+      <jump line="39" column="8" filename="$USER_HOME$/miniapp-open/material/src/app/models/MaterialLib.ts" />
+      <jump line="14" column="0" filename="$USER_HOME$/miniapp-open/material/src/app/models/MaterialLib.ts" />
+      <jump line="16" column="5" filename="$USER_HOME$/miniapp-open/material/src/app/controller/materialLibController.ts" />
+      <jump line="4" column="9" filename="$USER_HOME$/miniapp-open/material/src/app/controller/materialLibController.ts" />
+      <jump line="15" column="24" filename="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" />
+      <jump line="22" column="52" filename="$USER_HOME$/miniapp-open/material/src/app/models/MaterialRel.ts" />
+      <jump line="68" column="0" filename="$USER_HOME$/miniapp-open/material/src/app/models/MaterialRel.ts" />
+      <jump line="156" column="4" filename="$USER_HOME$/workspace/kettle/config/proxy.js" />
+      <jump line="10" column="4" filename="$USER_HOME$/workspace/kettle/config/proxy.js" />
+      <jump line="11" column="25" filename="$USER_HOME$/workspace/kettle/config/proxy.js" />
+      <jump line="20" column="81" filename="$USER_HOME$/workspace/kettle/config/proxy.js" />
+      <jump line="21" column="30" filename="$USER_HOME$/workspace/kettle/config/proxy.js" />
+      <jump line="96" column="8" filename="$USER_HOME$/workspace/kettle/config/proxy.js" />
+      <jump line="17" column="8" filename="$USER_HOME$/compiler/Hera/Hera-Lang/src/core.ts" />
+      <jump line="137" column="17" filename="$USER_HOME$/compiler/Hera/Hera-Lang/src/core.ts" />
+      <jump line="609" column="0" filename="$USER_HOME$/compiler/Hera/Hera-Lang/src/core.ts" />
+      <jump line="1" column="0" filename="$USER_HOME$/compiler/Hera/Hera-Lang/src/core.ts" />
+      <jump line="575" column="0" filename="$USER_HOME$/compiler/Hera/Hera-Lang/src/core.ts" />
+      <jump line="9" column="0" filename="$USER_HOME$/compiler/Hera/Hera-Lang/src/core.ts" />
+      <jump line="586" column="20" filename="$USER_HOME$/compiler/Hera/Hera-Lang/src/core.ts" />
+      <jump line="217" column="2" filename="$USER_HOME$/compiler/Hera/Hera-Lang/src/core.ts" />
+      <jump line="3" column="0" filename="$USER_HOME$/compiler/Hera/Hera-Lang/src/core.ts" />
+      <jump line="46" column="0" filename="$USER_HOME$/miniapp-open/material/src/app/controller/materialLibController.ts" />
+      <jump line="1" column="47" filename="$USER_HOME$/miniapp-open/material/src/app/controller/materialLibController.ts" />
+      <jump line="35" column="0" filename="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" />
+      <jump line="1066" column="29" filename="$USER_HOME$/miniapp-open/material/node_modules/sequelize/types/lib/sequelize.d.ts" />
+      <jump line="7" column="0" filename="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" />
+      <jump line="61" column="1" filename="$USER_HOME$/miniapp-open/material/src/app/controller/materialLibController.ts" />
+      <jump line="77" column="4" filename="$USER_HOME$/miniapp-open/material/src/app/controller/materialLibController.ts" />
+      <jump line="13" column="14" filename="$USER_HOME$/miniapp-open/material/src/app/controller/materialLibController.ts" />
+      <jump line="65" column="62" filename="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" />
+      <jump line="60" column="5" filename="$USER_HOME$/miniapp-open/material/src/app/controller/materialRelController.ts" />
+      <jump line="3" column="0" filename="$USER_HOME$/miniapp-open/material/src/app/controller/materialRelController.ts" />
+      <jump line="72" column="21" filename="$USER_HOME$/miniapp-open/material/src/app/controller/materialRelController.ts" />
+      <jump line="2" column="0" filename="$USER_HOME$/miniapp-open/material/src/app/controller/materialRelController.ts" />
+      <jump line="64" column="32" filename="$USER_HOME$/miniapp-open/material/src/app/controller/materialRelController.ts" />
+      <jump line="6" column="0" filename="$USER_HOME$/miniapp-open/material/src/app/utils/response.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/miniapp-open/material/logs/material/common-error.log" />
+      <jump line="0" column="0" filename="$USER_HOME$/miniapp-open/material/logs/material/midway-agent.log" />
+      <jump line="0" column="0" filename="$USER_HOME$/miniapp-open/material/logs/material/midway-core.log" />
+      <jump line="22" column="40" filename="$USER_HOME$/miniapp-open/material/logs/material/midway-web.log" />
+      <jump line="3290" column="34" filename="$USER_HOME$/miniapp-open/material/logs/material/midway-core.log" />
+      <jump line="202" column="0" filename="$USER_HOME$/miniapp-open/material/logs/material/midway-web.log" />
+      <jump line="36" column="15" filename="$USER_HOME$/miniapp-open/material/src/app/service/material/materialLibService.ts" />
+      <jump line="2" column="36" filename="$USER_HOME$/workspace/message/tb-im-h5/src/actions/conversationChange.ts" />
+      <jump line="190" column="6" filename="$USER_HOME$/workspace/message/tb-im-h5/src/util/index.ts" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/message/tb-im-h5/src/util/index.ts" />
+      <jump line="240" column="8" filename="$USER_HOME$/workspace/message/tb-im-h5/src/actions/conversationChange.ts" />
+      <jump line="116" column="8" filename="$USER_HOME$/workspace/message/tb-im-h5/src/actions/conversationChange.ts" />
+      <jump line="25" column="22" filename="$USER_HOME$/miniapp-open/material/src/config/config.default.ts" />
+      <jump line="26" column="12" filename="$USER_HOME$/miniapp-open/material/src/app/controller/materialLibController.ts" />
+      <jump line="26" column="11" filename="$USER_HOME$/miniapp-open/material/src/app/service/material/materialCategoryService.ts" />
+      <jump line="4" column="43" filename="$USER_HOME$/miniapp-open/material/src/app/service/material/materialCategoryService.ts" />
+      <jump line="23" column="32" filename="$USER_HOME$/miniapp-open/material/src/app/service/material/materialTagService.ts" />
+      <jump line="22" column="32" filename="$USER_HOME$/miniapp-open/material/src/app/controller/materialRelController.ts" />
+      <jump line="22" column="29" filename="$USER_HOME$/workspace/message/tb-im-h5/src/actions/onMsgSendUpdate.ts" />
+      <jump line="39" column="6" filename="$USER_HOME$/workspace/message/tb-im-h5/src/actions/onMsgSendUpdate.ts" />
+      <jump line="80" column="26" filename="$USER_HOME$/workspace/message/tb-im-sdk/src/service/messageChannelService.ts" />
+      <jump line="37" column="10" filename="$USER_HOME$/workspace/message/tb-im-h5/src/common/getNewMsg.ts" />
+      <jump line="35" column="39" filename="$USER_HOME$/workspace/message/tb-im-h5/src/common/getNewMsg.ts" />
+      <jump line="108" column="2" filename="$USER_HOME$/workspace/message/tb-im-h5/src/store/viewStore.ts" />
+      <jump line="418" column="29" filename="$USER_HOME$/workspace/message/tb-im-sdk/src/typings/message.ts" />
+      <jump line="43" column="10" filename="$USER_HOME$/workspace/message/tb-im-h5/src/common/getNewMsg.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/message/tb-im-h5/src/common/getNewMsg.ts" />
+      <jump line="71" column="0" filename="$USER_HOME$/workspace/message/tb-im-h5/src/common/getNewMsg.ts" />
+      <jump line="38" column="35" filename="$USER_HOME$/workspace/message/tb-im-sdk/src/imsdk/index.ts" />
+      <jump line="697" column="0" filename="$USER_HOME$/workspace/message/tb-im-sdk/src/imsdk/index.ts" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="a" type="4">
+        <text>MaterialLib</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IENvbnN0YW50IGZyb20gIi4uL2NvbnN0YW50cyI7Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>actions.handleRecall(msg, e)</text>
+      </register>
+      <register name="m" type="4">
+        <keys>
+          <key char="94" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDx7XD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJcmV0dXJuIGludm9rZShDb25zdGFudC5TREsuU0lOR0xFX1NBRkVfUkVQT1JULCBwYXJhbSk7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IENvbnN0YW50IGZyb20gIi4uL2NvbnN0YW50cyI7Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text encoding="base64">PEZvcm1JdGVtCgkJCQkJCWxhYmVsPSLpq5jluqYiCgkJCQkJCW5hbWU9ImhlaWdodCIKCQkJCQkJbGFiZWxDb2w9ezZ9CgkJCQkJCXdyYXBwZXJDb2w9ezE4fQoJCQkJCQlsYWJlbFRleHRBbGlnbj0ibGVmdCIKCQkJCQkJaW5pdFZhbHVlPXtkZWZhdWx0VmFsdWVzLmhlaWdodH0KCQkJCQk+CgkJCQkJCTxJbnB1dCAvPgoJCQkJCTwvRm9ybUl0ZW0+</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHsgTXNnUmV2b2tlUmVzLCBNc2dSZWFkU3RhdHVzUmVzIH0gZnJvbSAic3JjL3R5cGluZ3MvZGF0YSI7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMzMzMywgZGF0YSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGdldE5ld01zZyh7IHNjcm9sbFRvQm90dG9tOiB0cnVlIH0pOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgbmV3TXNnTGlzdCA9IGF3YWl0IGdldE5ld01zZyh7IHNjcm9sbFRvQm90dG9tOiB0cnVlIH0pOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygzMzMzMywgbXNnRGF0YSk7Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>32</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDx7XD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDx7XD4=</last-pattern>
+      <last-replace>const</last-replace>
+      <last-substitute>var</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="7" enabled="true" />
+    <notifications>
+      <idea-join enabled="true" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>

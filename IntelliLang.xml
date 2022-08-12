@@ -1,0 +1,51 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="http-url-reference" injector-id="java">
+      <display-name>Android Volley (com.android.volley)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("ImageRequest").definedInClass("com.android.volley.toolbox.ImageRequest"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("JsonArrayRequest").definedInClass("com.android.volley.toolbox.JsonArrayRequest"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("JsonObjectRequest").withParameterCount(4).definedInClass("com.android.volley.toolbox.JsonObjectRequest"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("StringRequest").withParameterCount(3).definedInClass("com.android.volley.toolbox.StringRequest"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("JsonObjectRequest").withParameterCount(5).definedInClass("com.android.volley.toolbox.JsonObjectRequest"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("StringRequest").withParameterCount(4).definedInClass("com.android.volley.toolbox.StringRequest"))]]></place>
+    </injection>
+    <injection language="JSONPath" injector-id="java">
+      <display-name>JsonAsserter (com.jayway.jsonpath)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("assertEquals").definedInClass("com.jayway.jsonassert.JsonAsserter"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("assertNotDefined").definedInClass("com.jayway.jsonassert.JsonAsserter"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("assertNotNull").definedInClass("com.jayway.jsonassert.JsonAsserter"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("assertNull").definedInClass("com.jayway.jsonassert.JsonAsserter"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("assertThat").definedInClass("com.jayway.jsonassert.JsonAsserter"))]]></place>
+    </injection>
+    <injection language="http-url-reference" injector-id="java">
+      <display-name>OkHttp (okhttp3)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("parse", "get", "newBuilder").withParameters("java.lang.String").definedInClass("okhttp3.HttpUrl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("url").withParameters("java.lang.String").definedInClass("okhttp3.Request.Builder"))]]></place>
+    </injection>
+    <injection language="SQL" injector-id="java">
+      <display-name>Session.createNativeQuery (org.hibernate)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNativeQuery").definedInClass("org.hibernate.reactive.mutiny.Mutiny.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNativeQuery").definedInClass("org.hibernate.reactive.mutiny.Mutiny.StatelessSession"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNativeQuery").definedInClass("org.hibernate.reactive.stage.Stage.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNativeQuery").definedInClass("org.hibernate.reactive.stage.Stage.StatelessSession"))]]></place>
+    </injection>
+    <injection language="HQL" injector-id="java">
+      <display-name>Session.createQuery (org.hibernate)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").definedInClass("org.hibernate.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").definedInClass("org.hibernate.reactive.mutiny.Mutiny.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").definedInClass("org.hibernate.reactive.mutiny.Mutiny.StatelessSession"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").definedInClass("org.hibernate.reactive.stage.Stage.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").definedInClass("org.hibernate.reactive.stage.Stage.StatelessSession"))]]></place>
+    </injection>
+    <injection language="JSONPath" injector-id="java">
+      <display-name>WriteContext (com.jayway.jsonpath)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("add").definedInClass("com.jayway.jsonpath.WriteContext"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("delete").definedInClass("com.jayway.jsonpath.WriteContext"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("map").definedInClass("com.jayway.jsonpath.WriteContext"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("put").definedInClass("com.jayway.jsonpath.WriteContext"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("renameKey").definedInClass("com.jayway.jsonpath.WriteContext"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("set").definedInClass("com.jayway.jsonpath.WriteContext"))]]></place>
+    </injection>
+  </component>
+</application>
